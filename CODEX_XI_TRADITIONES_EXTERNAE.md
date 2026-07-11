@@ -10,9 +10,17 @@ El acceso a este tránsito se logra mediante trance inducido por percusión rít
 
 El uso más extendido de esta técnica es terapéutico: se documenta la enfermedad, en el marco de esta tradición, como la pérdida o captura de un fragmento del alma de la persona afectada por una fuerza ajena, y el procedimiento de sanación consiste en que el operador reproduzca en trance el mismo viaje necesario para localizar y recuperar ese fragmento, devolviéndolo a la persona afectada al regresar. El viaje se repite tantas veces como haga falta, y su éxito se mide por la mejora posterior de la persona, no por ningún signo perceptible durante el trance mismo.
 
-### Riesgos
+### La llamada y la crisis iniciática
 
-El riesgo central de esta práctica no es la hostilidad de lo que se encuentra en las regiones no ordinarias sino la posibilidad de que el operador no complete el retorno con la misma claridad con que inició el viaje: un trance sostenido más allá de lo que el propio cuerpo puede tolerar, o un intento de viaje sin el aliado adquirido en la formación inicial, se documenta asociado a desorientación prolongada tras el regreso, incapacidad de distinguir con claridad el estado ordinario del estado de trance durante un periodo posterior, y en los casos más severos del registro, dificultad para completar el retorno en absoluto sin asistencia externa.
+El acceso a esta práctica no se elige libremente en la mayoría de los casos documentados: quien está destinado a ejercerla atraviesa antes una crisis personal marcada por enfermedad prolongada sin causa identificable, sueños recurrentes de contenido idéntico, o episodios de comportamiento errático que la comunidad reconoce como distintos de una enfermedad ordinaria. Esta crisis no cede con ningún tratamiento convencional y solo remite cuando la persona afectada acepta la formación y comienza a ejercer la práctica de forma activa; los practicantes ya formados interpretan la crisis no como una dolencia a curar sino como una llamada a la que solo cabe responder, nunca resistir de forma indefinida.
+
+### Especializaciones
+
+No todo practicante formado ejerce las mismas funciones. Una especialización se dedica casi en exclusiva a la recuperación de almas descrita más arriba y a la sanación de dolencias sin causa física aparente. Otra actúa como guía de las almas de los recién fallecidos hacia la región inferior, acompañándolas en el tramo inicial del tránsito para asegurar que no queden atrapadas entre ambos estados —una función que conecta de forma directa con los fenómenos descritos en el Codex de los Espectros como aparición no resuelta—. Una tercera especialización, menos extendida pero documentada de forma consistente en varias tradiciones, ejerce influencia sobre fenómenos atmosféricos mediante el mismo procedimiento de trance, viajando específicamente a la región superior para negociar con las entidades asociadas al clima.
+
+### La búsqueda de visión
+
+Una variante de esta práctica no busca contacto con una entidad concreta sino claridad personal sobre un propósito o una decisión, y se ejecuta mediante aislamiento voluntario prolongado, con frecuencia en un entorno natural alejado de cualquier asentamiento, combinado con ayuno de duración comparable al descrito en el Codex de los Instrumentos. Aplican aquí exactamente los mismos riesgos fisiológicos ya señalados en esa sección: la privación sostenida de alimento combinada con aislamiento y exposición prolongada a los elementos exige límites de duración prudentes y no debe emprenderse sin conocimiento previo de la propia tolerancia física.
 
 ## Sectio II — Hadas y el otro mundo feérico
 
@@ -24,12 +32,4 @@ El fenómeno mejor documentado de contacto no deseado con esta orden es la sustr
 
 ### El hierro como barrera universal
 
-El metal forjado, en cualquiera de sus formas, es la protección documentada con mayor consistencia frente a esta orden en su totalidad: su sola presencia impide la actuación de la entidad, y el contacto directo con él la repele de forma instantánea. Las aplicaciones prácticas documentadas incluyen una herramienta afilada colocada con el filo hacia arriba en una chimenea, alfileres, tijeras o tenazas dispuestas sobre una cuna para impedir la sustitución de un infante, un cerrojo o pestillo de hierro en la entrada de una vivienda, y un hacha bajo la almohada de quien duerme. Tocar directamente con hierro a una entidad de esta orden, o a una persona bajo su influencia directa, se documenta como suficiente para romper el vínculo de forma inmediata.
-
-### Inversión como método de confusión
-
-Vestir una prenda del revés, o colocar el calzado en posición invertida, se documenta como método de protección de menor intensidad que el hierro pero consistente en su lógica: esta orden reacciona con desconcierto o con ofensa ante cualquier forma de desorden deliberado, lo cual puede emplearse tanto para pasar desapercibido como para romper la atención de una entidad ya interesada en un contacto no deseado.
-
-### El corro
-
-Un fenómeno específico y bien documentado es la formación de un corro visible sobre el terreno dentro del cual, según el registro, es posible ser atraído a danzar junto a entidades de esta orden sin poder detenerse ni salir por voluntad propia; quienes lo consiguen describen, al ser rescatados, una percepción del tiempo transcurrido muy inferior a la que en realidad ha pasado en el mundo ordinario. El método de rescate documentado con mayor consistencia es el contacto directo con hierro aplicado a la persona atrapada, consistente con el principio general ya expuesto sobre este metal.
+El metal forjado, en cualquiera de sus formas, es la protección documentada con mayor consistencia frente a esta orden en su totalidad: su sola presencia impide la actuación de la entidad, y e
