@@ -52,4 +52,52 @@ Tipo acuático. Habita cuerpos de agua profunda y antigua; se documenta con frec
 
 ### Gnomo
 
-Tipo terrestre. Humanoide de estatura reducida, habitante de cuevas y formaciones montañosas, guardián consistente de tesoros y de conocimiento oculto bajo tierra. Su disposición por defecto es neutral, y se documenta protector activo de quien respeta su territ
+Tipo terrestre. Humanoide de estatura reducida, habitante de cuevas y formaciones montañosas, guardián consistente de tesoros y de conocimiento oculto bajo tierra. Su disposición por defecto es neutral, y se documenta protector activo de quien respeta su territorio de forma sostenida en el tiempo.
+
+### Silfo
+
+Tipo aéreo. Ser alado de forma variable, con frecuencia descrito con rasgos de ave. De disposición rápida y caprichosa, documentado como juguetón en el contacto inicial pero capaz de reacción desproporcionada ante la provocación sostenida.
+
+## Orden Liminar
+
+### El co-caminante
+
+Entidad que replica con exactitud la forma de una persona viva concreta y actúa de manera independiente a la voluntad de esa persona, con frecuencia sin que la persona replicada tenga conocimiento de su existencia. Su percepción por terceros se documenta asociada, en algunas tradiciones, a un presagio sobre el destino de la persona original, aunque esta asociación no es uniforme entre fuentes.
+
+### El comensal parásito
+
+Entidad vinculada a una persona de apetito desmedido, que se alimenta de la esencia de lo que esa persona consume sin que la cantidad física de alimento disminuya de forma perceptible. Su presencia explica, dentro de esta tradición, casos de apetito extraordinario sin ganancia de peso ni saciedad correspondiente.
+
+## Orden Quimérica
+
+### Grifo
+
+Cuerpo de león, cabeza y alas de águila. Guardián de tesoros, habitante de montañas de difícil acceso, de inteligencia comparable a la humana y feroz en la defensa de su territorio.
+
+### Mantícora
+
+Cuerpo de león, rostro humano, cola de escorpión venenosa. Depredador activo capaz de abatir presas de tamaño considerable; su cola representa el riesgo primario de cualquier aproximación, con un alcance mayor del que su anatomía sugiere a primera vista.
+
+### Dragón
+
+Criatura de proporciones colosales, escamas de dureza metálica, alas de gran envergadura, y en la mayoría de variantes documentadas, capacidad de proyectar fuego. De inteligencia superior a la de cualquier otra entidad de su orden, acumulador de tesoro y capaz de causar destrucción a gran escala si se siente amenazado.
+
+### Sirena
+
+Torso humano femenino, cola de pez. Atrae a navegantes mediante el canto hacia el agua, con consecuencias documentadas de forma consistente como fatales para quien sigue el reclamo sin protección previa. El riesgo de esta entidad reside casi por completo en la exposición auditiva directa y sin barrera al canto, no en un ataque físico directo.
+
+### Basilisco
+
+Serpiente coronada por una cresta, o gallo con cola serpentina según la variante. Considerado el más letal de su orden: su aliento y su mera mirada matan por igual, y su contacto marchita cualquier vegetación y agrieta la piedra circundante. Documentado como vulnerable únicamente a dos agentes concretos: el enfrentamiento directo con una mustélida de tamaño pequeño, que lo doblega pese a la desproporción de tamaño, y el canto de un ave doméstica de corral, que le resulta letal por razones no explicadas en ninguna fuente. Cualquier aproximación a esta entidad sin uno de estos dos recursos disponibles debe descartarse por completo; no existe procedimiento de contención estándar que compense la exposición directa a su mirada.
+
+### Fénix
+
+Ave única de su especie, de plumaje intensamente coloreado, con un ciclo de vida de varios siglos de duración. Al sentir próximo el final de ese ciclo, construye una pira con ramas de plantas aromáticas, se posa sobre ella y la enciende exponiéndose al sol, para renacer de los restos. No se documenta como agresiva ni territorial bajo ninguna circunstancia; el único punto de interés práctico de esta entidad es el momento de su combustión, que algunas fuentes asocian a propiedades regenerativas transferibles a quien recoja sus cenizas antes de que se dispersen.
+
+### Unicornio
+
+Equino de cuerno único, recto y de gran dureza, situado en el centro de la frente. De naturaleza esquiva y prácticamente inaccesible a cualquier aproximación directa o forzada; el único método de contacto documentado con consistencia exige la presencia de una persona virgen, sentada en soledad en el territorio de la entidad, ante quien el unicornio se aproxima por voluntad propia y reposa la cabeza. Cualquier intento de aproximación fuera de esta condición específica se documenta como infructuoso, no como peligroso: esta entidad no ataca, simplemente no se deja alcanzar.
+
+## Nota sobre las órdenes no representadas aquí
+
+Las entidades de la Orden Espectral y las de la Orden Críptida no reciben ficha individual en este catálogo: la primera se desarrolla en detalle de caso en el Codex de los Espectros, donde el fenómeno documentado se describe mejor como patrón de manifestación que como individuo con identidad fija; la segunda cuenta con su propio Codex de Criptozoología, donde cada patrón de avistamiento recibe el mismo tratamiento de ficha que las entidades catalogadas aquí. Ambas decisiones son deliberadas y no un vacío de cobertura.
