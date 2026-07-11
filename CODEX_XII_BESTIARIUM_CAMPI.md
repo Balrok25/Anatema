@@ -101,3 +101,24 @@ Equino de cuerno único, recto y de gran dureza, situado en el centro de la fren
 ## Nota sobre las órdenes no representadas aquí
 
 Las entidades de la Orden Espectral y las de la Orden Críptida no reciben ficha individual en este catálogo: la primera se desarrolla en detalle de caso en el Codex de los Espectros, donde el fenómeno documentado se describe mejor como patrón de manifestación que como individuo con identidad fija; la segunda cuenta con su propio Codex de Criptozoología, donde cada patrón de avistamiento recibe el mismo tratamiento de ficha que las entidades catalogadas aquí. Ambas decisiones son deliberadas y no un vacío de cobertura.
+
+## Cuadro de vulnerabilidades documentadas
+
+Lo que sigue no introduce ningún dato nuevo: es una reunión en un solo punto de consulta de las vulnerabilidades específicas ya documentadas, entidad por entidad, dispersas a lo largo de los codices anteriores. Su propósito es exclusivamente de referencia rápida; para el procedimiento completo asociado a cada vulnerabilidad, remitirse siempre al Codex donde se describe originalmente.
+
+| Entidad | Vulnerabilidad documentada | Codex de origen |
+|---|---|---|
+| Basilisco | Enfrentamiento directo con una mustélida pequeña; el canto de un ave de corral doméstica le resulta letal | Bestiarium Campi, Orden Quimérica |
+| Unicornio | Solo se deja aproximar por una persona virgen, sentada en soledad en su territorio | Bestiarium Campi, Orden Quimérica |
+| Furfur | Falta a la verdad salvo que se le obligue a permanecer dentro del punto de manifestación en todo momento | Bestiarium Campi, Orden Adversarial |
+| Astaroth | El olor de su manifestación exige protección adicional distinta de la protección frente a agresión directa | Bestiarium Campi, Orden Adversarial |
+| Vampiro (patrón europeo) | Perforación del cuerpo con instrumento de madera afilado; en casos graves, separación de la cabeza | Codex de la Metamorfosis, Sectio III |
+| Difunto de riesgo (preventivo) | Hoz sobre la garganta, piedra en la boca, enterramiento boca abajo, decapitación preventiva, inmovilización con hierro o peso | Codex de la Metamorfosis, Sectio III |
+| Licántropo (variante europea) | Incautación o destrucción del cinturón o cíngulo que induce la transformación | Codex de la Metamorfosis, Sectio I |
+| Bruja identificada | Recipiente de retorno con fluido corporal de la víctima y objetos de hierro, enterrado bajo el hogar de la bruja | Codex de la Brujería, Sectio II |
+| Mal de ojo | Abalorio azul concéntrico, mano abierta, gesto de cuernos con el puño; objetos vegetales de olor intenso en la entrada del hogar | Codex de la Brujería, Sectio II |
+| Maleficio dirigido | Un maleficio mal dirigido o lanzado contra un objetivo protegido retorna sobre quien lo emite | Codex de las Artes Menores, Sectio I |
+| Objeto maldito o influjo doméstico | Contenedor de desvío enterrado en el punto de acceso más vulnerable de la vivienda | Codex de los Espectros, Sectio III |
+| Susto (pérdida de fragmento de alma) | Ceremonia de llamado del alma en el lugar del episodio original, con barrido de plantas | Codex de la Sanación Popular, Sectio II |
+
+Este cuadro se ampliará de forma natural a medida que se documenten nuevas entidades o procedimientos en codices posteriores; ninguna vulnerabilidad debe añadirse aquí sin que conste primero, de forma completa, en el Codex correspondiente.
