@@ -21,29 +21,29 @@ Sectio II. Magia angélica — Heptameron, Dee y Kelley
 Sectio III. Espíritus elementales — Paracelso
 Sectio IV. Necromancia
 
-## CODEX VI · ARTES MINORES (Las Artes Menores)
+## CODEX VI · CONTENTIO (La Contención)
+Sectio I. Pactos y negociación
+Sectio II. Exorcismo y neutralización
+
+## CODEX VII · ARTES MINORES (Las Artes Menores)
 Sectio I. Hechizos y maleficios
 Sectio II. Adivinación y contacto onírico
 Sectio III. Alquimia
 
-## CODEX VII · MALEFICIUM (La Brujería)
+## CODEX VIII · MALEFICIUM (La Brujería)
 Sectio I. Brujería y caza de brujas — aquelarre, familiares
 Sectio II. Maldiciones, mal de ojo y contramagia popular
 
-## CODEX VIII · METAMORPHOSIS (La Metamorfosis)
+## CODEX IX · METAMORPHOSIS (La Metamorfosis)
 Sectio I. Licantropía
 Sectio II. Cambiapieles — tradición cruzada (skinwalkers, kitsune y otras)
 Sectio III. Vampirismo
 
-## CODEX IX · SPECTRA (Los Espectros)
+## CODEX X · SPECTRA (Los Espectros)
 Sectio I. Fantasmas y aparecidos
 Sectio II. Posesión y fenómenos poltergeist
 Sectio III. Objetos malditos y lugares de poder
 
-## CODEX X · TRADITIONES EXTERNAE (Tradiciones Externas)
+## CODEX XI · TRADITIONES EXTERNAE (Tradiciones Externas)
 Sectio I. Chamanismo y viaje espiritual
-Sectio II. Hadas y el otro mundo feérico
-
-## CODEX XI · CONTENTIO (La Contención)
-Sectio I. Pactos y negociación
-Sectio II. Exorcismo y neu
+Sectio II. Hadas y el otro mu
