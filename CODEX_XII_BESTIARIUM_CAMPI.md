@@ -36,6 +36,110 @@ Conde, veintiséis legiones. Se manifiesta como un ciervo con la cola envuelta e
 
 Duque, veintiséis legiones. Se manifiesta con forma de soldado de vestimenta roja, montado en un caballo del mismo color y coronado. Responde con veracidad sobre pasado, presente y futuro, puede transmutar metales comunes en oro, y otorga dignidades y reconocimiento formal a quien lo solicita. Su voz se documenta como especialmente clara y persuasiva, rasgo que varias fuentes señalan como el mecanismo mismo de su engaño cuando decide falsear una respuesta: la claridad de la voz no debe confundirse con garantía de veracidad.
 
+### Vassago
+
+Príncipe, veintiséis legiones. De inclinación descrita como buena dentro de los términos de su propia orden. Revela el pasado y el futuro, y localiza objetos perdidos u ocultos con la misma precisión con la que otras entidades de rango similar localizan tesoros.
+
+### Sitri
+
+Príncipe, sesenta legiones. Se manifiesta primero como leopardo con alas de grifo, adoptando después forma humana de gran belleza a petición del operador. Inflama el afecto entre dos personas señaladas y, según el registro, induce a una de ellas a mostrarse desnuda ante la otra por voluntad propia como parte del proceso de atracción provocado.
+
+### Amon
+
+Marqués, cuarenta legiones. Lobo de cola serpentina que vomita llamas por la boca, o bien hombre con cabeza de cuervo y dentadura de perro según la variante consultada. Reconcilia amistades rotas de forma duradera y responde con veracidad sobre el pasado y el futuro.
+
+### Barbatos
+
+Duque, treinta legiones, cazador acompañado de cuatro reyes subordinados con sus respectivas compañías, precedido de trompetas. Comprende y transmite el lenguaje de todos los animales, deshace encantamientos ajenos, reconcilia a amigos y a gobernantes enfrentados, y revela tesoros ocultados por otros practicantes antes que él.
+
+### Beleth
+
+Rey, ochenta y cinco legiones. Llega montado a caballo pálido precedido de música ejecutada por toda clase de instrumentos, con una presencia inicial descrita como terrible y difícil de sostener. El procedimiento estándar de la Sectio I de este mismo Codex se documenta como insuficiente por sí solo frente a esta entidad: el operador debe además dirigir hacia el sudeste una vara de madera de avellano y trazar sobre ella el signo de la cruz, gesto específico que la obliga a adoptar un comportamiento respetuoso antes de proceder con cualquier solicitud. Provoca amor entre hombre y mujer cuando se le solicita.
+
+### Purson
+
+Rey, veintidós legiones. Rostro humano sobre cuerpo de león, portando una víbora, montado en un oso y precedido de trompetas. Conoce cosas ocultas, descubre tesoros, responde con veracidad sobre pasado, presente y futuro, y proporciona familiares de buena calidad a quien lo solicita.
+
+### Asmoday
+
+Rey, setenta y dos legiones. Tres cabezas —de toro, de hombre y de carnero—, cola de serpiente y pies palmípedos, montado en un dragón infernal y portando lanza y estandarte. Enseña aritmética, geometría, astronomía y oficios manuales, entrega un anillo descrito como portador de virtudes propias, otorga invisibilidad y custodia tesoros ocultos. Es uno de los nombres de esta orden con mayor presencia documental fuera del catálogo salomónico en sentido estricto, registrado también de forma independiente en fuentes apócrifas anteriores y en textos de exorcismo posteriores no relacionados directamente entre sí.
+
+### Marchosias
+
+Marqués, treinta legiones. Lobo con alas de grifo y cola de serpiente que vomita fuego por la boca, capaz de adoptar forma humana a petición del operador; combatiente formidable. El registro documenta que en origen perteneció a una jerarquía de rango angélico superior y que sostiene la expectativa de regresar a un séptimo trono tras un periodo de mil doscientos años de servicio, expectativa que ninguna fuente consultada documenta como cumplida en caso alguno.
+
+### Phenex
+
+Marqués, veinte legiones. Ave de apariencia semejante al ave fénix descrita en el Bestiario de Campo, con voz de niño y talento poético notable. Comparte con Marchosias la misma expectativa documentada de retorno a un origen angélico superior tras idéntico periodo de servicio, igualmente sin caso de cumplimiento registrado en ninguna fuente consultada.
+
+### Shax
+
+Marqués, treinta legiones. Paloma torcaz de voz ronca. Priva de la vista, el oído o el entendimiento a la persona que el operador señale, sustrae dinero de residencias de reyes y nobles, y proporciona familiares de apariencia satisfactoria. Se documenta de forma explícita como mentiroso por defecto salvo que se le obligue a permanecer dentro de un triángulo trazado fuera del círculo de protección, en lugar de en el punto de manifestación estándar descrito en el Codex de los Instrumentos: esta variante de contención reforzada se reserva en el registro para entidades de fiabilidad especialmente baja, y Shax es uno de los casos documentados con mayor consistencia que la requieren.
+
+### Vine
+
+Rey y Conde a la vez, treinta y seis legiones. León montado sobre caballo negro, portando una víbora. Descubre cosas ocultas, identifica brujas y hechicerías activas, construye torres, derriba murallas y provoca tormentas en el mar cuando se le solicita.
+
+### Focalor
+
+Duque, tres legiones. Provoca naufragios y ahoga a las personas señaladas agitando el mar con vientos violentos. Se documenta de forma explícita una restricción condicional poco frecuente en esta orden: si el operador se lo ordena de manera expresa durante la convocatoria, la entidad no causa daño alguno a ningún hombre ni mujer, restricción que varias fuentes presentan como vinculante una vez formulada.
+
+### Vepar
+
+Duque, veintinueve legiones. Sirena que gobierna las aguas y guía navíos de guerra provistos de armas y municiones. Provoca en el enemigo señalado por el operador llagas que se pudren y se llenan de gusanos, con desenlace mortal documentado a los tres días si la herida no recibe tratamiento adecuado en ese plazo.
+
+### Murmur
+
+Duque y Conde a la vez, treinta legiones. Soldado montado en un buitre grifo, coronado, precedido de dos ministros que tocan trompetas. Enseña filosofía y, de forma distintiva dentro de su orden, tiene la capacidad documentada de obligar a las almas de los difuntos a comparecer y responder preguntas directas — una capacidad que lo vincula de manera directa con el procedimiento necromántico descrito en la Sectio IV de este mismo Codex, y que algunas fuentes tratan como puente entre ambas órdenes.
+
+### Orobas
+
+Príncipe, veinte legiones. Caballo capaz de adoptar forma humana. Responde con veracidad sobre pasado, presente y futuro, y sobre la naturaleza divina y el origen del mundo. Se documenta con una consistencia poco habitual en su orden como leal al operador que lo convoca de forma correcta, sin ceder ante intentos de otras entidades de volverlo en contra de quien lo invocó.
+
+### Gremory
+
+Duque, veintiséis legiones. Mujer de gran belleza con corona ducal, montada en camello. Revela pasado, presente y futuro, descubre tesoros ocultos, y procura el afecto de mujeres señaladas por el operador, incluidas aquellas de rango social elevado.
+
+### Zagan
+
+Rey y Presidente a la vez, treinta y tres legiones. Toro con alas de grifo capaz de adoptar forma humana. Convierte el agua en vino y el vino en agua, la sangre en aceite y el aceite en sangre, transmuta metal común en moneda de curso legal, y convierte a los necios en personas de juicio agudo.
+
+### Andras
+
+Marqués, treinta legiones. Cuerpo y cabeza de ángel sobre cuerpo y cabeza de lobo negro, montado sobre ese mismo lobo y portando una espada afilada. Siembra discordia entre quienes se hallan en armonía. Se documenta como una de las entidades más peligrosas de manejar dentro de todo este catálogo: el registro atribuye a un descuido en su contención la muerte del propio operador o de sus asistentes en más de un caso, y ningún procedimiento con esta entidad debe ejecutarse sin la contención más estricta descrita en el Codex de los Instrumentos.
+
+### Haures
+
+Duque, veinte legiones según una fuente y treinta y seis según otra. Leopardo capaz de adoptar forma humana de semblante terrible y ojos de fuego. Responde con veracidad sobre pasado, presente, futuro y naturaleza divina únicamente si se le obliga a permanecer dentro del triángulo exterior, siguiendo la misma variante de contención reforzada descrita para Shax; fuera de él, miente y engaña con libertad sobre esos mismos asuntos. Combate contra otras entidades a petición del operador y puede destruirlas si se le ordena, pero no protege por iniciativa propia al operador de ataques de terceras entidades salvo instrucción explícita en ese sentido.
+
+### Belial
+
+Rey, ochenta legiones. Se manifiesta como dos ángeles hermosos sentados en un carro de fuego, con voz agradable. Distribuye favores, prelacías y el reconocimiento de cargos, y otorga por igual el favor de amigos y de enemigos. El registro lo sitúa como creado inmediatamente después de la primera de las dos autoridades paramount descritas en el Codex de la Naturaleza de las Entidades, lo cual se ofrece como explicación de un rango excepcional pese a no ocupar la cúspide de la jerarquía. Exige ofrendas, sacrificios y regalos concretos como condición previa para responder con veracidad, y el propio registro advierte que puede faltar a su palabra tanto si se le ofrece lo exigido como si no, por lo que ninguna promesa suya debe tratarse como garantía firme bajo ninguna circunstancia.
+
+### Seere
+
+Príncipe, veintiséis legiones. Hombre de gran belleza montado en un caballo alado. Se desplaza a cualquier punto del mundo en un tiempo extremadamente breve, descubre robos y tesoros ocultos, y proporciona familiares. Se documenta de disposición neutra, indiferente por naturaleza a la moralidad de la tarea que se le encomienda.
+
+### Dantalion
+
+Duque, treinta y seis legiones. Hombre de múltiples rostros —tantos como personas existen, masculinos y femeninos por igual— que porta un libro en la mano derecha. Enseña todas las artes y ciencias, declara los pensamientos secretos de cualquier persona señalada, altera la disposición amorosa de una persona hacia otra, y muestra la semejanza de cualquier persona, incluso a gran distancia, mediante una visión inducida.
+
+### Andromalius
+
+Conde, treinta y seis legiones. Hombre que sostiene una gran serpiente. Recupera bienes robados, descubre todo engaño o trato encubierto, y castiga a ladrones y a otras personas de conducta perniciosa. Es, dentro de su orden, uno de los pocos casos cuyo propósito documentado coincide de forma consistente con un resultado beneficioso para quien sufrió el agravio original que motivó la convocatoria.
+
+### Furcas
+
+Caballero, veinte legiones. Anciano de barba larga montado en caballo pálido, portando una lanza afilada. Enseña filosofía, retórica, lógica, astronomía, quiromancia y piromancia. Es la única entidad de esta lista catalogada bajo el rango de Caballero, el más bajo de los siete reconocidos en la jerarquía de esta orden, y su escolta y su protocolo de manifestación se documentan como notablemente más reducidos que los de cualquier Rey o Duque de esta misma lista.
+
+### Naberius
+
+Marqués, diecinueve legiones. Grulla que revolotea en torno al círculo emitiendo un sonido ronco antes de adoptar una forma parcialmente humana. Enseña con rapidez todas las artes y las ciencias, en particular la retórica, y restituye dignidades y honores que la persona beneficiaria hubiera perdido.
+
+### Nota sobre el rango y la escolta de manifestación
+
+La escala de rangos reconocida en esta orden —Rey, Duque, Príncipe o Marqués, Presidente, Conde, y Caballero, de mayor a menor— no es una simple etiqueta honorífica: se corresponde de forma consistente, a lo largo de todo este catálogo, con el tamaño de la escolta que acompaña la manifestación y con la exigencia de autoridad que el operador debe sostener durante el procedimiento. Un Rey se manifiesta con música, séquito y una presencia inicial que varias entidades de este rango documentan como deliberadamente abrumadora; un Caballero, como el caso único de Furcas recogido aquí, se manifiesta sin ese aparato y exige un sostenimiento de autoridad proporcionalmente menor. Ningún operador debe asumir que el procedimiento adecuado para una entidad de rango bajo es intercambiable con el de una de rango alto simplemente porque ambas pertenecen a la misma orden.
+
 ### Las dos autoridades paramount
 
 En la cúspide de la estructura invertida de once niveles descrita en el Codex de la Naturaleza de las Entidades se documentan dos autoridades que no responden al procedimiento estándar de invocación por nombre y sello: una figura masculina asociada al veneno y la ruptura, y una figura femenina asociada a la noche y a la sustracción de infantes, presentada con frecuencia como su consorte o su contraparte. Ambas exigen reconocimiento como pares antes de cualquier intercambio, y cualquier intento de tratarlas con la coerción estándar aplicable al resto de la orden se documenta como productor de manifestación hostil inmediata y sin negociación posible.
@@ -58,6 +162,10 @@ Tipo terrestre. Humanoide de estatura reducida, habitante de cuevas y formacione
 
 Tipo aéreo. Ser alado de forma variable, con frecuencia descrito con rasgos de ave. De disposición rápida y caprichosa, documentado como juguetón en el contacto inicial pero capaz de reacción desproporcionada ante la provocación sostenida.
 
+### Nota sobre la tradición de los genios
+
+Independiente por completo del sistema paracélsico de cuatro tipos descrito arriba, la tradición islámica documenta una categoría de entidad hecha de fuego sin humo, existente en paralelo a la humanidad y sujeta a las mismas obligaciones morales y a la misma capacidad de elección entre el bien y el mal que cualquier persona. Dentro de esta categoría general, dos subtipos se documentan con mayor consistencia por su capacidad y su disposición: uno de gran poder y frecuente inclinación hostil, registrado ya en fuentes coránicas junto al relato de Salomón, y otro asociado de forma específica al agua y al mar, de fuerza comparable pero de naturaleza más esquiva que directamente agresiva. Esta tradición no debe fusionarse ni con el sistema elemental de cuatro tipos ni con las entidades de la Orden Adversarial catalogadas más arriba: procede de un marco cosmológico propio, con reglas de contacto y de riesgo documentadas de forma independiente, y su tratamiento exhaustivo excede el alcance de esta entrada breve.
+
 ## Orden Liminar
 
 ### El co-caminante
@@ -67,6 +175,10 @@ Entidad que replica con exactitud la forma de una persona viva concreta y actúa
 ### El comensal parásito
 
 Entidad vinculada a una persona de apetito desmedido, que se alimenta de la esencia de lo que esa persona consume sin que la cantidad física de alimento disminuya de forma perceptible. Su presencia explica, dentro de esta tradición, casos de apetito extraordinario sin ganancia de peso ni saciedad correspondiente.
+
+### El acompañante asignado
+
+Documentado en la misma tradición islámica mencionada en la Orden Elemental, esta entidad se asigna de forma individual a cada persona desde su nacimiento y la acompaña de forma constante durante el resto de su vida, sin que la persona acompañada tenga por qué percibir su presencia de forma directa. A diferencia del co-caminante, no replica la forma de la persona a la que acompaña; su función documentada es la de una presencia próxima capaz de susurrar impulsos hacia el error moral, sin capacidad de forzar la voluntad de la persona en ningún caso. Algunas fuentes dentro de la misma tradición sostienen que esta entidad puede reconducirse hacia una influencia neutra o incluso favorable mediante la práctica religiosa sostenida de la persona a la que acompaña, lo cual la distingue de las dos entidades anteriores de esta misma Orden, ninguna de las cuales se documenta como sujeta a modificación por conducta del afectado.
 
 ## Orden Quimérica
 
