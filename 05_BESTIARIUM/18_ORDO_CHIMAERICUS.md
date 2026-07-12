@@ -354,28 +354,6 @@ Serpiente de proporciones tan vastas que su cuerpo rodea por completo la masa de
 
 Entidad marina de proporciones colosales documentada desde crónicas noruegas medievales y descrita con mayor detalle en un tratado de historia natural escandinavo del siglo XVIII, donde se le atribuye un tamaño suficiente para ser confundido con una isla cuando permanece inmóvil en la superficie. Su hundimiento repentino se documenta como generador de un remolino capaz de arrastrar consigo una embarcación entera. Buena parte del registro moderno de avistamientos de esta figura se ha reevaluado como encuentros con cefalópodos de gran tamaño ya confirmados por la zoología convencional, sin que ello agote por completo el registro histórico anterior a esa identificación.
 
-### Rakshasa
-
-*Orden / Clasificación: Quimérica*
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Peligrosidad:** Alta
-
-**Actuación:** Emplear fuego o fórmulas rituales de protección; esperar el amanecer reduce su capacidad de acción.
-
-**Vulnerabilidades:** Fuego, fórmulas rituales de protección, amanecer
-
-**Capacidades documentadas:** Cambio de forma a voluntad; apetito por carne humana
-
-**Territorio:** Lugares de cremación o enterramiento
-
-**Actividad:** Preferentemente nocturna
-
-**Invocable:** No, entidad de encuentro
-
-Entidad de la tradición india capaz de cambiar de forma a voluntad, descrita con mayor frecuencia con colmillos, garras y apetito por carne humana, aunque también documentada adoptando apariencia humana convincente durante periodos prolongados. Activa preferentemente de noche y en lugares de cremación o enterramiento, se documenta debilitada por el fuego, por fórmulas rituales específicas de protección, y por el amanecer, momento en el que buena parte del registro coincide en que pierde capacidad de acción.
-
 ### Naga
 
 *Orden / Clasificación: Quimérica*

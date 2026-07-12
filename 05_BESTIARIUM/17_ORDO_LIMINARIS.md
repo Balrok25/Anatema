@@ -112,28 +112,6 @@ Entidad de tamaño reducido documentada en el folclore de la península ibérica
 
 Guardián de tamaño reducido, semejante a un niño, documentado en la tradición maya yucateca como protector de la milpa o parcela de cultivo. Se documenta invocado de forma deliberada por el propio agricultor mediante una ceremonia de consagración de una pequeña figura de piedra o arcilla colocada en el terreno, tras la cual la entidad protege la cosecha de intrusos y de otros animales durante un periodo fijo, tradicionalmente de varios años. Cumplido ese periodo, la tradición exige "cerrar" al alux mediante un ritual específico que le retira su función activa; el registro documenta de forma consistente que omitir este cierre convierte a la entidad, antes protectora, en una fuente de travesuras y de mala fortuna para el propio agricultor que la invocó.
 
-### Tokoloshe
-
-*Orden / Clasificación: Liminar*
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Peligrosidad:** Alta
-
-**Actuación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. Elevar la cama sobre ladrillos u otro soporte.
-
-**Vulnerabilidades:** Elevar la cama sobre ladrillos u otro soporte, por encima de la altura que la entidad puede alcanzar
-
-**Capacidades documentadas:** Parálisis del sueño, ruidos, presión sobre el pecho de la persona afectada
-
-**Territorio:** Vivienda de la persona afectada
-
-**Actividad:** Nocturna
-
-**Invocable:** No, contacto por reciprocidad, no por convocatoria
-
-Entidad de pequeño tamaño documentada en el folclore zulú y de otras comunidades del sur de África, invocada con frecuencia por un practicante de brujería o por un adivino a petición de una tercera persona con intención de perjudicar a alguien concreto, aunque también documentada actuando de forma espontánea sin invocación previa. Se manifiesta durante la noche, con frecuencia asociada a parálisis del sueño, ruidos y una sensación de presión sobre el pecho de la persona afectada. La medida de protección doméstica documentada con mayor consistencia, y todavía practicada en la actualidad, consiste en elevar la cama sobre ladrillos u otro soporte, partiendo del principio de que esta entidad no puede alcanzar a una persona dormida por encima de una altura mínima determinada.
-
 ### Zashiki-warashi
 
 *Orden / Clasificación: Liminar*
@@ -375,6 +353,28 @@ Entidad de figura humana de cintura para arriba y equina de cintura para abajo, 
 **Invocable:** No, contacto por reciprocidad, no por convocatoria
 
 Guardián de la naturaleza y de tesoros ocultos, subordinado en el registro a una figura de autoridad que encabeza a toda esta categoría como señor de la riqueza del mundo. Su disposición general se documenta como benévola y generosa hacia quien respeta el lugar natural que custodia, aunque el mismo registro documenta también un margen consistente de conducta caprichosa o violenta que impide tratarlo como uniformemente seguro.
+
+### Anansi
+
+*Orden / Clasificación: Liminar, figura embaucadora, origen en África occidental*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja; embaucador antes que dañino
+
+**Actuación:** No se documenta procedimiento de convocatoria ceremonial; el registro lo trata como protagonista narrativo antes que como entidad invocable con fines de servicio.
+
+**Vulnerabilidades:** No documentadas
+
+**Capacidades documentadas:** Ingenio superior a la fuerza física; capacidad de adoptar forma de araña o forma humana a voluntad; propietario original de la totalidad de las historias del mundo, obtenidas mediante astucia y no mediante fuerza
+
+**Territorio:** No documentado
+
+**Actividad:** No documentada
+
+**Invocable:** No documentado como convocable por procedimiento ceremonial
+
+Figura embaucadora de origen en África occidental, documentada como el propietario original de todas las historias del mundo, obtenidas de la divinidad del cielo mediante el cumplimiento de tareas que parecían imposibles usando el ingenio en lugar de la fuerza. Sobrevivió como figura central del acervo narrativo de las comunidades afrodescendientes trasladadas por la fuerza a América, donde se conserva bajo variantes regionales del mismo nombre.
 
 ### Nota sobre la fórmula de paso
 

@@ -2,7 +2,7 @@
 
 ## Nota editorial sobre esta Orden
 
-Ediciones anteriores de este compendio sostuvieron que la Orden Espectral no admitía ficha individual, con el argumento de que un fantasma se describe mejor como patrón de manifestación ligado a un lugar o un incidente concreto que como individuo con identidad estable y repetible. Ese argumento se mantiene válido para la práctica totalidad del contenido reunido en el Codex de los Espectros (posesión, objetos malditos, marco de investigación) y sigue siendo la razón por la que ese Codex no cataloga fichas individuales. Las veinte fichas reunidas aquí son la excepción deliberada a esa regla: no son casos ligados a un incidente único sino tipos documentados de forma independiente en tradiciones distintas, con comportamiento, territorio y respuesta documentada consistentes entre avistamientos, exactamente la misma condición que justifica una ficha en cualquier otra Orden de este Bestiario. Su comportamiento se documenta, no se ejecuta un procedimiento de invocación para producirlo: ninguna de estas entidades es invocable, y la columna "Actuación" recoge la respuesta documentada ante un encuentro, no un protocolo de convocatoria. Debe señalarse además que una parte de estas fichas —el Fetch, la Mara, la Pesanta, el Batibat y la Boo Hag— no deriva de una consciencia humana fallecida, condición que define a esta Orden en el Codex de la Naturaleza de las Entidades: se conservan aquí por su patrón de manifestación espectral y nocturna y por la consistencia de su registro, y su posible reclasificación queda anotada como pendiente.
+Ediciones anteriores de este compendio sostuvieron que la Orden Espectral no admitía ficha individual, con el argumento de que un fantasma se describe mejor como patrón de manifestación ligado a un lugar o un incidente concreto que como individuo con identidad estable y repetible. Ese argumento se mantiene válido para la práctica totalidad del contenido reunido en el Codex de los Espectros (posesión, objetos malditos, marco de investigación) y sigue siendo la razón por la que ese Codex no cataloga fichas individuales. Las veintiuna fichas reunidas aquí son la excepción deliberada a esa regla: no son casos ligados a un incidente único sino tipos documentados de forma independiente en tradiciones distintas, con comportamiento, territorio y respuesta documentada consistentes entre avistamientos, exactamente la misma condición que justifica una ficha en cualquier otra Orden de este Bestiario. Su comportamiento se documenta, no se ejecuta un procedimiento de invocación para producirlo: ninguna de estas entidades es invocable, y la columna "Actuación" recoge la respuesta documentada ante un encuentro, no un protocolo de convocatoria. Debe señalarse además que una parte de estas fichas —el Fetch, la Mara, la Pesanta, el Batibat, la Boo Hag y el Tokoloshe— no deriva de una consciencia humana fallecida, condición que define a esta Orden en el Codex de la Naturaleza de las Entidades: se conservan aquí por su patrón de manifestación espectral y nocturna y por la consistencia de su registro, y su posible reclasificación queda anotada como pendiente.
 
 ### Banshee
 
@@ -376,7 +376,7 @@ Entidad documentada en su tradición de origen como el destino post mortem de un
 
 **Invocable:** No
 
-Entidad nocturna documentada en el folclore germánico y escandinavo que visita al durmiente y se sienta sobre su pecho, produciendo la sensación característica de esta categoría: opresión torácica, dificultad para respirar y pesadillas de intensidad marcada, con el afectado consciente de la presencia pero incapaz de moverse o de hablar durante el episodio. El mismo patrón exacto, con variaciones solo de nombre y de rasgo físico atribuido a la entidad, se documenta de forma independiente en decenas de culturas sin contacto entre sí, entre ellas las tres fichas siguientes de esta misma Orden.
+Entidad nocturna documentada en el folclore germánico y escandinavo que visita al durmiente y se sienta sobre su pecho, produciendo la sensación característica de esta categoría: opresión torácica, dificultad para respirar y pesadillas de intensidad marcada, con el afectado consciente de la presencia pero incapaz de moverse o de hablar durante el episodio. El mismo patrón exacto, con variaciones solo de nombre y de rasgo físico atribuido a la entidad, se documenta de forma independiente en decenas de culturas sin contacto entre sí, entre ellas las cuatro fichas restantes de esta misma categoría.
 
 ### Pesanta
 
@@ -443,3 +443,25 @@ Variante filipina del mismo patrón, distinguida del resto de esta categoría po
 **Invocable:** No
 
 Variante documentada en comunidades de origen afroamericano de la costa sudatlántica de Norteamérica, distinguida del resto de esta categoría por dos rasgos propios: se despoja de su piel antes de salir a operar de noche, y no se limita a oprimir el pecho del durmiente sino que extrae de forma activa su energía vital, pudiendo repetir la visita sobre la misma persona noche tras noche si el patrón no se interrumpe. La contramedida documentada con mayor consistencia explota la misma vulnerabilidad al conteo obligado ya registrada para otras entidades de este compendio.
+
+### Tokoloshe
+
+*Orden / Clasificación: Espectral, ataque nocturno del durmiente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. Elevar la cama sobre ladrillos u otro soporte.
+
+**Vulnerabilidades:** Elevar la cama sobre ladrillos u otro soporte, por encima de la altura que la entidad puede alcanzar
+
+**Capacidades documentadas:** Parálisis del sueño, ruidos, presión sobre el pecho de la persona afectada
+
+**Territorio:** Vivienda de la persona afectada
+
+**Actividad:** Nocturna
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+Entidad de pequeño tamaño documentada en el folclore zulú y de otras comunidades del sur de África, invocada con frecuencia por un practicante de brujería o por un adivino a petición de una tercera persona con intención de perjudicar a alguien concreto, aunque también documentada actuando de forma espontánea sin invocación previa. Se manifiesta durante la noche, con frecuencia asociada a parálisis del sueño, ruidos y una sensación de presión sobre el pecho de la persona afectada. La medida de protección doméstica documentada con mayor consistencia, y todavía practicada en la actualidad, consiste en elevar la cama sobre ladrillos u otro soporte, partiendo del principio de que esta entidad no puede alcanzar a una persona dormida por encima de una altura mínima determinada.

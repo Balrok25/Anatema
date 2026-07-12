@@ -1,6 +1,6 @@
 # CODEX XX · BESTIARIUM · ORDO TRANSMUTATUS
 
-Las fichas siguientes catalogan a los seres humanos que adquieren, mediante pacto, transgresión, maduración de una entidad no humana en apariencia humana, o posesión progresiva, una segunda forma activa documentada de forma consistente entre tradiciones, la Orden Transmutada descrita en el Codex de la Naturaleza de las Entidades. Cada ficha describe la forma activa transformada, no a la persona portadora en su estado ordinario, que en ningún momento se trata como entidad de pleno derecho. Dos de las once fichas de esta Orden mantienen deliberadamente un título descriptivo en lugar del término vernáculo específico de su tradición de origen, siguiendo la misma reserva ya aplicada en ediciones anteriores de este compendio: parte de las comunidades de origen consideran el tema restringido y no destinado a difusión externa detallada, y este compendio respeta esa reserva limitándose al dato ya publicado en fuentes académicas.
+Las fichas siguientes catalogan a los seres humanos que adquieren, mediante pacto, transgresión, maduración de una entidad no humana en apariencia humana, o posesión progresiva, una segunda forma activa documentada de forma consistente entre tradiciones, la Orden Transmutada descrita en el Codex de la Naturaleza de las Entidades. Cada ficha describe la forma activa transformada, no a la persona portadora en su estado ordinario, que en ningún momento se trata como entidad de pleno derecho. Dos de las doce fichas de esta Orden mantienen deliberadamente un título descriptivo en lugar del término vernáculo específico de su tradición de origen, siguiendo la misma reserva ya aplicada en ediciones anteriores de este compendio: parte de las comunidades de origen consideran el tema restringido y no destinado a difusión externa detallada, y este compendio respeta esa reserva limitándose al dato ya publicado en fuentes académicas.
 
 ### Licántropo
 
@@ -243,3 +243,25 @@ Variante regional del Vampiro catalogado en el Ordo Redivivorum, documentada con
 **Invocable:** No
 
 Término general que agrupa a varias figuras emparentadas del folclore filipino, de las cuales la variante que se segmenta por la cintura es la más extensamente documentada: durante el día no se distingue de una persona cualquiera, y de noche la mitad superior del cuerpo se separa de la inferior y vuela en busca de vísceras humanas o de fetos no nacidos, que extrae mediante una lengua tubular capaz de alargarse a gran distancia. La mitad inferior permanece oculta en algún lugar mientras la superior caza, y localizarla y destruirla, salarla o cubrirla de especias antes de que la entidad regrese le impide reintegrarse, dejándola expuesta e indefensa con la llegada del amanecer.
+
+### Rakshasa
+
+*Orden / Clasificación: Transmutada, origen por naturaleza no humana en apariencia humana*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Emplear fuego o fórmulas rituales de protección; esperar el amanecer reduce su capacidad de acción.
+
+**Vulnerabilidades:** Fuego, fórmulas rituales de protección, amanecer
+
+**Capacidades documentadas:** Cambio de forma a voluntad; apetito por carne humana
+
+**Territorio:** Lugares de cremación o enterramiento
+
+**Actividad:** Preferentemente nocturna
+
+**Invocable:** No, entidad de encuentro
+
+Entidad de la tradición india capaz de cambiar de forma a voluntad, descrita con mayor frecuencia con colmillos, garras y apetito por carne humana, aunque también documentada adoptando apariencia humana convincente durante periodos prolongados. Activa preferentemente de noche y en lugares de cremación o enterramiento, se documenta debilitada por el fuego, por fórmulas rituales específicas de protección, y por el amanecer, momento en el que buena parte del registro coincide en que pierde capacidad de acción.

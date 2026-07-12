@@ -78,7 +78,7 @@ Ya se estableció en el Codex del Velo que una de las especializaciones del viaj
 
 ## Sectio V — Modelos no demoníacos de adherencia espiritual
 
-Más allá de la posesión por entidad hostil ya descrita en la Sectio II, una tradición documenta una forma de vínculo dañino que no encaja en ese marco: ni la entidad es de la Orden Adversarial, ni el vínculo se establece por invasión súbita de un cuerpo, sino por adherencia progresiva de un espíritu humano ya fallecido. El drenaje de vitalidad sin entidad identificable, antes tratado junto a este modelo, se desarrolla ahora dentro del eje de acoplamiento del Codex de la Nulidad.
+Más allá de la posesión por entidad hostil ya descrita en la Sectio II, una tradición documenta una forma de vínculo dañino que no encaja en ese marco: ni la entidad es de la Orden Adversarial, ni el vínculo se establece por invasión súbita de un cuerpo, sino por adherencia progresiva de un espíritu humano ya fallecido. El drenaje de vitalidad sin entidad identificable, antes tratado junto a este modelo, se conserva ahora en el Codex de la Nulidad, junto a la investigación que abrió.
 
 ### La adherencia de un espíritu humano
 

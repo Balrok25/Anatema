@@ -14,7 +14,7 @@ La percepción visual directa de esta energía sobre el cuerpo humano —su capa
 
 ### Bloqueo y anulación
 
-El fenómeno inverso a la detección —individuos cuya sola presencia atenúa o interrumpe estos mismos métodos— se trata por separado y en su totalidad en el Codex de la Nulidad, junto con el marco de acoplamiento que lo sostiene.
+El fenómeno inverso a la detección, individuos cuya sola presencia atenúa o interrumpe estos mismos métodos, se trata por separado en el Codex de la Nulidad, el codex personal que cierra este compendio.
 
 ### Riesgos
 

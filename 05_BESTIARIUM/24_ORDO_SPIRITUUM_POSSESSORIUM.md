@@ -1,6 +1,6 @@
 # CODEX XXIV · BESTIARIUM · ORDO SPIRITUUM POSSESSORIUM
 
-Las fichas siguientes catalogan a las entidades documentadas que se contactan mediante el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar: entidades que no se manifiestan en un punto de manifestación externo sino que ocupan temporalmente el cuerpo de un participante durante la ceremonia. Esta primera entrega cubre a seis de las entidades mejor documentadas y de mayor difusión entre las dos ramas emparentadas de este sistema; ambas ramas comparten origen y buena parte de sus entidades bajo nombres distintos según la región, y este compendio las trata de forma unificada siguiendo el mismo criterio de amalgama aplicado al resto del Bestiario.
+Las fichas siguientes catalogan a las entidades documentadas que se contactan mediante el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar: entidades que no se manifiestan en un punto de manifestación externo sino que ocupan temporalmente el cuerpo de un participante durante la ceremonia. Esta primera entrega cubre a cinco de las entidades mejor documentadas y de mayor difusión entre las dos ramas emparentadas de este sistema; ambas ramas comparten origen y buena parte de sus entidades bajo nombres distintos según la región, y este compendio las trata de forma unificada siguiendo el mismo criterio de amalgama aplicado al resto del Bestiario.
 
 ### Legba
 
@@ -112,24 +112,3 @@ Entidad materna asociada al mar y a la protección de la vida que contiene, docu
 
 Espíritu de las aguas de distribución panafricana, representado de forma consistente como una mujer de gran belleza con la mitad inferior del cuerpo de pez o de serpiente. Su disposición se documenta como ambivalente en un grado especialmente marcado incluso dentro de esta Orden: capaz de conceder riqueza, belleza y sanación a quien favorece, y de causar enfermedad, locura o la muerte por ahogamiento a quien la agravia o rechaza su favor.
 
-### Anansi
-
-*Orden / Clasificación: Espíritu afín, embaucador, origen en África occidental*
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Peligrosidad:** Baja; embaucador antes que dañino
-
-**Actuación:** No se documenta procedimiento de convocatoria ceremonial; el registro lo trata como protagonista narrativo antes que como entidad invocable con fines de servicio.
-
-**Vulnerabilidades:** No documentadas
-
-**Capacidades documentadas:** Ingenio superior a la fuerza física; capacidad de adoptar forma de araña o forma humana a voluntad; propietario original de la totalidad de las historias del mundo, obtenidas mediante astucia y no mediante fuerza
-
-**Territorio:** No documentado
-
-**Actividad:** No documentada
-
-**Invocable:** No documentado como convocable por procedimiento ceremonial
-
-Figura embaucadora de origen en África occidental, documentada como el propietario original de todas las historias del mundo, obtenidas de la divinidad del cielo mediante el cumplimiento de tareas que parecían imposibles usando el ingenio en lugar de la fuerza. Sobrevivió como figura central del acervo narrativo de las comunidades afrodescendientes trasladadas por la fuerza a América, donde se conserva bajo variantes regionales del mismo nombre.

@@ -43,7 +43,7 @@ Si no se puede verificar el origen histórico de un dato, se marca como "variabl
 El manual es un documento vivo: se integra información nueva y se corrigen contradicciones cuando aparecen.
 
 ## 15. No ficción
-Nada de anécdotas de "cazadores", casos resueltos inventados, narrativas o personificación del conocimiento. Todo es información seca, funcional, histórica — no relato. Única excepción declarada: los textos marco (la presentación al lector del README) conservan una voz de compilador de forma deliberada y no forman parte del cuerpo técnico del compendio.
+Nada de anécdotas de "cazadores", casos resueltos inventados, narrativas o personificación del conocimiento. Todo es información seca, funcional, histórica — no relato. Únicas excepciones declaradas: los textos marco (la presentación al lector del README) y el Codex XXVII (Nihil), el codex personal del compilador, escrito en primera persona y fuera de norma de forma deliberada. Ninguno de los dos forma parte del cuerpo técnico del compendio.
 
 ## 16. Contexto limitado
 No se explica por qué la gente creía esto ni la historia de la creencia. Se explica cómo funciona, qué hacer, cuáles son los pasos. El contexto histórico/cultural se omite.

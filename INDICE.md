@@ -110,7 +110,7 @@
 - Nota sobre la tradición de los genios
 
 ### CODEX XVII · BESTIARIUM (El Bestiario) · ORDO LIMINARIS (Orden Liminar)
-- Fichas de 17 entidades domésticas y silvestres: las 11 originales (el acompañante individual se cataloga como Qarin en el Ordo Geniorum) más Leshy, Vodyanoy, Kikimora, Poludnitsa, Tikbalang y Yaksha
+- Fichas de 17 entidades domésticas y silvestres: las 10 originales (el acompañante individual se cataloga como Qarin en el Ordo Geniorum; el Tokoloshe, en el Ordo Spectralis) más Leshy, Vodyanoy, Kikimora, Poludnitsa, Tikbalang, Yaksha y Anansi
 - Nota sobre la fórmula de paso
 - Nota sobre los espíritus domésticos eslavos y escandinavos
 - Nota sobre las hadas y el otro mundo feérico
@@ -118,14 +118,14 @@
 - Más duendes latinoamericanos (pendiente)
 
 ### CODEX XVIII · BESTIARIUM (El Bestiario) · ORDO CHIMAERICUS (Orden Quimérica)
-- 24 fichas de entidades de morfología compuesta o de escala anómala (25 entidades: Escila y Caribdis comparten ficha)
+- 23 fichas de entidades de morfología compuesta o de escala anómala (24 entidades: Escila y Caribdis comparten ficha)
 
 ### CODEX XIX · BESTIARIUM (El Bestiario) · ORDO SPECTRALIS (Orden Espectral)
-- 20 fichas de entidades espectrales regionales: las 16 anteriores más Mara, Pesanta, Batibat y Boo Hag (ataque nocturno del durmiente)
+- 21 fichas de entidades espectrales regionales: las 16 anteriores más Mara, Pesanta, Batibat, Boo Hag y Tokoloshe (ataque nocturno del durmiente)
 - Variantes regionales de la Dama Blanca (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
-- Fichas de 11 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual, Strigoi, Aswang
+- Fichas de 12 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual, Strigoi, Aswang, Rakshasa
 
 ### CODEX XXI · BESTIARIUM (El Bestiario) · ORDO CRYPTICUS (Orden Críptida · La Criptozoología)
 - 15 patrones de avistamiento documentados, incluidos habitante de pantano meridional, gusano rojo del desierto, cabeza acorazonada de ojos anaranjados, figura de niebla con cabeza en forma de pala, hombre alado de la torre
@@ -139,7 +139,7 @@
 - Fichas de 6 genios: Ifrit, Marid, Shaitán, Qarin, Peri, Div
 
 ### CODEX XXIV · BESTIARIUM (El Bestiario) · ORDO SPIRITUUM POSSESSORIUM (Orden de los Espíritus de Posesión)
-- Fichas de 6 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya, Mami Wata, Anansi
+- Fichas de 5 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya, Mami Wata
 
 ### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados)
 - Fichas de 4 cadáveres reanimados ajenos a la Orden Transmutada: Draugr, Zombi, Vampiro y Jiangshi
@@ -155,8 +155,6 @@
 ## PARS VI · NIHIL (La Nulidad)
 
 ### CODEX XXVII · NIHIL (La Nulidad)
-- Sectio I. El problema del registro: la evidencia de lo que no ocurre
-- Sectio II. El eje de acoplamiento: compatibilidad, pureza e incompatibilidad, drenaje frente a no acoplamiento
-- Sectio III. El drenaje de vitalidad
-- Sectio IV. El individuo refractario: indicios históricos, criterios de observación y fallos de identificación
-- Sectio V. La hipótesis de la nulidad y estado de la cuestión
+- Codex personal del compilador, fuera de norma de forma deliberada: el camino de la investigación, escrito en primera persona
+- La hipótesis de la nulidad: la búsqueda de aquello que no ocurre
+- Anexo: los dos textos retirados del compendio (el drenaje de vitalidad y el bloqueo)
