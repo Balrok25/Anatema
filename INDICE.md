@@ -3,74 +3,86 @@
 
 ## ÍNDICE
 
-## CODEX I · DE NATURA ENTIUM (La naturaleza de las entidades)
-Sectio I. Taxonomía general — clasificación y jerarquías de toda entidad no humana (disformes, elementales, angélicas, demoníacas, espectrales, quiméricas, críptidas)
+## PARS I · FUNDAMENTA
 
-## CODEX II · VELUM (El Velo)
-Sectio I. Energías y percepción — qué son las energías operativamente, cómo se detectan, sensibilidad y bloqueo psíquico
-Sectio II. Anima Mundi — los planos sutiles: luz astral, plano etérico, el otromundo, el mundo oculto
+### CODEX I · DE NATURA ENTIUM (La naturaleza de las entidades)
+Definición · Los Ocho Órdenes (Adversarial, Celestial, Elemental, Liminar, Espectral, Quimérica, Transmutada, Críptida) · Ejes de clasificación transversal · Casos frontera y excepciones · Riesgos de una clasificación incorrecta
 
-## CODEX III · VERBUM (La Palabra)
-Sectio I. Logos et Heka — el lenguaje primordial, palabras que ejecutan realidad
-Sectio II. Nomina Vera — nombres verdaderos, nomenclatura y sellos
+### CODEX II · VELUM (El Velo)
+Sectio I. Energías y percepción
+Sectio II. Anima Mundi — los planos sutiles
+Sectio III. Chamanismo y viaje espiritual
 
-## CODEX IV · INSTRUMENTA (Los Instrumentos)
+### CODEX III · VERBUM (La Palabra)
+Sectio I. Logos et Heka — el lenguaje primordial
+Sectio II. Nomina Vera — nombres verdaderos y sellos
+
+### CODEX IV · INSTRUMENTA (Los Instrumentos)
 Sectio I. Círculos, sellos y materiales
 Sectio II. Purificación y preparación del practicante
 
-## CODEX V · ARS EVOCANDI (El Arte de Evocar)
-Sectio I. Invocación goética — demonios del Ars Goetia
-Sectio II. Magia angélica — Heptameron, Dee y Kelley
-Sectio III. Espíritus elementales — Paracelso
+## PARS II · COMMERCIUM ENTIUM
+
+### CODEX V · ARS EVOCANDI (El Arte de Evocar)
+Sectio I. Invocación goética
+Sectio II. Magia angélica
+Sectio III. Espíritus elementales
 Sectio IV. Necromancia
 
-## CODEX VI · CONTENTIO (La Contención)
+### CODEX VI · CONTENTIO (La Contención)
 Sectio I. Pactos y negociación
 Sectio II. Exorcismo y neutralización
 
-## CODEX VII · ARTES MINORES (Las Artes Menores)
-Sectio I. Hechizos y maleficios
+### CODEX VII · MEDIUM
+Sectio I. Instrumentos de contacto directo — tablero parlante, mesa que responde, escritura por instrumento, efecto ideomotor
 Sectio II. Adivinación y contacto onírico
-Sectio III. Alquimia
+Sectio III. Captación instrumental y marco de investigación — EVP, cinta de piedra, casos históricos de poltergeist, desplazamiento perceptivo en el tiempo, figuras de sombra
 
-## CODEX VIII · MALEFICIUM (La Brujería)
-Sectio I. Brujería y caza de brujas — aquelarre, familiares
+## PARS III · ARTES HUMANAE
+
+### CODEX VIII · ARTES MINORES (Las Artes Menores)
+Sectio I. Hechizos y maleficios
+Sectio II. Alquimia
+
+### CODEX IX · MALEFICIUM (La Brujería)
+Sectio I. Brujería y caza de brujas
 Sectio II. Maldiciones, mal de ojo y contramagia popular
 
-## CODEX IX · METAMORPHOSIS (La Metamorfosis)
-Sectio I. Licantropía
-Sectio II. Cambiapieles — tradición cruzada (skinwalkers, kitsune y otras)
-Sectio III. Vampirismo
-
-## CODEX X · SPECTRA (Los Espectros)
-Sectio I. Fantasmas y aparecidos
-Sectio II. Posesión y fenómenos poltergeist
-Sectio III. Objetos malditos y lugares de poder
-
-## CODEX XI · TRADITIONES EXTERNAE (Tradiciones Externas)
-Sectio I. Chamanismo y viaje espiritual
-Sectio II. Hadas y el otro mundo feérico
-
-## CODEX XII · BESTIARIUM CAMPI (El Bestiario de Campo)
-Fichas individuales organizadas por orden: Adversarial (Bael, Agares, Paimon, Buer, Astaroth, Marbas, Furfur, Berith, las dos autoridades paramount), Elemental (salamandra, ondina, gnomo, silfo), Liminar (el co-caminante, el comensal parásito), Quimérica (grifo, mantícora, dragón, sirena, basilisco, fénix, unicornio)
-
-## CODEX XIII · CRYPTOZOOLOGIA (La Criptozoología)
-Patrones de avistamiento documentados: el humanoide alado de ojos rojos, el depredador de ganado, el homínido forestal, el habitante del lago, el homínido de altura, el híbrido alado del este, el ave colosal — con nota metodológica sobre evidencia testimonial
-
-## CODEX XIV · PAPYRI ET DEFIXIONES (Papiros y Tablillas de Maldición)
+### CODEX X · PAPYRI ET DEFIXIONES (Papiros y Tablillas de Maldición)
 Sectio I. Tablillas de maldición
 Sectio II. Papiros mágicos
 
-## CODEX XV · NUMEROLOGIA ET GEMATRIA (Numerología y Gematría)
+### CODEX XI · NUMEROLOGIA ET GEMATRIA (Numerología y Gematría)
 Sectio I. Gematría
 Sectio II. Numerología
 
-## CODEX XVI · ORDINES RITUALES (Las Órdenes Rituales)
+### CODEX XII · ORDINES RITUALES (Las Órdenes Rituales)
 Sectio I. La hermandad de la rosa y la cruz
 Sectio II. La orden hermética de estructura sefirótica
 Sectio III. El caso de un club de fraternidad hedonista
 
-## CODEX XVII · SANATIO POPULARIS (La Sanación Popular)
-Sectio I. Los especialistas — yerbero, sobador, partera, espiritista, huesero
+### CODEX XIII · SANATIO POPULARIS (La Sanación Popular)
+Sectio I. Los especialistas
 Sectio II. Dolencias culturales — susto y empacho
 Sectio III. El diagnóstico y la limpia del huevo
+
+## PARS IV · SPECTRA
+
+### CODEX XIV · SPECTRA (Los Espectros)
+Sectio I. Fantasmas y aparecidos
+Sectio II. Posesión y fenómenos poltergeist
+Sectio III. Objetos malditos y lugares de poder
+
+## PARS V · BESTIARIUM
+
+### CODEX XV · BESTIARIUM — ORDO ADVERSARIUS
+Fichas individuales de los 33 demonios de la jerarquía goética, más nota sobre rango y escolta de manifestación y la jerarquía alternativa del Grimorium Verum
+
+### CODEX XVI · BESTIARIUM — ORDO ELEMENTALIS
+Salamandra, Ondina, Gnomo, Silfo, más nota sobre la tradición de los genios
+
+### CODEX XVII · BESTIARIUM — ORDO LIMINARIS
+El co-caminante, el comensal parásito, el acompañante asignado, Brownie, Duende doméstico, Alux, Tokoloshe, Zashiki-warashi, Nisse, Kobold, Domovoi, Boggart, más notas sobre la fórmula de paso, los espíritus domésticos y silvestres eslavos y escandinavos, y las hadas del otro mundo feérico
+
+### CODEX XVIII · BESTIARIUM — ORDO CHIMAERICUS
+Grifo, Mantícora, Dragón, Sirena, Bas

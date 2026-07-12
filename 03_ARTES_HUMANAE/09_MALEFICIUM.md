@@ -1,4 +1,4 @@
-# CODEX VIII · MALEFICIUM
+# CODEX IX · MALEFICIUM
 
 ## Sectio I — Brujería y caza de brujas
 

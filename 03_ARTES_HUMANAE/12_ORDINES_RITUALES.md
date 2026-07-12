@@ -1,4 +1,4 @@
-# CODEX XVI · ORDINES RITUALES
+# CODEX XII · ORDINES RITUALES
 
 ## Sectio I — La hermandad de la rosa y la cruz
 

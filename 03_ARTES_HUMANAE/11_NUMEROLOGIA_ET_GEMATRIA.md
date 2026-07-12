@@ -1,4 +1,4 @@
-# CODEX XV · NUMEROLOGIA ET GEMATRIA
+# CODEX XI · NUMEROLOGIA ET GEMATRIA
 
 Este codex desarrolla en profundidad el principio ya introducido en el Codex de la Palabra: que el valor numérico de una palabra o de un nombre no es un dato accesorio sino una indicación de parentesco esencial entre todo aquello que comparte ese mismo valor.
 

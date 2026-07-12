@@ -1,4 +1,4 @@
-# CODEX XIV · PAPYRI ET DEFIXIONES
+# CODEX X · PAPYRI ET DEFIXIONES
 
 ## Sectio I — Tablillas de maldición
 

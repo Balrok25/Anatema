@@ -1,4 +1,4 @@
-# CODEX XVII · SANATIO POPULARIS (La Sanación Popular)
+# CODEX XIII · SANATIO POPULARIS (La Sanación Popular)
 
 Esta tradición, documentada de forma continua desde la época colonial en Mesoamérica y sostenida hasta el presente en comunidades tanto rurales como urbanas, combina tres corrientes que no se distinguen entre sí en la práctica cotidiana: un fondo de conocimiento herbolario y ritual de origen mesoamericano anterior al contacto europeo, un marco devocional católico incorporado tras la colonización con santos, oraciones y objetos litúrgicos integrados como componentes operativos más que como referencia religiosa, y un cuerpo de teoría sobre el desequilibrio corporal heredado de la medicina humoral europea. A diferencia de las tradiciones descritas en el Codex de la Brujería, el especialista de esta tradición no opera mediante pacto con una entidad de rango superior ni mediante familiar: su autoridad procede de un don personal, con frecuencia descrito como recibido tras una enfermedad grave o una experiencia límite en la propia vida del especialista, y de un aprendizaje sostenido junto a un practicante ya formado.
 

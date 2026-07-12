@@ -4,9 +4,9 @@
 
 Una entidad, en el sentido que usa este compendio, es toda inteligencia o fenómeno consciente de naturaleza no humana que posee voluntad propia, capacidad de percibir e interactuar con el mundo material, y algún grado de permanencia más allá de un evento aislado. Esta definición excluye fenómenos puramente mecánicos o residuales sin voluntad (que se tratan en el Codex de los Espectros como categoría aparte) y excluye también facultades humanas como la percepción extrasensorial, que no son entidades sino capacidades del propio observador y se desarrollan en el Codex del Velo.
 
-Toda entidad documentada se ordena en siete órdenes. La pertenencia a un orden no es una etiqueta decorativa: determina el tipo de contacto que es posible establecer, el instrumental necesario, la lógica que sigue la entidad al negociar o resistirse, y el riesgo específico de cada aproximación. Confundir el orden de una entidad es la causa más común de fracaso y de daño en cualquier intento de contacto.
+Toda entidad documentada se ordena en ocho órdenes. La pertenencia a un orden no es una etiqueta decorativa: determina el tipo de contacto que es posible establecer, el instrumental necesario, la lógica que sigue la entidad al negociar o resistirse, y el riesgo específico de cada aproximación. Confundir el orden de una entidad es la causa más común de fracaso y de daño en cualquier intento de contacto.
 
-## Los Siete Órdenes
+## Los Ocho Órdenes
 
 ### Orden Adversarial
 
@@ -46,6 +46,12 @@ Comprende criaturas de morfología compuesta, cuerpos que combinan partes de má
 
 A diferencia de las órdenes anteriores, la Quimérica no tiene agenda cósmica ni motivación more allá de la supervivencia y la defensa del territorio; el riesgo que representa es del mismo orden que el de un depredador real, agravado por capacidades anómalas específicas de cada especie documentada.
 
+### Orden Transmutada
+
+Comprende a los seres humanos que, mediante pacto, herencia, transgresión o circunstancia documentada, adquieren de forma recurrente una segunda forma activa cuyo comportamiento, capacidades y riesgo son catalogables con la misma precisión que cualquier otra entidad, aun cuando su origen no sea el de una entidad autónoma sino el de una persona en un estado alterado. Esta orden no niega la complejidad ya señalada en los Casos Frontera de esta misma Sectio —en su forma humana, el individuo no es una entidad en absoluto—, pero reconoce que la forma activa transformada exige el mismo tipo de ficha operativa que el resto del Bestiario: territorio, capacidades, vulnerabilidad y procedimiento de actuación documentados por separado de la persona que la porta.
+
+A diferencia del resto de órdenes, el origen de la transformación varía de forma radical entre tradiciones —un objeto físico que se ciñe o se retira, una transgresión que abre la capacidad, la maduración natural de una entidad no humana en apariencia humana, o la posesión progresiva por una fuerza asociada a la privación extrema— y ese origen determina el único procedimiento de resolución válido para cada caso concreto: lo que revierte una variante no revierte necesariamente otra.
+
 ### Orden Críptida
 
 Comprende animales cuya existencia se sostiene por avistamiento reiterado y documentado pero sin espécimen confirmado por zoología convencional. A diferencia de la Orden Quimérica, la hipótesis de trabajo para esta orden es naturalista, no sobrenatural: se presume que son poblaciones no descubiertas o mal identificadas de fauna real, y su estudio sigue un método de clasificación morfológica basado en agrupar avistamientos por rasgos físicos recurrentes (silueta, tamaño, hábitat, comportamiento) antes que asignarles explicación.
@@ -64,7 +70,7 @@ El segundo eje es la disposición: hostil, territorial-neutral, recíproca-neutr
 
 Ciertas entidades documentadas no encajan de forma limpia en un único orden. Algunas entidades de rango alto en la Orden Adversarial se manifiestan con morfología compuesta indistinguible de la Orden Quimérica, lo cual ha llevado históricamente a confusión entre ambas categorías; el criterio de desambiguación no es la forma sino el procedimiento de contacto que resulta efectivo: si responde a nombre y sello, pertenece a la Adversarial con independencia de su apariencia.
 
-Las entidades vinculadas a la transformación corporal de un ser humano vivo —tratadas en detalle en el Codex de la Metamorfosis— no se clasifican dentro de ninguna de las siete órdenes de forma estable, porque su naturaleza cambia según la fase en que se las observe: en su forma humana no son una entidad en absoluto, y en su forma transformada pueden exhibir rasgos de la Orden Quimérica, de la Adversarial o de ninguna de las anteriores, según la tradición de origen específica.
+Las entidades vinculadas a la transformación corporal de un ser humano vivo —catalogadas por ficha individual en la Orden Transmutada del Bestiario, donde se detalla el origen y el procedimiento de cada variante— presentan la complejidad de clasificación más marcada de todo este sistema, porque su naturaleza cambia según la fase en que se las observe: en su forma humana no son una entidad en absoluto, y solo en su forma activa transformada admiten el tratamiento de ficha que el resto de este compendio aplica a una entidad estable. Este compendio resuelve la tensión catalogando de forma explícita solo esa segunda fase, sin que ello implique tratar a la persona no transformada como una entidad de pleno derecho en ningún momento.
 
 Los familiares vinculados a practicantes de brujería —tratados en el Codex del Maleficio— tampoco encajan de forma estable: son, en la práctica documentada, entidades de la Orden Liminar o Elemental que aceptan un vínculo de servicio prolongado con un humano específico, lo cual no ocurre de forma espontánea en ninguna otra combinación de orden y disposición.
 

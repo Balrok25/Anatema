@@ -1,4 +1,4 @@
-# CODEX XIII · CRYPTOZOOLOGIA
+# CODEX XXI · CRYPTOZOOLOGIA
 
 A diferencia del Bestiario de Campo, cuyas entradas catalogan entidades ya clasificadas dentro de un orden sobrenatural definido, esta sección cataloga patrones de avistamiento repetidos y documentados de forma independiente entre testigos sin relación previa, para los cuales la hipótesis de trabajo es naturalista y no sobrenatural: se presume que describen una población real no confirmada por la zoología convencional, no una entidad de otra naturaleza. La clasificación se organiza por rasgos morfológicos recurrentes entre avistamientos, no por especulación sobre su origen, siguiendo el mismo método que se aplicó por primera vez de forma sistemática al ordenar varios siglos de avistamientos de grandes serpientes marinas en categorías morfológicas discretas antes de intentar identificarlas.
 
