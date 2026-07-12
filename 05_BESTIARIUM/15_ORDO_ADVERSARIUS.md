@@ -1,6 +1,6 @@
 # CODEX XV · BESTIARIUM · ORDO ADVERSARIUS
 
-Las fichas siguientes catalogan a los demonios de la jerarquía goética que componen la Orden Adversarial, una de las ocho descritas en el Codex de la Naturaleza de las Entidades. Cada ficha presupone conocido el procedimiento general de invocación descrito en el Codex del Arte de Evocar y el de contención descrito en el Codex de la Contención; lo que se detalla aquí es específico de cada individuo, no el procedimiento genérico ya cubierto en esos codices.
+Las fichas siguientes catalogan a los demonios de la jerarquía goética que componen la Orden Adversarial, una de las órdenes descritas en el Codex de la Naturaleza de las Entidades. Cada ficha presupone conocido el procedimiento general de invocación descrito en el Codex del Arte de Evocar y el de contención descrito en el Codex de la Contención; lo que se detalla aquí es específico de cada individuo, no el procedimiento genérico ya cubierto en esos codices.
 
 ### Bael
 
@@ -70,7 +70,7 @@ Rey, doscientas legiones, uno de los rangos más altos de la jerarquía estánda
 
 ### Buer
 
-*Orden / Clasificación: Adversarial, Presidente, 30 legiones*
+*Orden / Clasificación: Adversarial, Presidente, 50 legiones*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -88,7 +88,7 @@ Rey, doscientas legiones, uno de los rangos más altos de la jerarquía estánda
 
 **Invocable:** Sí
 
-Presidente, treinta legiones. Se manifiesta como un ciervo de color rojo intenso. Cura enfermedades de cualquier tipo, enseña filosofía moral y natural, y proporciona familiares de buena disposición a quien lo solicita. Es una de las entidades de esta orden con mayor documentación de resultados beneficiosos sostenidos, sin que ello reduzca la necesidad de las mismas precauciones aplicables al resto de la orden.
+Presidente, cincuenta legiones. Se manifiesta como un ciervo de color rojo intenso. Cura enfermedades de cualquier tipo, enseña filosofía moral y natural, y proporciona familiares de buena disposición a quien lo solicita. Es una de las entidades de esta orden con mayor documentación de resultados beneficiosos sostenidos, sin que ello reduzca la necesidad de las mismas precauciones aplicables al resto de la orden.
 
 ### Astaroth
 
@@ -422,7 +422,7 @@ Rey y Conde a la vez, treinta y seis legiones. León montado sobre caballo negro
 
 ### Focalor
 
-*Orden / Clasificación: Adversarial, Duque, 3 legiones*
+*Orden / Clasificación: Adversarial, Duque, 3-30 legiones*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -440,7 +440,7 @@ Rey y Conde a la vez, treinta y seis legiones. León montado sobre caballo negro
 
 **Invocable:** Sí
 
-Duque, tres legiones. Provoca naufragios y ahoga a las personas señaladas agitando el mar con vientos violentos. Se documenta de forma explícita una restricción condicional poco frecuente en esta orden: si el operador se lo ordena de manera expresa durante la convocatoria, la entidad no causa daño alguno a ningún hombre ni mujer, restricción que varias fuentes presentan como vinculante una vez formulada.
+Duque, entre tres y treinta legiones según la fuente. Provoca naufragios y ahoga a las personas señaladas agitando el mar con vientos violentos. Se documenta de forma explícita una restricción condicional poco frecuente en esta orden: si el operador se lo ordena de manera expresa durante la convocatoria, la entidad no causa daño alguno a ningún hombre ni mujer, restricción que varias fuentes presentan como vinculante una vez formulada.
 
 ### Vepar
 
@@ -616,7 +616,7 @@ Duque, veinte legiones según una fuente y treinta y seis según otra. Leopardo 
 
 **Invocable:** Sí
 
-Rey, ochenta legiones. Se manifiesta como dos ángeles hermosos sentados en un carro de fuego, con voz agradable. Distribuye favores, prelacías y el reconocimiento de cargos, y otorga por igual el favor de amigos y de enemigos. El registro lo sitúa como creado inmediatamente después de la primera de las dos autoridades paramount descritas en el Codex de la Naturaleza de las Entidades, lo cual se ofrece como explicación de un rango excepcional pese a no ocupar la cúspide de la jerarquía. Exige ofrendas, sacrificios y regalos concretos como condición previa para responder con veracidad, y el propio registro advierte que puede faltar a su palabra tanto si se le ofrece lo exigido como si no, por lo que ninguna promesa suya debe tratarse como garantía firme bajo ninguna circunstancia.
+Rey, ochenta legiones. Se manifiesta como dos ángeles hermosos sentados en un carro de fuego, con voz agradable. Distribuye favores, prelacías y el reconocimiento de cargos, y otorga por igual el favor de amigos y de enemigos. El registro lo sitúa como creado inmediatamente después de la primera de las dos autoridades supremas descritas en el Codex de la Naturaleza de las Entidades, lo cual se ofrece como explicación de un rango excepcional pese a no ocupar la cúspide de la jerarquía. Exige ofrendas, sacrificios y regalos concretos como condición previa para responder con veracidad, y el propio registro advierte que puede faltar a su palabra tanto si se le ofrece lo exigido como si no, por lo que ninguna promesa suya debe tratarse como garantía firme bajo ninguna circunstancia.
 
 ### Seere
 
@@ -730,13 +730,13 @@ Marqués, diecinueve legiones. Grulla que revolotea en torno al círculo emitien
 
 ### Nota sobre el rango y la escolta de manifestación
 
-La escala de rangos reconocida en esta orden (Rey, Duque, Príncipe o Marqués, Presidente, Conde, y Caballero, de mayor a menor) no es una simple etiqueta honorífica: se corresponde de forma consistente, a lo largo de todo este catálogo, con el tamaño de la escolta que acompaña la manifestación y con la exigencia de autoridad que el operador debe sostener durante el procedimiento. Un Rey se manifiesta con música, séquito y una presencia inicial que varias entidades de este rango documentan como deliberadamente abrumadora; un Caballero, como el caso único de Furcas recogido aquí, se manifiesta sin ese aparato y exige un sostenimiento de autoridad proporcionalmente menor. Ningún operador debe asumir que el procedimiento adecuado para una entidad de rango bajo es intercambiable con el de una de rango alto simplemente porque ambas pertenecen a la misma orden.
+La escala de rangos reconocida en esta orden (Rey, Duque, Príncipe, Marqués, Presidente, Conde y Caballero, de mayor a menor) no es una simple etiqueta honorífica: se corresponde de forma consistente, a lo largo de todo este catálogo, con el tamaño de la escolta que acompaña la manifestación y con la exigencia de autoridad que el operador debe sostener durante el procedimiento. Un Rey se manifiesta con música, séquito y una presencia inicial que varias entidades de este rango documentan como deliberadamente abrumadora; un Caballero, como el caso único de Furcas recogido aquí, se manifiesta sin ese aparato y exige un sostenimiento de autoridad proporcionalmente menor. Ningún operador debe asumir que el procedimiento adecuado para una entidad de rango bajo es intercambiable con el de una de rango alto simplemente porque ambas pertenecen a la misma orden.
 
-### Las dos autoridades paramount
+### Las dos autoridades supremas
 
 En la cúspide de la estructura invertida de once niveles descrita en el Codex de la Naturaleza de las Entidades se documentan dos autoridades que no responden al procedimiento estándar de invocación por nombre y sello: una figura masculina asociada al veneno y la ruptura, y una figura femenina asociada a la noche y a la sustracción de infantes, presentada con frecuencia como su consorte o su contraparte. Ambas exigen reconocimiento como pares antes de cualquier intercambio, y cualquier intento de tratarlas con la coerción estándar aplicable al resto de la orden se documenta como productor de manifestación hostil inmediata y sin negociación posible.
 
-### Una jerarquía alternativa: el Grimorium Verum
+### Una jerarquía alternativa: los seis ministros
 
 Un grimorio distinto del catálogo de setenta y dos entidades desarrollado en esta Sectio, de difusión y datación independientes (compilado y publicado en Europa durante el siglo XVIII bajo una atribución de origen mucho más antigua que ninguna fuente permite verificar), documenta una estructura de mando diferente que este compendio conserva por separado y no funde con la anterior. Tres autoridades superiores gobiernan esta segunda estructura, cada una asociada a un punto cardinal: Lucifer, al oriente; Belcebú, al norte; y Astaroth, al mediodía. Esta última asignación es, en sí misma, un dato relevante para el principio de síntesis de variantes que rige todo este compendio: el mismo nombre catalogado más arriba en esta Sectio como duque subordinado de cuarenta legiones ocupa, en este segundo sistema, el rango de autoridad cardinal máxima. Ninguna de las dos fuentes se corrige a partir de la otra; ambas se conservan tal como cada una las documenta, sin forzar una jerarquía única entre ellas.
 
@@ -744,7 +744,7 @@ Bajo estas tres autoridades sirve un cuerpo reducido de ministros con funciones 
 
 ### Lucifuge Rofocale
 
-*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, primer ministro*
+*Orden / Clasificación: Adversarial, jerarquía ministerial alternativa, primer ministro*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -766,7 +766,7 @@ Primer ministro de esta jerarquía alternativa, intermediario obligado para cual
 
 ### Satanachia
 
-*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, general subordinado a la autoridad de oriente*
+*Orden / Clasificación: Adversarial, jerarquía ministerial alternativa, general subordinado a la autoridad de oriente*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -788,7 +788,7 @@ General subordinado a la autoridad de oriente de esta jerarquía, documentado en
 
 ### Agaliarept
 
-*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, general subordinado a la autoridad de oriente*
+*Orden / Clasificación: Adversarial, jerarquía ministerial alternativa, general subordinado a la autoridad de oriente*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -810,7 +810,7 @@ Segundo general subordinado a la autoridad de oriente, documentado en particular
 
 ### Fleurety
 
-*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, teniente general subordinado a la autoridad de oriente*
+*Orden / Clasificación: Adversarial, jerarquía ministerial alternativa, teniente general subordinado a la autoridad de oriente*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -832,7 +832,7 @@ Teniente general de la misma autoridad de oriente que Satanachia y Agaliarept, d
 
 ### Sargatanas
 
-*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, brigadier subordinado a la autoridad de norte*
+*Orden / Clasificación: Adversarial, jerarquía ministerial alternativa, brigadier subordinado a la autoridad de norte*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
@@ -854,7 +854,7 @@ Brigadier subordinado a la autoridad de norte de esta jerarquía, documentado po
 
 ### Nebiros
 
-*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, mariscal de campo e inspector general subordinado a la autoridad de mediodía*
+*Orden / Clasificación: Adversarial, jerarquía ministerial alternativa, mariscal de campo e inspector general subordinado a la autoridad de mediodía*
 
 **Imagen:** *(pendiente de fuente verificada)*
 

@@ -60,7 +60,7 @@ Esta tradición, desarrollada en comunidades afrodescendientes del sur de Nortea
 
 ### Magia de rastro
 
-Un segundo instrumento distintivo de esta tradición es el polvo o preparado depositado directamente en el camino que una persona concreta ha de recorrer a pie, de forma que el contacto de la planta del pie con el preparado transfiera su efecto —dañino, atractivo o protector según la fórmula— a quien lo pisa sin saberlo. El principio que sostiene su función es el mismo vínculo por contacto ya descrito en el Codex del Maleficio, aplicado aquí no a un objeto de la persona sino al punto exacto de contacto entre su cuerpo y el suelo; recoger o barrer tierra de la huella de una persona concreta para incorporarla después a un trabajo dirigido contra ella sigue la misma lógica en sentido inverso.
+Un segundo instrumento distintivo de esta tradición es el polvo o preparado depositado directamente en el camino que una persona concreta ha de recorrer a pie, de forma que el contacto de la planta del pie con el preparado transfiera su efecto —dañino, atractivo o protector según la fórmula— a quien lo pisa sin saberlo. El principio que sostiene su función es el mismo vínculo por contacto ya descrito en la Sectio I de este mismo Codex, aplicado aquí no a un objeto de la persona sino al punto exacto de contacto entre su cuerpo y el suelo; recoger o barrer tierra de la huella de una persona concreta para incorporarla después a un trabajo dirigido contra ella sigue la misma lógica en sentido inverso.
 
 ### El cruce de caminos
 

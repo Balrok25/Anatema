@@ -7,7 +7,7 @@
 
 ### CODEX I · DE NATURA ENTIUM (La Naturaleza de las Entidades)
 - Sectio I. Definición de entidad
-- Sectio II. Los Ocho Órdenes (nueve coros angélicos: Serafín, Querubín, Trono, Dominación, Virtud, Potestad, Principado, Arcángel, Ángel)
+- Sectio II. Las Órdenes de las Entidades
 - Sectio III. Ejes de clasificación transversal
 - Sectio IV. Casos frontera y excepciones
 - Sectio V. Riesgos de una clasificación incorrecta
@@ -16,7 +16,7 @@
 - Sectio I. Energías y percepción
 - Sectio II. Anima Mundi: los planos sutiles
 - Sectio III. Chamanismo y viaje espiritual
-- Sectio IV. Investigación de laboratorio: cartas Zener, localización remota, valoración conjunta
+- Sectio IV. Investigación de laboratorio: el método de las cartas, localización remota, valoración conjunta
 
 ### CODEX III · VERBUM (La Palabra)
 - Sectio I. Logos et Heka: el lenguaje primordial
@@ -98,10 +98,10 @@
 ## PARS V · BESTIARIUM (El Bestiario)
 
 ### CODEX XV · BESTIARIUM (El Bestiario) · ORDO ADVERSARIUS (Orden Adversarial)
-- Fichas de los 33 demonios de la jerarquía goética
+- Fichas de 33 de los 72 demonios de la jerarquía goética
 - Nota sobre rango y escolta de manifestación
-- Nota sobre la jerarquía alternativa del Grimorium Verum
-- Fichas de los 6 ministros del Grimorium Verum: Lucifuge Rofocale, Satanachia, Agaliarept, Fleurety, Sargatanas, Nebiros
+- Nota sobre la jerarquía ministerial alternativa
+- Fichas de los 6 ministros de la jerarquía alternativa: Lucifuge Rofocale, Satanachia, Agaliarept, Fleurety, Sargatanas, Nebiros
 - Otra tradición adversarial: demonología mesopotámica (par protector/amenaza) y Asura hindúes (categoría por elección, no por naturaleza)
 
 ### CODEX XVI · BESTIARIUM (El Bestiario) · ORDO ELEMENTALIS (Orden Elemental)
@@ -118,10 +118,10 @@
 - Más duendes latinoamericanos (pendiente)
 
 ### CODEX XVIII · BESTIARIUM (El Bestiario) · ORDO CHIMAERICUS (Orden Quimérica)
-- Fichas de 24 entidades de morfología compuesta
+- 24 fichas de entidades de morfología compuesta o de escala anómala (25 entidades: Escila y Caribdis comparten ficha)
 
 ### CODEX XIX · BESTIARIUM (El Bestiario) · ORDO SPECTRALIS (Orden Espectral)
-- Fichas de 20 entidades espectrales regionales: las 16 anteriores más Mara, Pesanta, Batibat y Boo Hag (ataque nocturno del durmiente)
+- 20 fichas de entidades espectrales regionales: las 16 anteriores más Mara, Pesanta, Batibat y Boo Hag (ataque nocturno del durmiente)
 - Variantes regionales de la Dama Blanca (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
@@ -150,5 +150,5 @@
 ### CODEX XXVI · BESTIARIUM (El Bestiario) · ORDO CUSTODUM NATURAE (Orden de los Guardianes de la Naturaleza) (pendiente)
 - Fichas de guardianes fundidos con un rasgo natural o un territorio concreto: dríades y náyades griegas, kodama japonés, Curupira brasileño, Huldra escandinava
 - Nota sobre el genius loci como concepto unificador de guardián ligado a un lugar
-- Pendiente de decidir: exige ampliar Los Ocho Órdenes de Codex I a nueve y reubicar aquí Leshy, Vodyanoy, Kikimora y Poludnitsa, hoy en cola dentro de Ordo Liminaris
+- Pendiente de decidir: exige añadir la orden a las ya descritas en Codex I y reubicar aquí Leshy, Vodyanoy, Kikimora y Poludnitsa, hoy en cola dentro de Ordo Liminaris
 

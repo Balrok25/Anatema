@@ -22,7 +22,7 @@ Las fichas siguientes catalogan a cadáveres reanimados que no encajan en la Ord
 
 **Invocable:** No
 
-Cadáver reanimado de origen escandinavo, ligado de forma permanente a su propio montículo funerario, que conserva inteligencia y voluntad propias en lugar de actuar como cuerpo vacío. Se documenta guardián fero de los objetos de valor enterrados junto a él, y su origen se asocia de forma consistente con una muerte violenta o con un enterramiento que no siguió el ritual debido. A diferencia del Vampiro de la Orden Transmutada, no se documenta un patrón de muertes adicionales en su entorno como síntoma de detección; el patrón que lo delata es la defensa activa y hostil de su propio túmulo frente a cualquier intrusión.
+Cadáver reanimado de origen escandinavo, ligado de forma permanente a su propio montículo funerario, que conserva inteligencia y voluntad propias en lugar de actuar como cuerpo vacío. Se documenta guardián feroz de los objetos de valor enterrados junto a él, y su origen se asocia de forma consistente con una muerte violenta o con un enterramiento que no siguió el ritual debido. A diferencia del Vampiro de la Orden Transmutada, no se documenta un patrón de muertes adicionales en su entorno como síntoma de detección; el patrón que lo delata es la defensa activa y hostil de su propio túmulo frente a cualquier intrusión.
 
 ### Zombi
 

@@ -20,7 +20,7 @@ Especialista dedicada al embarazo, el parto y el puerperio, con una competencia 
 
 ### El espiritista
 
-Especialista cuya práctica se apoya en la comunicación directa con espíritus o con figuras devocionales mediante oración, trance o mediación, y cuyo diagnóstico y tratamiento incorpora de forma explícita causas no físicas de la enfermedad —una intrusión espiritual, una maldición dirigida, la influencia de un difunto no resuelto— que quedan fuera del ámbito del yerbero o del sobador. Su procedimiento comparte estructura con la mediumnidad descrita en el Codex de Medium y con el trance de tránsito chamánico descrito en el Codex del Velo, aplicado aquí con un propósito terapéutico explícito en lugar de exploratorio.
+Especialista cuya práctica se apoya en la comunicación directa con espíritus o con figuras devocionales mediante oración, trance o mediación, y cuyo diagnóstico y tratamiento incorpora de forma explícita causas no físicas de la enfermedad —una intrusión espiritual, una maldición dirigida, la influencia de un difunto no resuelto— que quedan fuera del ámbito del yerbero o del sobador. Su procedimiento comparte estructura con la mediumnidad descrita en el Codex del Médium y con el trance de tránsito chamánico descrito en el Codex del Velo, aplicado aquí con un propósito terapéutico explícito en lugar de exploratorio.
 
 ### El huesero
 
@@ -46,7 +46,7 @@ El empacho se documenta como una acumulación de alimento que queda adherido a l
 
 ## Sectio III — El diagnóstico y la limpia del huevo
 
-El procedimiento diagnóstico y terapéutico documentado con mayor extensión geográfica dentro de esta tradición emplea un huevo de gallina fresco y sin cocer como instrumento tanto de diagnóstico como de tratamiento en un mismo acto, siguiendo una lógica de medio físico que revela una afectación invisible ya establecida en este compendio por otros procedimientos: el aceite sobre agua descrito en el Codex de la Brujería para el diagnóstico del mal de ojo y la lectura en espejo negro descrita en el Codex de las Artes Menores comparten el mismo principio de usar una superficie o medio físico neutro como receptor de un desequilibrio que no se percibe por observación directa del cuerpo.
+El procedimiento diagnóstico y terapéutico documentado con mayor extensión geográfica dentro de esta tradición emplea un huevo de gallina fresco y sin cocer como instrumento tanto de diagnóstico como de tratamiento en un mismo acto, siguiendo una lógica de medio físico que revela una afectación invisible ya establecida en este compendio por otros procedimientos: el aceite sobre agua descrito en el Codex de la Brujería para el diagnóstico del mal de ojo y la lectura en espejo negro descrita en el Codex del Médium comparten el mismo principio de usar una superficie o medio físico neutro como receptor de un desequilibrio que no se percibe por observación directa del cuerpo.
 
 ### El barrido
 

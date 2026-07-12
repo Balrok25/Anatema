@@ -1,6 +1,6 @@
 # CODEX XVI · BESTIARIUM · ORDO ELEMENTALIS
 
-Las fichas siguientes catalogan a las entidades de la Orden Elemental, ligadas al sistema paracélsico de los cuatro elementos clásicos, una de las ocho órdenes descritas en el Codex de la Naturaleza de las Entidades.
+Las fichas siguientes catalogan a las entidades de la Orden Elemental, ligadas al sistema paracélsico de los cuatro elementos clásicos, una de las órdenes descritas en el Codex de la Naturaleza de las Entidades.
 
 ### Salamandra
 

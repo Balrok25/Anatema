@@ -124,7 +124,7 @@ Entidad afín a los genios de origen persa, no incluida en la clasificación cua
 
 **Vulnerabilidades:** No documentada
 
-**Capacidades documentadas:** Tamaño gigantesco de proporción humana con cuernos y dentición prominente; fuerza física muy superior a la humana; apetito documentado por la carne humana
+**Capacidades documentadas:** Humanoide de tamaño gigantesco, con cuernos y dentición prominente; fuerza física muy superior a la humana; apetito documentado por la carne humana
 
 **Territorio:** No documentado
 

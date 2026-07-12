@@ -16,7 +16,7 @@ Una colección extensa de fórmulas, conservada en papiro y proveniente de la mi
 
 ### Figuras de vínculo y coacción
 
-Uno de los procedimientos mejor documentados de atracción amorosa emplea dos figuras moldeadas en cera o arcilla: una que representa una fuerza marcial coercitiva armada, y otra, atada de pies y manos, que representa a la persona cuyo afecto se busca atraer. La figura atada se perfora con agujas en puntos específicos del cuerpo mientras se pronuncia la fórmula que vincula la acción física sobre la figura con la voluntad de la persona representada, siguiendo la misma lógica de figuras de vínculo ya expuesta en el Codex del Maleficio.
+Uno de los procedimientos mejor documentados de atracción amorosa emplea dos figuras moldeadas en cera o arcilla: una que representa una fuerza marcial coercitiva armada, y otra, atada de pies y manos, que representa a la persona cuyo afecto se busca atraer. La figura atada se perfora con agujas en puntos específicos del cuerpo mientras se pronuncia la fórmula que vincula la acción física sobre la figura con la voluntad de la persona representada, siguiendo la misma lógica de figuras de vínculo ya expuesta en el Codex de la Brujería.
 
 ### Procedimientos de contacto planetario
 
@@ -28,7 +28,7 @@ Varios de estos procedimientos exigen un periodo previo de pureza personal de tr
 
 ## Sectio III — Maldición judicial y agonística
 
-Un subgrupo bien documentado de tablillas de maldición, distinto del patrón de recuperación de bienes descrito en la Sectio anterior, se dirige no a un ladrón anónimo sino a un rival identificado por su nombre en un contexto de competencia directa: un litigante en un proceso judicial, un auriga en una carrera, o un competidor comercial. El verbo que da nombre a esta categoría en su tradición griega original significa literalmente atar, y ata en el sentido más funcional posible: no busca dañar de forma genérica sino inmovilizar una facultad concreta del objetivo en el momento exacto en que esa facultad sería usada en su contra.
+Un subgrupo bien documentado de tablillas de maldición, distinto del patrón de recuperación de bienes descrito en la Sectio I de este Codex, se dirige no a un ladrón anónimo sino a un rival identificado por su nombre en un contexto de competencia directa: un litigante en un proceso judicial, un auriga en una carrera, o un competidor comercial. El verbo que da nombre a esta categoría en su tradición griega original significa literalmente atar, y ata en el sentido más funcional posible: no busca dañar de forma genérica sino inmovilizar una facultad concreta del objetivo en el momento exacto en que esa facultad sería usada en su contra.
 
 ### Vínculo judicial
 

@@ -1,6 +1,6 @@
 # CODEX XXIV · BESTIARIUM · ORDO SPIRITUUM POSSESSORIUM
 
-Las fichas siguientes catalogan a las entidades documentadas que se contactan mediante el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar: entidades que no se manifiestan en un punto de manifestación externo sino que ocupan temporalmente el cuerpo de un participante durante la ceremonia. Esta primera entrega cubre a cuatro de las entidades mejor documentadas y de mayor difusión entre las dos ramas emparentadas de este sistema; ambas ramas comparten origen y buena parte de sus entidades bajo nombres distintos según la región, y este compendio las trata de forma unificada siguiendo el mismo criterio de amalgama aplicado al resto del Bestiario.
+Las fichas siguientes catalogan a las entidades documentadas que se contactan mediante el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar: entidades que no se manifiestan en un punto de manifestación externo sino que ocupan temporalmente el cuerpo de un participante durante la ceremonia. Esta primera entrega cubre a seis de las entidades mejor documentadas y de mayor difusión entre las dos ramas emparentadas de este sistema; ambas ramas comparten origen y buena parte de sus entidades bajo nombres distintos según la región, y este compendio las trata de forma unificada siguiendo el mismo criterio de amalgama aplicado al resto del Bestiario.
 
 ### Legba
 
