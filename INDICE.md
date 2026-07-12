@@ -6,16 +6,20 @@
 ## PARS I · FUNDAMENTA
 
 ### CODEX I · DE NATURA ENTIUM (La naturaleza de las entidades)
-Definición · Los Ocho Órdenes (Adversarial, Celestial, Elemental, Liminar, Espectral, Quimérica, Transmutada, Críptida) · Ejes de clasificación transversal · Casos frontera y excepciones · Riesgos de una clasificación incorrecta
+Definición
+Los Ocho Órdenes (Adversarial, Celestial, Elemental, Liminar, Espectral, Quimérica, Transmutada, Críptida)
+Ejes de clasificación transversal
+Casos frontera y excepciones
+Riesgos de una clasificación incorrecta
 
 ### CODEX II · VELUM (El Velo)
 Sectio I. Energías y percepción
-Sectio II. Anima Mundi — los planos sutiles
+Sectio II. Anima Mundi: los planos sutiles
 Sectio III. Chamanismo y viaje espiritual
 
 ### CODEX III · VERBUM (La Palabra)
-Sectio I. Logos et Heka — el lenguaje primordial
-Sectio II. Nomina Vera — nombres verdaderos y sellos
+Sectio I. Logos et Heka: el lenguaje primordial
+Sectio II. Nomina Vera: nombres verdaderos y sellos
 
 ### CODEX IV · INSTRUMENTA (Los Instrumentos)
 Sectio I. Círculos, sellos y materiales
@@ -28,21 +32,25 @@ Sectio I. Invocación goética
 Sectio II. Magia angélica
 Sectio III. Espíritus elementales
 Sectio IV. Necromancia
+Sectio V. Invocación por posesión: Vodou, Santería y Orisha (pendiente)
+Sectio VI. Los genios: la tradición islámica del djinn (pendiente)
 
 ### CODEX VI · CONTENTIO (La Contención)
 Sectio I. Pactos y negociación
 Sectio II. Exorcismo y neutralización
+Sectio III. Exorcismo fuera de la tradición cristiana: Ruqyah, dibbuk, harae sintoísta (pendiente)
 
 ### CODEX VII · MEDIUM
-Sectio I. Instrumentos de contacto directo — tablero parlante, mesa que responde, escritura por instrumento, efecto ideomotor
-Sectio II. Adivinación y contacto onírico
-Sectio III. Captación instrumental y marco de investigación — EVP, cinta de piedra, casos históricos de poltergeist, desplazamiento perceptivo en el tiempo, figuras de sombra
+Sectio I. Instrumentos de contacto directo
+Sectio II. Adivinación y contacto onírico (ampliación pendiente: runas, I Ching, palmistría, feng shui)
+Sectio III. Captación instrumental y marco de investigación
 
 ## PARS III · ARTES HUMANAE
 
 ### CODEX VIII · ARTES MINORES (Las Artes Menores)
 Sectio I. Hechizos y maleficios
 Sectio II. Alquimia
+Sectio III. Hoodoo y trabajo de raíces (pendiente)
 
 ### CODEX IX · MALEFICIUM (La Brujería)
 Sectio I. Brujería y caza de brujas
@@ -57,6 +65,7 @@ Sectio III. Maldición judicial y agonística
 Sectio I. Gematría
 Sectio II. Numerología
 Sectio III. Procedimientos prácticos de reducción numérica
+Sectio IV. Astrología práctica: carta natal, casas y aspectos (pendiente)
 
 ### CODEX XII · ORDINES RITUALES (Las Órdenes Rituales)
 Sectio I. La hermandad de la rosa y la cruz
@@ -66,7 +75,7 @@ Sectio IV. Una escuela de correspondencia centrada en el tarot
 
 ### CODEX XIII · SANATIO POPULARIS (La Sanación Popular)
 Sectio I. Los especialistas
-Sectio II. Dolencias culturales — susto y empacho
+Sectio II. Dolencias culturales: susto y empacho
 Sectio III. El diagnóstico y la limpia del huevo
 
 ## PARS IV · SPECTRA
@@ -79,22 +88,51 @@ Sectio III. Objetos malditos y lugares de poder
 ## PARS V · BESTIARIUM
 
 ### CODEX XV · BESTIARIUM · ORDO ADVERSARIUS
-Fichas individuales de los 33 demonios de la jerarquía goética, más nota sobre rango y escolta de manifestación y la jerarquía alternativa del Grimorium Verum
+Fichas individuales de los 33 demonios de la jerarquía goética
+Nota sobre rango y escolta de manifestación
+Nota sobre la jerarquía alternativa del Grimorium Verum
+Fichas propias de los ministros del Grimorium Verum: Lucifuge Rofocale, Satanachia, Agaliarept, Fleurety, Sargatanas y Nebiros (pendiente)
 
 ### CODEX XVI · BESTIARIUM · ORDO ELEMENTALIS
-Salamandra, Ondina, Gnomo, Silfo, más nota sobre la tradición de los genios
+Fichas individuales de las 4 entidades elementales paracélsicas: Salamandra, Ondina, Gnomo, Silfo
+Nota sobre la tradición de los genios
 
 ### CODEX XVII · BESTIARIUM · ORDO LIMINARIS
-El co-caminante, el comensal parásito, el acompañante asignado, Brownie, Duende doméstico, Alux, Tokoloshe, Zashiki-warashi, Nisse, Kobold, Domovoi, Boggart, más notas sobre la fórmula de paso, los espíritus domésticos y silvestres eslavos y escandinavos, y las hadas del otro mundo feérico
+Fichas individuales de 12 entidades domésticas y silvestres
+Nota sobre la fórmula de paso
+Nota sobre los espíritus domésticos y silvestres eslavos y escandinavos
+Nota sobre las hadas y el otro mundo feérico
+Ampliación de la corte feérica (pendiente)
+Fichas de Tikbalang y Aswang filipinos (pendiente)
+Ficha de Leshy eslavo (pendiente)
+Fichas adicionales de duendes latinoamericanos (pendiente)
 
 ### CODEX XVIII · BESTIARIUM · ORDO CHIMAERICUS
-Grifo, Mantícora, Dragón, Sirena, Basilisco, Fénix, Unicornio, Cerbero, Hidra, Gorgona, Esfinge, Minotauro, Escila y Caribdis, Fenrir, Jörmungandr, Kraken, Rakshasa, Naga, Garuda, Simurgh, Roc, Tengu, Oni, Kappa
+Fichas individuales de 24 entidades de morfología compuesta
 
 ### CODEX XIX · BESTIARIUM · ORDO SPECTRALIS
-Banshee, Santa Compaña, El Silbón, Fetch/Vardøger, Okiku, Oiwa, La Llorona/La Sayona/La Cegua, Funayūrei, El Holandés Errante, La Cacería Salvaje, El autoestopista fantasma
+Fichas individuales de 11 entidades espectrales regionales
+Ficha de la Bean-nighe escocesa (pendiente)
+Ficha del Gashadokuro japonés (pendiente)
+Variantes regionales de la Dama Blanca (pendiente)
 
 ### CODEX XX · BESTIARIUM · ORDO TRANSMUTATUS
-Licántropo, el cambiapieles del suroeste, Kitsune, el hambriento invernal, Vampiro, más notas sobre fiabilidad diagnóstica y enterramientos apotropaicos
+Fichas individuales de 5 entidades de transformación humana
+Nota sobre fiabilidad diagnóstica
+Nota sobre enterramientos apotropaicos
 
 ### CODEX XXI · CRYPTOZOOLOGIA (La Criptozoología)
-Diez patrones de avistamiento documentados con nota metodológica sobre evidencia testimonial
+Diez patrones de avistamiento documentados
+Nota metodológica sobre evidencia testimonial
+
+### CODEX XXII · BESTIARIUM · ORDO CAELESTIS (pendiente)
+Fichas individuales de arcángeles y ángeles documentados en tradiciones angelológicas verificables
+
+### CODEX XXIII · BESTIARIUM · ORDO GENIORUM (pendiente)
+Fichas individuales de djinn documentados: ifrit, marid, shaitan, qarin
+
+### CODEX XXIV · BESTIARIUM · ORDO SPIRITUUM POSSESSORIUM (pendiente)
+Fichas individuales de los Loa y Orisha mejor documentados
+
+### CODEX XXV · BESTIARIUM · ORDO REDIVIVORUM (pendiente)
+Fichas de cadáveres animados que no encajan en la Orden Transmutada: Draugr escandinavo y figuras equivalentes
