@@ -42,6 +42,7 @@
 - Sectio II. Exorcismo y neutralización
 - Sectio III. Exorcismo fuera de la tradición cristiana (pendiente)
 - Sectio IV. Ritos de tránsito comparados: matrimonio espiritual, guía de almas (pendiente)
+- Sectio V. Modelos no demoníacos de adherencia espiritual: vampirismo psíquico y espíritus obsesores (pendiente)
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
@@ -90,8 +91,8 @@
 ## PARS IV · SPECTRA (Los Espectros)
 
 ### CODEX XIV · SPECTRA (Los Espectros)
-- Sectio I. Fantasmas y aparecidos
-- Sectio II. Posesión y fenómenos poltergeist
+- Sectio I. Fantasmas y aparecidos (ampliación pendiente: mecanismo de registro material del tipo residual, alucinación de duelo, presencia protectora en supervivencia extrema)
+- Sectio II. Posesión y fenómenos poltergeist (caso de referencia adicional pendiente: hostigamiento sostenido y dirigido contra un individuo)
 - Sectio III. Objetos malditos y lugares de poder
 
 ## PARS V · BESTIARIUM (El Bestiario)
@@ -128,6 +129,7 @@
 - Variantes regionales de la Dama Blanca (pendiente)
 - Ficha del Preta búdico-hindú (pendiente)
 - Fichas mesoamericanas: Cihuateteo y Xtabay (pendiente)
+- Fichas de entidades del ataque nocturno del durmiente: variantes regionales de la presencia que paraliza y oprime (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
 - Fichas de 5 entidades de transformación humana
