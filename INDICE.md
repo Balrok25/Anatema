@@ -132,7 +132,7 @@
 - Fichas de entidades del ataque nocturno del durmiente: variantes regionales de la presencia que paraliza y oprime (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
-- Fichas de 5 entidades de transformación humana
+- Fichas de 10 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Vampiro, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual
 - Nota sobre fiabilidad diagnóstica
 - Nota sobre enterramientos apotropaicos
 - Más variantes de no-muerto transformado: Strigoi rumano, Jiangshi chino (pendiente)
