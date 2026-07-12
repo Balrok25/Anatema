@@ -60,6 +60,14 @@ La persona que bloquea deja silencios.
 
 Y los silencios son mucho más difíciles de estudiar.
 
+Pero hay una manera de estudiar un silencio: mirar dónde está.
+
+Si el nulo existe, buscarlo por sus historias es absurdo, porque su rasgo es no generarlas. Lo que sí puede buscarse es el hueco. El folklore funciona como un clima: donde hay gente, llueven historias. Cada comarca tiene su aparecida, su casa que no se alquila, su cruce que se evita de noche. La densidad varía, pero nunca es cero. Y sin embargo, quien recorre los archivos del folklore con suficiente paciencia acaba tropezando con anomalías que ningún compilador comenta: la aldea sin un solo fantasma documentado, rodeada de comarcas que los tienen a docenas. La casa antigua de la que nadie cuenta nada, en un pueblo donde se cuenta todo. El linaje sin historias en una familia donde cada generación las tiene.
+
+Puede que no signifique nada. Los archivos están incompletos, los recopiladores no llegaron a todas partes, el azar existe. Pero el patrón que busco no es la ausencia aislada sino la ausencia rodeada: el punto mudo en mitad de una región que habla. Un mapa del folklore, leído en negativo, como el revelado de una fotografía. Donde todos los pueblos vecinos tienen leyenda y uno no la tiene, la pregunta correcta quizá no sea qué les pasó a los demás.
+
+Es qué vivía en ese.
+
 La aparición del concepto de Pariah en la ficción moderna llevó esta idea hasta su forma más extrema: un individuo que no proyecta ninguna influencia psíquica, que genera un vacío alrededor suyo, que no permite que otros fenómenos ocurran en su presencia.
 
 La ficción, aunque no sea una prueba histórica, plantea una pregunta interesante: ¿por qué diferentes autores llegaron a imaginar una figura tan concreta? ¿Por qué la idea del individuo vacío, del ser sin conexión o del anulador aparece repetidamente cuando se exploran sistemas donde existen personas capaces de percibir más allá de lo común?
@@ -89,6 +97,46 @@ Imagina un exorcismo que no avanza. El operador ha hecho todo lo que los codices
 Si el operador aprende a reconocer a uno, todo cambia. Al nulo no se le invoca. No se le consagra. No se le traza. Se le pide que se quede en la habitación.
 
 Y debajo hay una pregunta más incómoda, y prefiero dejarla escrita. Si un nulo anula, ¿qué le hace su presencia sostenida a un practicante? ¿A un médium que vive con uno? ¿A una casa marcada, a un objeto maldito guardado en un cajón? ¿La nulidad protege, o simplemente apaga, sin distinguir entre lo que amenaza y lo que uno ama? Nadie lo sabe. Nadie lo ha medido. Este codex existe para que alguien, algún día, lo intente.
+
+## El otro miedo
+
+Hasta aquí he escrito del nulo como quien escribe de un recurso. Una contramedida, una anomalía, una pieza que falta en el archivo. Pero hay otra forma de mirarlo, y me la impuso una pregunta simple: ¿y si no sabe lo que es?
+
+Nadie nace sabiendo que le falta algo que no puede verse. El nulo crecería como cualquiera, en un mundo que habla constantemente de lo que él no percibe. Estaría en la casa que todos llaman cargada y no sentiría nada. Visitaría el lugar sagrado donde su familia baja la voz y solo vería piedras. Sostendría el péndulo y el péndulo no se movería. Una y otra vez, la misma escena: los demás sienten algo y él no.
+
+¿Y qué conclusión saca una persona de eso? No piensa que es un vacío andante que apaga lo invisible. Piensa que es insensible. Que le falta imaginación. Que los demás exageran o que él está roto. He leído cientos de testimonios de personas que perciben de más, y todas comparten el miedo a estar locas. El que percibe de menos ni siquiera tiene un miedo que compartir. Tiene un encogerse de hombros que lo acompaña toda la vida.
+
+Y luego están las frases. Contigo no funciona. Mejor sal de la habitación. Rompes el ambiente. Dichas sin crueldad, incluso con cariño, cada una confirmando lo mismo: donde tú estás, no pasa nada. Quizá la inmunidad más completa que existe contra todo lo catalogado en este compendio se pague con eso. Con no poder entrar nunca del todo en el mundo del que este libro habla. Protegido de todo, incluido lo que amaba.
+
+El precio de la inmunidad es la sordera. Y nadie le preguntó si quería pagar.
+
+## La ficha imposible
+
+Cuando este compendio toma una entidad en serio, le escribe una ficha. Es el gesto que separa el rumor del catálogo: nombre, clasificación, peligrosidad, actuación, vulnerabilidades, territorio. Cientos de veces he rellenado esos campos. Así que intenté hacerlo una vez más. Intenté escribirle al nulo su ficha, como a todo lo demás.
+
+Esto es lo que quedó.
+
+### El nulo
+
+*Orden / Clasificación: ninguna; las órdenes de este compendio clasifican lo que se manifiesta*
+
+**Imagen:** no deja; ninguna descripción coincide, porque nadie lo mira dos veces
+
+**Peligrosidad:** nula para el ser humano; absoluta para todo lo demás que este libro cataloga
+
+**Actuación:** ninguna; ante su presencia no hay procedimiento, porque no hay fenómeno
+
+**Vulnerabilidades:** se desconocen; nada de lo que actúa a través del velo lo alcanza, y lo que actúa sin el velo lo alcanza como a cualquiera
+
+**Capacidades documentadas:** ninguna, y esa es exactamente su capacidad
+
+**Territorio:** cualquier silla de cualquier sala; ahora mismo puede estar en la tuya
+
+**Actividad:** constante e indetectable; se mide por lo que deja de ocurrir
+
+**Invocable:** no; no hay nombre que lo llame, ni sello que lo trace, ni ritmo que lo baje
+
+Es la única ficha de este compendio en la que cada campo está vacío y, aun así, ninguno está en blanco. La escribí igual. Un catálogo de todo lo oculto que no incluyera al agujero de su propio centro estaría incompleto, aunque la única manera honesta de incluirlo sea esta: una ficha que documenta, campo por campo, todo lo que no se puede documentar.
 
 ## El anatema
 
