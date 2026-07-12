@@ -21,7 +21,7 @@
 ### CODEX III · VERBUM (La Palabra)
 - Sectio I. Logos et Heka: el lenguaje primordial
 - Sectio II. Nomina Vera: nombres verdaderos y sellos
-- Sectio III. Cábala práctica y creación artificial: el árbol sefirótico, el golem (pendiente)
+- Sectio III. Cábala práctica y creación artificial: el árbol sefirótico, el ser de barro, el ser de vaso
 
 ### CODEX IV · INSTRUMENTA (Los Instrumentos)
 - Sectio I. Círculos, sellos y materiales
@@ -52,8 +52,8 @@
 ## PARS III · ARTES HUMANAE (Las Artes Humanas)
 
 ### CODEX VIII · ARTES MINORES (Las Artes Menores)
-- Sectio I. Hechizos y maleficios (ampliación pendiente: magia de nudos y cordón, sak yant)
-- Sectio II. Alquimia (ampliación pendiente: alquimia interior china, el homúnculo)
+- Sectio I. Hechizos y maleficios: talismán, maleficio, magia de nudos, marcado corporal ritual
+- Sectio II. Alquimia: las cuatro fases, correspondencias, multiplicación, vía interior china sin sustancia
 - Sectio III. Hoodoo y trabajo de raíces: bolsa de mojo, magia de rastro, cruce de caminos, velas y baños rituales
 - Sectio IV. Magia del caos: sigilos y servidores (pendiente)
 
