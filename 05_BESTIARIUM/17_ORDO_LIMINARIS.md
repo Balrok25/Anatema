@@ -46,28 +46,6 @@ Entidad que replica con exactitud la forma de una persona viva concreta y actúa
 
 Entidad vinculada a una persona de apetito desmedido, que se alimenta de la esencia de lo que esa persona consume sin que la cantidad física de alimento disminuya de forma perceptible. Su presencia explica, dentro de esta tradición, casos de apetito extraordinario sin ganancia de peso ni saciedad correspondiente.
 
-### El acompañante asignado
-
-*Orden / Clasificación: Liminar*
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Peligrosidad:** Baja
-
-**Actuación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar.
-
-**Vulnerabilidades:** Reconducible hacia influencia neutra o favorable mediante práctica religiosa sostenida
-
-**Capacidades documentadas:** Susurra impulsos hacia el error moral; no puede forzar la voluntad
-
-**Territorio:** Vinculado a la persona desde su nacimiento
-
-**Actividad:** No documentada
-
-**Invocable:** No, contacto por reciprocidad, no por convocatoria
-
-Documentado en la misma tradición islámica mencionada en la Orden Elemental, esta entidad se asigna de forma individual a cada persona desde su nacimiento y la acompaña de forma constante durante el resto de su vida, sin que la persona acompañada tenga por qué percibir su presencia de forma directa. A diferencia del co-caminante, no replica la forma de la persona a la que acompaña; su función documentada es la de una presencia próxima capaz de susurrar impulsos hacia el error moral, sin capacidad de forzar la voluntad de la persona en ningún caso. Algunas fuentes dentro de la misma tradición sostienen que esta entidad puede reconducirse hacia una influencia neutra o incluso favorable mediante la práctica religiosa sostenida de la persona a la que acompaña, lo cual la distingue de las dos entidades anteriores de esta misma Orden, ninguna de las cuales se documenta como sujeta a modificación por conducta del afectado.
-
 ### Brownie
 
 *Orden / Clasificación: Liminar*
@@ -397,28 +375,6 @@ Entidad de figura humana de cintura para arriba y equina de cintura para abajo, 
 **Invocable:** No, contacto por reciprocidad, no por convocatoria
 
 Guardián de la naturaleza y de tesoros ocultos, subordinado en el registro a una figura de autoridad que encabeza a toda esta categoría como señor de la riqueza del mundo. Su disposición general se documenta como benévola y generosa hacia quien respeta el lugar natural que custodia, aunque el mismo registro documenta también un margen consistente de conducta caprichosa o violenta que impide tratarlo como uniformemente seguro.
-
-### Aswang
-
-*Orden / Clasificación: Liminar, disposición hostil, umbral doble (día/noche)*
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Peligrosidad:** Alta
-
-**Actuación:** Localizar y destruir la mitad inferior del cuerpo, dejada atrás durante el vuelo nocturno, impide su reintegración antes del amanecer; sal, ajo o especias afiladas dispuestas sobre la mitad inferior potencian esa contramedida.
-
-**Vulnerabilidades:** Incapaz de reintegrarse a su mitad inferior si esta se destruye, se sala o se cubre de especias antes de su regreso; el amanecer la obliga a completar la reintegración o quedar expuesta
-
-**Capacidades documentadas:** Apariencia humana ordinaria de día; de noche se segmenta a la altura de la cintura y la mitad superior vuela en busca de vísceras o de fetos no nacidos, extraídos mediante una lengua tubular y extensible
-
-**Territorio:** Filipinas
-
-**Actividad:** Nocturna; apariencia humana ordinaria durante el día
-
-**Invocable:** No
-
-Término general que agrupa a varias figuras emparentadas del folclore filipino, de las cuales la variante que se segmenta por la cintura es la más extensamente documentada: durante el día no se distingue de una persona cualquiera, y de noche la mitad superior del cuerpo se separa de la inferior y vuela en busca de vísceras humanas o de fetos no nacidos, que extrae mediante una lengua tubular capaz de alargarse a gran distancia. La mitad inferior permanece oculta en algún lugar mientras la superior caza, y localizarla y destruirla, salarla o cubrirla de especias antes de que la entidad regrese le impide reintegrarse, dejándola expuesta e indefensa con la llegada del amanecer.
 
 ### Nota sobre la fórmula de paso
 

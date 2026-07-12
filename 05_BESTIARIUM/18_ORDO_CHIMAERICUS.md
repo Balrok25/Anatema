@@ -396,7 +396,7 @@ Entidad de la tradición india capaz de cambiar de forma a voluntad, descrita co
 
 **Invocable:** No, entidad de encuentro
 
-
+Entidad serpentina de la tradición índica, documentada desde la forma de serpiente colosal hasta la forma mixta de torso humano y cuerpo de serpiente, habitante de ríos, lagos y fuentes subterráneas donde actúa como guardiana del agua y de los tesoros que alberga. Su disposición es la más variable de esta Orden: el mismo registro documenta protección sostenida de comunidades enteras y represalia destructiva ante la profanación de su territorio, sin que ninguna de las dos lecturas domine el conjunto. Es la presa específica de Garuda, catalogada a continuación en esta misma Orden.
 
 ### Garuda
 

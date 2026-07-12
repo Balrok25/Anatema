@@ -110,12 +110,11 @@
 - Nota sobre la tradición de los genios
 
 ### CODEX XVII · BESTIARIUM (El Bestiario) · ORDO LIMINARIS (Orden Liminar)
-- Fichas de 18 entidades domésticas y silvestres: las 12 originales más Leshy, Vodyanoy, Kikimora, Poludnitsa, Tikbalang y Yaksha
+- Fichas de 17 entidades domésticas y silvestres: las 11 originales (el acompañante individual se cataloga como Qarin en el Ordo Geniorum) más Leshy, Vodyanoy, Kikimora, Poludnitsa, Tikbalang y Yaksha
 - Nota sobre la fórmula de paso
 - Nota sobre los espíritus domésticos eslavos y escandinavos
 - Nota sobre las hadas y el otro mundo feérico
 - Ampliación de la corte feérica (pendiente)
-- Ficha del Aswang filipino
 - Más duendes latinoamericanos (pendiente)
 
 ### CODEX XVIII · BESTIARIUM (El Bestiario) · ORDO CHIMAERICUS (Orden Quimérica)
@@ -126,9 +125,7 @@
 - Variantes regionales de la Dama Blanca (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
-- Fichas de 12 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Vampiro, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual, Strigoi, Jiangshi
-- Nota sobre fiabilidad diagnóstica
-- Nota sobre enterramientos apotropaicos
+- Fichas de 11 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual, Strigoi, Aswang
 
 ### CODEX XXI · BESTIARIUM (El Bestiario) · ORDO CRYPTICUS (Orden Críptida · La Criptozoología)
 - 15 patrones de avistamiento documentados, incluidos habitante de pantano meridional, gusano rojo del desierto, cabeza acorazonada de ojos anaranjados, figura de niebla con cabeza en forma de pala, hombre alado de la torre
@@ -145,7 +142,9 @@
 - Fichas de 6 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya, Mami Wata, Anansi
 
 ### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados)
-- Fichas de 2 cadáveres reanimados ajenos a la Orden Transmutada: Draugr y Zombi
+- Fichas de 4 cadáveres reanimados ajenos a la Orden Transmutada: Draugr, Zombi, Vampiro y Jiangshi
+- Nota sobre la fiabilidad del diagnóstico
+- Nota sobre enterramientos apotropaicos
 - Ampliación pendiente: otras figuras de no-muerto reanimado por región
 
 ### CODEX XXVI · BESTIARIUM (El Bestiario) · ORDO CUSTODUM NATURAE (Orden de los Guardianes de la Naturaleza) (pendiente)
