@@ -190,6 +190,30 @@ Entidad vinculada a una persona de apetito desmedido, que se alimenta de la esen
 
 Documentado en la misma tradición islámica mencionada en la Orden Elemental, esta entidad se asigna de forma individual a cada persona desde su nacimiento y la acompaña de forma constante durante el resto de su vida, sin que la persona acompañada tenga por qué percibir su presencia de forma directa. A diferencia del co-caminante, no replica la forma de la persona a la que acompaña; su función documentada es la de una presencia próxima capaz de susurrar impulsos hacia el error moral, sin capacidad de forzar la voluntad de la persona en ningún caso. Algunas fuentes dentro de la misma tradición sostienen que esta entidad puede reconducirse hacia una influencia neutra o incluso favorable mediante la práctica religiosa sostenida de la persona a la que acompaña, lo cual la distingue de las dos entidades anteriores de esta misma Orden, ninguna de las cuales se documenta como sujeta a modificación por conducta del afectado.
 
+### Brownie
+
+Entidad doméstica documentada en el folclore de las islas británicas, de estatura reducida y apariencia arrugada, que habita en el interior de una vivienda concreta y realiza durante la noche tareas domésticas —barrer, ordeñar, moler grano— sin que nadie la vea trabajar, a cambio de una ofrenda de leche o de un cuenco de nata dejado en un lugar fijo de la casa cada noche. Su comportamiento ilustra de forma directa la lógica de reciprocidad descrita como propia de esta Orden en el Codex de la Naturaleza de las Entidades: la ofrenda no debe agradecerse en voz alta ni pagarse con una prenda de vestir, porque ambos gestos se documentan de forma consistente como causa de que la entidad abandone la vivienda de inmediato y no regrese jamás, interpretando el pago formal como un cierre de la relación de servicio y no como un refuerzo de esta.
+
+### Duende doméstico
+
+Entidad de tamaño reducido documentada en el folclore de la península ibérica y, tras la colonización, en gran parte de Hispanoamérica con variantes regionales, que habita rincones concretos de una vivienda o de un terreno y se manifiesta mediante ruidos, objetos desplazados de sitio y bromas menores dirigidas a los ocupantes, sin llegar al nivel de agresión física salvo provocación sostenida. A diferencia del brownie descrito arriba, no se documenta un patrón de tarea doméstica realizada a cambio de ofrenda: su motivación se describe con mayor frecuencia como la simple defensa de un territorio que considera propio dentro de la vivienda, y la práctica de placación más extendida consiste en dejarle una porción pequeña de comida en el rincón que ocupa y evitar insultar o desafiar en voz alta su presencia.
+
+### Alux
+
+Guardián de tamaño reducido, semejante a un niño, documentado en la tradición maya yucateca como protector de la milpa o parcela de cultivo. Se documenta invocado de forma deliberada por el propio agricultor mediante una ceremonia de consagración de una pequeña figura de piedra o arcilla colocada en el terreno, tras la cual la entidad protege la cosecha de intrusos y de otros animales durante un periodo fijo, tradicionalmente de varios años. Cumplido ese periodo, la tradición exige "cerrar" al alux mediante un ritual específico que le retira su función activa; el registro documenta de forma consistente que omitir este cierre convierte a la entidad, antes protectora, en una fuente de travesuras y de mala fortuna para el propio agricultor que la invocó.
+
+### Tokoloshe
+
+Entidad de pequeño tamaño documentada en el folclore zulú y de otras comunidades del sur de África, invocada con frecuencia por un practicante de brujería o por un adivino a petición de una tercera persona con intención de perjudicar a alguien concreto, aunque también documentada actuando de forma espontánea sin invocación previa. Se manifiesta durante la noche, con frecuencia asociada a parálisis del sueño, ruidos y una sensación de presión sobre el pecho de la persona afectada. La medida de protección doméstica documentada con mayor consistencia, y todavía practicada en la actualidad, consiste en elevar la cama sobre ladrillos u otro soporte, partiendo del principio de que esta entidad no puede alcanzar a una persona dormida por encima de una altura mínima determinada.
+
+### Zashiki-warashi
+
+Entidad con apariencia de niño o niña pequeña, documentada en el folclore de la región de Iwate, en el norte de Japón, que habita una habitación concreta de una vivienda tradicional y cuya sola presencia, casi nunca vista directamente, se asocia con la prosperidad sostenida del hogar que la alberga. El patrón documentado con mayor consistencia describe el declive económico o la ruina de una familia coincidiendo con el abandono de la vivienda por parte de la entidad, en ocasiones percibido por un vecino o un visitante que afirma haberla visto marcharse poco antes de que la desgracia se manifestara. A diferencia de las entidades anteriores de esta Orden, no se documenta ofrenda ni ritual capaz de retenerla de forma garantizada una vez que decide partir.
+
+### Nota sobre la fórmula de paso
+
+Independiente de cualquier entidad individual catalogada en esta Sectio, buena parte del sudeste asiático conserva la costumbre extendida de pronunciar una fórmula breve de disculpa antes de orinar, cortar vegetación o alterar de cualquier modo un lugar no urbanizado —la base de un árbol de gran tamaño, un montículo de tierra, un cruce de senderos—, bajo el principio de que ese lugar puede estar habitado por una entidad invisible a la que la intrusión repentina ofende si no se la advierte primero. La práctica, documentada de forma extensa en Filipinas bajo una fórmula fija que se traduce aproximadamente como "con permiso", se mantiene vigente en el habla y la costumbre cotidiana contemporánea con independencia de la fe religiosa formal de quien la pronuncia, y ejemplifica del modo más directo posible el principio ya establecido en el Codex de la Naturaleza de las Entidades de que esta Orden ocupa los márgenes del espacio humano y exige reciprocidad, no sumisión, como forma de trato.
+
 ## Orden Quimérica
 
 ### Grifo
@@ -316,5 +340,7 @@ Lo que sigue no introduce ningún dato nuevo: es una reunión en un solo punto d
 | Minotauro | Un hilo desenrollado desde la entrada del laberinto, sostenido por un tercero, para no perderse en la estructura | Bestiarium Campi, Orden Quimérica |
 | Escila y Caribdis | Mantener el rumbo lo más alejado posible del remolino, aceptando el riesgo menor del ataque de cabezas caninas | Bestiarium Campi, Orden Quimérica |
 | Kappa | Verter el agua del plato sobre su cabeza, ya sea por accidente o al obligarla a devolver una reverencia | Bestiarium Campi, Orden Quimérica |
+| Tokoloshe | Elevar la cama sobre ladrillos u otro soporte, por encima de la altura que la entidad puede alcanzar | Bestiarium Campi, Orden Liminar |
+| Brownie doméstico | Se retira de forma permanente si se le agradece en voz alta o se le paga con una prenda de vestir | Bestiarium Campi, Orden Liminar |
 
 Este cuadro se ampliará de forma natural a medida que se documenten nuevas entidades o procedimientos en codices posteriores; ninguna vulnerabilidad debe añadirse aquí sin que conste primero, de forma completa, en el Codex correspondiente.
