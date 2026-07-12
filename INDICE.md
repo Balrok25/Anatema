@@ -46,7 +46,7 @@
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
-- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, feng shui, espejo negro, sueños (ampliación pendiente: tarot, Vastu Shastra, tasseografía, el laberinto)
+- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, feng shui, Vastu Shastra, espejo negro, lectura de posos, laberinto, sueños (ampliación pendiente: tarot)
 - Sectio III. Captación instrumental y marco de investigación
 
 ## PARS III · ARTES HUMANAE (Las Artes Humanas)
@@ -71,7 +71,7 @@
 - Sectio II. Numerología
 - Sectio III. Procedimientos prácticos de reducción numérica
 - Sectio IV. Astrología práctica: cuerpos celestes, casas y aspectos, método de lectura combinada
-- Sectio V. Selección de días fastos: calendario chino y maya (pendiente)
+- Sectio V. Selección de días fastos: calendario de 260 días mesoamericano, almanaque chino
 
 ### CODEX XII · ORDINES RITUALES (Las Órdenes Rituales)
 - Sectio I. La hermandad de la rosa y la cruz

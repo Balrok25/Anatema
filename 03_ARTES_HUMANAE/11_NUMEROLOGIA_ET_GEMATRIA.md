@@ -55,3 +55,15 @@ Ninguna de las tres capas se lee de forma aislada: la práctica documentada exig
 ### Los ángulos que se reconocen entre dos cuerpos
 
 De la totalidad de ángulos matemáticamente posibles entre dos cuerpos celestes en un mapa, la práctica documentada reconoce un número reducido como significativos: la conjunción, cuando ambos cuerpos ocupan la misma posición y sus influencias se funden en una sola; la oposición, cuando se sitúan en polos opuestos del mapa y sus influencias tienden a la tensión o al equilibrio forzado entre extremos; el cuadrado, un ángulo recto entre ambos que se documenta como el de mayor fricción y desafío; y el trígono y el sextil, ángulos de menor tensión que se documentan como favorables y de flujo relativamente libre entre las influencias combinadas. Un mapa con predominio de cuadrados y oposiciones se interpreta como una vida de mayor tensión productiva; uno con predominio de trígonos y sextiles, como una vida de mayor facilidad pero también de menor impulso al cambio.
+
+## Sectio V — Selección de días fastos
+
+Más allá de la lectura de un mapa completo ya descrita en la Sectio anterior, dos sistemas de calendario documentan un uso práctico distinto: la evaluación de un día concreto, aislado de cualquier mapa personal, como favorable o desfavorable para una acción determinada.
+
+### El calendario de doscientos sesenta días
+
+Un sistema mesoamericano combina veinte signos de día con trece tonos numéricos en ciclo fijo, de forma que cada combinación posible de signo y tono se repite exactamente cada doscientos sesenta días y no vuelve a repetirse antes. Cada uno de los veinte signos porta un carácter propio que determina el tipo de actividad favorecida ese día —juicio y buen criterio, confesión y resolución de conflicto verbal, entre otros— y algunos signos se documentan de forma consistente como desfavorables para cualquier inicio, reservados en cambio para el cierre de asuntos ya en marcha. La consulta de este calendario antes de fijar la fecha de un ritual, un viaje o una decisión importante sigue vigente en comunidades que conservan la tradición, con un especialista dedicado a su interpretación de la misma manera que el resto de este Codex documenta especialistas dedicados a la gematría o a la reducción numérica.
+
+### El almanaque chino
+
+Un sistema de origen chino, de uso continuo y actualizado hasta la actualidad, asigna a cada día del año uno de doce oficiales fijos en ciclo repetido, cada uno favorable a un conjunto determinado de actividades (fundar, iniciar una construcción, viajar, casarse) y desfavorable a otro conjunto distinto y a menudo opuesto. A diferencia del calendario de doscientos sesenta días, este sistema no evalúa el día de forma aislada sino en combinación con la actividad concreta que se planea, de modo que un mismo día puede considerarse favorable para un tipo de asunto y desfavorable para otro dentro del mismo ciclo. La consulta previa a la fijación de una fecha importante —boda, mudanza, apertura de un negocio, inicio de un viaje— se mantiene como práctica extendida y de consulta habitual.
