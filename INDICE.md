@@ -34,7 +34,7 @@
 - Sectio II. Magia angélica
 - Sectio III. Espíritus elementales
 - Sectio IV. Necromancia
-- Sectio V. Invocación por posesión: Vodou, Santería, Orisha e Ifá (pendiente)
+- Sectio V. Invocación por posesión: guardián de umbral, dos familias de disposición, verificación comunitaria
 - Sectio VI. Los genios: la tradición islámica del djinn (pendiente)
 
 ### CODEX VI · CONTENTIO (La Contención)
@@ -150,8 +150,8 @@
 - Fichas de djinn documentados: ifrit, marid, shaitan, qarin
 - Figuras persas afines: Peri y Div (pendiente)
 
-### CODEX XXIV · BESTIARIUM (El Bestiario) · ORDO SPIRITUUM POSSESSORIUM (Orden de los Espíritus de Posesión) (pendiente)
-- Fichas de los Loa y Orisha mejor documentados
+### CODEX XXIV · BESTIARIUM (El Bestiario) · ORDO SPIRITUUM POSSESSORIUM (Orden de los Espíritus de Posesión)
+- Fichas de 4 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya
 - Figuras panafricanas afines: Mami Wata y Anansi (pendiente)
 
 ### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados) (pendiente)
