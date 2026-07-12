@@ -101,7 +101,7 @@
 - Fichas de los 33 demonios de la jerarquía goética
 - Nota sobre rango y escolta de manifestación
 - Nota sobre la jerarquía alternativa del Grimorium Verum
-- Fichas propias de los ministros del Grimorium Verum (pendiente)
+- Fichas de los 6 ministros del Grimorium Verum: Lucifuge Rofocale, Satanachia, Agaliarept, Fleurety, Sargatanas, Nebiros
 - Otra tradición adversarial: demonología mesopotámica y Asura hindúes (pendiente)
 
 ### CODEX XVI · BESTIARIUM (El Bestiario) · ORDO ELEMENTALIS (Orden Elemental)

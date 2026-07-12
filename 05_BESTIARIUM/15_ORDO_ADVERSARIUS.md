@@ -741,3 +741,135 @@ En la cúspide de la estructura invertida de once niveles descrita en el Codex d
 Un grimorio distinto del catálogo de setenta y dos entidades desarrollado en esta Sectio, de difusión y datación independientes (compilado y publicado en Europa durante el siglo XVIII bajo una atribución de origen mucho más antigua que ninguna fuente permite verificar), documenta una estructura de mando diferente que este compendio conserva por separado y no funde con la anterior. Tres autoridades superiores gobiernan esta segunda estructura, cada una asociada a un punto cardinal: Lucifer, al oriente; Belcebú, al norte; y Astaroth, al mediodía. Esta última asignación es, en sí misma, un dato relevante para el principio de síntesis de variantes que rige todo este compendio: el mismo nombre catalogado más arriba en esta Sectio como duque subordinado de cuarenta legiones ocupa, en este segundo sistema, el rango de autoridad cardinal máxima. Ninguna de las dos fuentes se corrige a partir de la otra; ambas se conservan tal como cada una las documenta, sin forzar una jerarquía única entre ellas.
 
 Bajo estas tres autoridades sirve un cuerpo reducido de ministros con funciones específicas y bien delimitadas: Lucifuge Rofocale, primer ministro encargado en particular de gestionar los pactos relacionados con riqueza material y tesoros ocultos; Satanachia y Agaliarept, dos generales subordinados a la autoridad de oriente y encargados de la ejecución directa de las tareas encomendadas; Fleurety, teniente general de esa misma autoridad; Sargatanas, brigadier subordinado a la autoridad de norte; y Nebiros, mariscal de campo e inspector general subordinado a la autoridad de mediodía. El operador que seguía este sistema se dirigía primero al ministro correspondiente a su propósito concreto, no a las tres autoridades cardinales de forma directa, siguiendo el mismo principio de intermediación ya descrito en el Codex de la Contención para las entidades de mayor rango del catálogo goético estándar.
+
+### Lucifuge Rofocale
+
+*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, primer ministro*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Convocatoria dirigida directamente a esta entidad, no a las tres autoridades cardinales → Codex del Arte de Evocar, Sectio I. Negociación de pacto centrada en riqueza o tesoro oculto → Codex de la Contención, Sectio I.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Gestiona pactos relacionados con riqueza material y tesoros ocultos; actúa como intermediario obligado entre el operador y las tres autoridades cardinales de este sistema
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
+
+**Invocable:** Sí
+
+Primer ministro de esta jerarquía alternativa, intermediario obligado para cualquier pacto centrado en riqueza material o localización de tesoro oculto. El operador que sigue este sistema se dirige a él en primer lugar y no a ninguna de las tres autoridades cardinales de forma directa, siguiendo el mismo principio de intermediación ya descrito para las entidades de mayor rango del catálogo goético estándar.
+
+### Satanachia
+
+*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, general subordinado a la autoridad de oriente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Ejecución directa de tareas encomendadas por su autoridad superior; capacidad documentada de doblegar la voluntad de una persona en asuntos de atracción y sumisión afectiva
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
+
+**Invocable:** Sí
+
+General subordinado a la autoridad de oriente de esta jerarquía, documentado en particular por su capacidad de doblegar la voluntad de una persona en asuntos de atracción y sumisión afectiva, además de su función general de ejecución directa de tareas encomendadas.
+
+### Agaliarept
+
+*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, general subordinado a la autoridad de oriente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Descubre secretos guardados en cortes y consejos de gobierno; revela misterios de naturaleza elevada no accesibles por otra vía
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
+
+**Invocable:** Sí
+
+Segundo general subordinado a la autoridad de oriente, documentado en particular por su capacidad de descubrir secretos guardados en cortes y consejos de gobierno, además de la función de ejecución directa que comparte con Satanachia.
+
+### Fleurety
+
+*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, teniente general subordinado a la autoridad de oriente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Ejecución nocturna de tareas encomendadas; el registro le atribuye de forma menos consistente que al resto de esta jerarquía capacidad de daño a cultivos y de alteración meteorológica local
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** Nocturna
+
+**Invocable:** Sí
+
+Teniente general de la misma autoridad de oriente que Satanachia y Agaliarept, de funciones documentadas con menor consistencia que el resto de esta jerarquía; el registro lo asocia de forma menos firme a tareas de ejecución nocturna y a cierta capacidad de alteración meteorológica local.
+
+### Sargatanas
+
+*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, brigadier subordinado a la autoridad de norte*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Otorga invisibilidad y capacidad de traslado instantáneo a cualquier lugar; abre cualquier cerradura; revela lo que ocurre en el interior de una vivienda ajena
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
+
+**Invocable:** Sí
+
+Brigadier subordinado a la autoridad de norte de esta jerarquía, documentado por un conjunto de capacidades centradas en el acceso no autorizado: invisibilidad, traslado instantáneo, apertura de cualquier cerradura y conocimiento de lo que ocurre en el interior de una vivienda ajena sin necesidad de entrar en ella.
+
+### Nebiros
+
+*Orden / Clasificación: Adversarial, jerarquía del Grimorium Verum, mariscal de campo e inspector general subordinado a la autoridad de mediodía*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Supervisión e inspección general de la jerarquía subordinada a la autoridad de mediodía; función asociada con mayor frecuencia que el resto de esta jerarquía a la necromancia y al conocimiento sobre los muertos
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
+
+**Invocable:** Sí
+
+Mariscal de campo e inspector general subordinado a la autoridad de mediodía, con función de supervisión sobre el resto de la jerarquía de esa autoridad. De los seis ministros de este sistema, es al que el registro asocia con mayor frecuencia a la necromancia y al conocimiento sobre los muertos, en paralelo funcional con el procedimiento ya descrito en el Codex del Arte de Evocar.
