@@ -1,6 +1,6 @@
 # CODEX XX · BESTIARIUM · ORDO TRANSMUTATUS
 
-Las fichas siguientes catalogan a los seres humanos que adquieren, mediante pacto, transgresión, maduración de una entidad no humana en apariencia humana, o posesión progresiva, una segunda forma activa documentada de forma consistente entre tradiciones, la Orden Transmutada descrita en el Codex de la Naturaleza de las Entidades. Cada ficha describe la forma activa transformada, no a la persona portadora en su estado ordinario, que en ningún momento se trata como entidad de pleno derecho. Dos de las diez fichas de esta Orden mantienen deliberadamente un título descriptivo en lugar del término vernáculo específico de su tradición de origen, siguiendo la misma reserva ya aplicada en ediciones anteriores de este compendio: parte de las comunidades de origen consideran el tema restringido y no destinado a difusión externa detallada, y este compendio respeta esa reserva limitándose al dato ya publicado en fuentes académicas.
+Las fichas siguientes catalogan a los seres humanos que adquieren, mediante pacto, transgresión, maduración de una entidad no humana en apariencia humana, o posesión progresiva, una segunda forma activa documentada de forma consistente entre tradiciones, la Orden Transmutada descrita en el Codex de la Naturaleza de las Entidades. Cada ficha describe la forma activa transformada, no a la persona portadora en su estado ordinario, que en ningún momento se trata como entidad de pleno derecho. Dos de las doce fichas de esta Orden mantienen deliberadamente un título descriptivo en lugar del término vernáculo específico de su tradición de origen, siguiendo la misma reserva ya aplicada en ediciones anteriores de este compendio: parte de las comunidades de origen consideran el tema restringido y no destinado a difusión externa detallada, y este compendio respeta esa reserva limitándose al dato ya publicado en fuentes académicas.
 
 ### Licántropo
 
@@ -221,6 +221,50 @@ Variante regional del cambiante lobuno documentada en comunidades de origen fran
 **Invocable:** No, capacidad adquirida, no entidad convocable
 
 Capacidad humana adquirida, no entidad de origen no humano: quien la posee accede a la forma de un animal vinculado a su propia identidad desde el nacimiento, de la misma familia conceptual que la creencia en un doble animal ligado al destino de cada persona. El registro documenta un uso tanto protector, en comunidades donde quien domina esta capacidad actúa como guardián de recursos y tradición locales, como perjudicial, cuando se emplea para agredir o intimidar; ambas disposiciones coexisten en el mismo registro sin que la comunidad de origen las resuelva de forma unívoca, y la apariencia de la forma animal no permite distinguir por adelantado cuál de las dos aplica.
+
+### Strigoi
+
+*Orden / Clasificación: Transmutada, origen por muerte anómala no resuelta, variante regional*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Letal
+
+**Actuación:** Exhumación e inspección del cuerpo original ante un patrón de muertes adicionales, siguiendo el mismo procedimiento ya descrito para el Vampiro de esta Orden.
+
+**Vulnerabilidades:** Mismas contramedidas que el Vampiro de esta Orden: perforación con instrumento de madera, o separación de la cabeza en casos de mayor gravedad
+
+**Capacidades documentadas:** Se distingue en dos variantes: una que ya posee el vínculo con la muerte en vida, capaz de hechicería y de conducta vampírica sin haber muerto, y otra que solo se manifiesta tras la muerte como cadáver reanimado de conducta más tosca; ambas se alimentan de la vitalidad de los vivos
+
+**Territorio:** Rumanía y regiones vecinas de los Balcanes
+
+**Actividad:** No documentada
+
+**Invocable:** No
+
+Variante regional del Vampiro de esta misma Orden, documentada con una distinción interna que no aparece en el resto del registro sobre esta categoría: una forma que ya se manifiesta en vida, de conducta cercana a la brujería y capaz de actividad vampírica sin haber muerto antes, y una forma exclusivamente post mortem, de conducta más simple y directamente ligada a la reanimación del propio cadáver. El resto del patrón, incluida la contramedida, es idéntico al ya descrito para el Vampiro.
+
+### Jiangshi
+
+*Orden / Clasificación: Transmutada, origen por muerte anómala o entierro incorrecto*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Contener la respiración o interrumpir el propio aliento ante un encuentro, dado que el registro documenta su localización de víctimas por detección del aliento y no por la vista.
+
+**Vulnerabilidades:** Se documenta incapaz de localizar a una persona que no respira de forma perceptible; un umbral elevado o un obstáculo que le impida el salto (su único modo de desplazamiento) basta para evitar el contacto
+
+**Capacidades documentadas:** Cuerpo rígido por rigidez cadavérica que le impide caminar con normalidad, desplazándose mediante saltos con los brazos extendidos; se alimenta de la vitalidad de la persona viva, no de su sangre, mediante contacto sostenido
+
+**Territorio:** China
+
+**Actividad:** Nocturna
+
+**Invocable:** No
+
+Cadáver reanimado cuya rigidez cadavérica, en lugar de impedir el movimiento por completo, lo obliga a desplazarse a saltos con los brazos extendidos hacia delante. A diferencia del Vampiro y del Strigoi de esta misma Orden, no se alimenta de sangre sino de la vitalidad general de la persona viva mediante contacto sostenido, y el registro documenta de forma consistente que localiza a sus víctimas detectando la respiración antes que por percepción visual, lo cual explica la contramedida de contener el propio aliento ante un encuentro.
 
 ### Nota sobre la fiabilidad del diagnóstico
 

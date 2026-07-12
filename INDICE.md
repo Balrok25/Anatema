@@ -41,7 +41,7 @@
 - Sectio I. Pactos y negociación
 - Sectio II. Exorcismo y neutralización
 - Sectio III. Exorcismo fuera de la tradición cristiana: ofrecimiento del cuerpo (Himalaya), diálogo y expulsión kabalística
-- Sectio IV. Ritos de tránsito comparados: matrimonio espiritual, guía de almas (pendiente)
+- Sectio IV. Ritos de tránsito comparados: matrimonio con un difunto, guía de almas comparada
 - Sectio V. Modelos no demoníacos de adherencia espiritual: vampirismo psíquico y espíritus obsesores (pendiente)
 
 ### CODEX VII · MEDIUM (El Médium)
@@ -86,7 +86,7 @@
 - Sectio I. Los especialistas
 - Sectio II. Dolencias culturales: susto y empacho
 - Sectio III. El diagnóstico y la limpia del huevo
-- Sectio IV. Braucherei y magia popular apalache (pendiente)
+- Sectio IV. Braucherei: sanación germano-americana, transmisión cruzada, protección de hogar y ganado
 
 ## PARS IV · SPECTRA (Los Espectros)
 
@@ -126,7 +126,7 @@
 - Fichas de entidades del ataque nocturno del durmiente: variantes regionales de la presencia que paraliza y oprime (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
-- Fichas de 10 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Vampiro, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual
+- Fichas de 12 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Vampiro, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual, Strigoi, Jiangshi
 - Nota sobre fiabilidad diagnóstica
 - Nota sobre enterramientos apotropaicos
 - Más variantes de no-muerto transformado: Strigoi rumano, Jiangshi chino (pendiente)

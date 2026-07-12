@@ -63,3 +63,15 @@ Establecido ese margen, quien dirige el procedimiento no exige ni amenaza en un 
 ### Contraste entre los tres modelos
 
 Los tres procedimientos reunidos en esta Sectio comparten el objetivo de resolver una posesión no consentida, pero difieren en el principio que sostiene su eficacia: coacción mediante autoridad y orden repetida en el procedimiento de la Sectio anterior, generosidad radical que retira todo punto de apoyo a la hostilidad en el primero de esta Sectio, y diálogo con escalada progresiva hacia la coacción solo como último recurso en el segundo. Ningún procedimiento de este compendio establece que uno de los tres sea superior a los otros dos; la elección depende de la naturaleza de la entidad involucrada y del marco cultural en que se produce el caso, siguiendo el mismo principio de síntesis de variantes aplicado al resto de este compendio.
+
+## Sectio IV — Ritos de tránsito comparados
+
+Más allá del cierre y la expulsión ya descritos, varias tradiciones documentan procedimientos dirigidos no a resolver una posesión sino a asistir el tránsito de un difunto hacia un estado de descanso estable, evitando que quede varado en la condición de aparición no resuelta descrita en el Codex de los Espectros.
+
+### El matrimonio con un difunto
+
+Una tradición de origen chino documenta un ritual matrimonial completo celebrado entre un difunto y una segunda parte, ya sea otro difunto o una persona viva, cuando la familia considera que la soledad de quien murió sin casarse puede convertirlo en una fuente de perturbación para los vivos. El ritual reproduce la boda ordinaria en su casi totalidad —intercambio de regalos entre familias, efigie vestida con traje nupcial en representación del difunto, ceremonia formal— y concluye con la quema de la efigie o con el enterramiento conjunto de ambos cuerpos si las dos partes están fallecidas. El propósito documentado no es sentimental sino preventivo: proporcionar compañía y continuidad de linaje al difunto para evitar que su insatisfacción se traduzca en perturbación activa sobre la familia superviviente.
+
+### Guía de almas comparada
+
+Ya se estableció en el Codex del Velo que una de las especializaciones del viaje chamánico consiste en acompañar a un alma recién desprendida del cuerpo durante el tramo inicial de su tránsito, con el propósito explícito de que no quede atrapada entre ambos estados. Esta misma función de acompañamiento se documenta, bajo procedimientos distintos, en tradiciones sin relación de contacto entre sí: instrucción leída en voz alta junto al cuerpo o la persona moribunda para orientar la consciencia a través de las fases del tránsito, plegaria y acompañamiento comunitario sostenido durante los días inmediatos a la muerte, y ofrenda ritual dirigida específicamente a facilitar el paso antes que a honrar la memoria del difunto. En los tres casos, el elemento común es el mismo: el tránsito inmediato tras la muerte se documenta como un periodo de mayor vulnerabilidad y desorientación de la propia alma, no como un cambio de estado instantáneo, y la función del ritual es sostener a esa alma durante ese margen antes que atender solo el duelo de los vivos.
