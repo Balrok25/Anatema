@@ -90,7 +90,7 @@ Ciertas entidades documentadas no encajan de forma limpia en un único orden. Al
 
 Las entidades vinculadas a la transformación corporal de un ser humano vivo, catalogadas por ficha individual en la Orden Transmutada del Bestiario, presentan la complejidad de clasificación más marcada de todo este sistema, porque su naturaleza cambia según la fase en que se las observe: en su forma humana no son una entidad en absoluto, y solo en su forma activa transformada admiten el tratamiento de ficha que el resto de este compendio aplica a una entidad estable. Este compendio resuelve la tensión catalogando de forma explícita solo esa segunda fase, sin que ello implique tratar a la persona no transformada como una entidad de pleno derecho en ningún momento.
 
-Los familiares vinculados a practicantes de brujería —tratados en el Codex del Maleficio— tampoco encajan de forma estable: son, en la práctica documentada, entidades de la Orden Liminar o Elemental que aceptan un vínculo de servicio prolongado con un humano específico, lo cual no ocurre de forma espontánea en ninguna otra combinación de orden y disposición.
+Los familiares vinculados a practicantes de brujería —tratados en el Codex de la Brujería— tampoco encajan de forma estable: son, en la práctica documentada, entidades de la Orden Liminar o Elemental que aceptan un vínculo de servicio prolongado con un humano específico, lo cual no ocurre de forma espontánea en ninguna otra combinación de orden y disposición.
 
 ## Sectio V — Riesgos de una clasificación incorrecta
 
