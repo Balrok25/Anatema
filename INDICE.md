@@ -35,7 +35,7 @@
 - Sectio III. Espíritus elementales
 - Sectio IV. Necromancia
 - Sectio V. Invocación por posesión: guardián de umbral, dos familias de disposición, verificación comunitaria
-- Sectio VI. Los genios: la tradición islámica del djinn (pendiente)
+- Sectio VI. Los genios: clasificación interna, invocación por sello, protección mediante recitación
 
 ### CODEX VI · CONTENTIO (La Contención)
 - Sectio I. Pactos y negociación
@@ -146,8 +146,8 @@
 - Fichas de 4 arcángeles del coro Arcángel: Miguel, Gabriel, Rafael, Uriel
 - Ampliación pendiente: coro Ángel y coros superiores de mayor tríada
 
-### CODEX XXIII · BESTIARIUM (El Bestiario) · ORDO GENIORUM (Orden de los Genios) (pendiente)
-- Fichas de djinn documentados: ifrit, marid, shaitan, qarin
+### CODEX XXIII · BESTIARIUM (El Bestiario) · ORDO GENIORUM (Orden de los Genios)
+- Fichas de 4 genios: Ifrit, Marid, Shaitán, Qarin
 - Figuras persas afines: Peri y Div (pendiente)
 
 ### CODEX XXIV · BESTIARIUM (El Bestiario) · ORDO SPIRITUUM POSSESSORIUM (Orden de los Espíritus de Posesión)
