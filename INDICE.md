@@ -16,7 +16,7 @@
 - Sectio I. Energías y percepción
 - Sectio II. Anima Mundi: los planos sutiles
 - Sectio III. Chamanismo y viaje espiritual
-- Sectio IV. Investigación de laboratorio: cartas Zener y visión remota (pendiente)
+- Sectio IV. Investigación de laboratorio: cartas Zener, localización remota, valoración conjunta
 
 ### CODEX III · VERBUM (La Palabra)
 - Sectio I. Logos et Heka: el lenguaje primordial
@@ -102,7 +102,7 @@
 - Nota sobre rango y escolta de manifestación
 - Nota sobre la jerarquía alternativa del Grimorium Verum
 - Fichas de los 6 ministros del Grimorium Verum: Lucifuge Rofocale, Satanachia, Agaliarept, Fleurety, Sargatanas, Nebiros
-- Otra tradición adversarial: demonología mesopotámica y Asura hindúes (pendiente)
+- Otra tradición adversarial: demonología mesopotámica (par protector/amenaza) y Asura hindúes (categoría por elección, no por naturaleza)
 
 ### CODEX XVI · BESTIARIUM (El Bestiario) · ORDO ELEMENTALIS (Orden Elemental)
 - Fichas de las 4 entidades elementales paracélsicas
@@ -134,18 +134,19 @@
 ### CODEX XXI · CRYPTOZOOLOGIA (La Criptozoología)
 - Diez patrones de avistamiento documentados
 - Nota metodológica sobre evidencia testimonial
-- Patrones adicionales: Bunyip, gusano de la muerte de Mongolia, Dover Demon, Flatwoods Monster, hombre-búho de Cornualles (pendiente)
+- 14 patrones documentados en total, incluidos habitante de pantano meridional, gusano rojo del desierto, cabeza acorazonada de ojos anaranjados, figura de niebla con cabeza en forma de pala
+- Ficha del hombre-búho de Cornualles (pendiente)
 
 ### CODEX XXII · BESTIARIUM (El Bestiario) · ORDO CAELESTIS (Orden Celestial)
 - Fichas de 4 arcángeles del coro Arcángel: Miguel, Gabriel, Rafael, Uriel
 - Ampliación pendiente: coro Ángel y coros superiores de mayor tríada
 
 ### CODEX XXIII · BESTIARIUM (El Bestiario) · ORDO GENIORUM (Orden de los Genios)
-- Fichas de 4 genios: Ifrit, Marid, Shaitán, Qarin
+- Fichas de 6 genios: Ifrit, Marid, Shaitán, Qarin, Peri, Div
 - Figuras persas afines: Peri y Div (pendiente)
 
 ### CODEX XXIV · BESTIARIUM (El Bestiario) · ORDO SPIRITUUM POSSESSORIUM (Orden de los Espíritus de Posesión)
-- Fichas de 4 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya
+- Fichas de 6 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya, Mami Wata, Anansi
 - Figuras panafricanas afines: Mami Wata y Anansi (pendiente)
 
 ### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados)
