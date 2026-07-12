@@ -40,7 +40,7 @@
 ### CODEX VI · CONTENTIO (La Contención)
 - Sectio I. Pactos y negociación
 - Sectio II. Exorcismo y neutralización
-- Sectio III. Exorcismo fuera de la tradición cristiana (pendiente)
+- Sectio III. Exorcismo fuera de la tradición cristiana: ofrecimiento del cuerpo (Himalaya), diálogo y expulsión kabalística
 - Sectio IV. Ritos de tránsito comparados: matrimonio espiritual, guía de almas (pendiente)
 - Sectio V. Modelos no demoníacos de adherencia espiritual: vampirismo psíquico y espíritus obsesores (pendiente)
 
