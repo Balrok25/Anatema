@@ -85,4 +85,13 @@ Salamandra, Ondina, Gnomo, Silfo, más nota sobre la tradición de los genios
 El co-caminante, el comensal parásito, el acompañante asignado, Brownie, Duende doméstico, Alux, Tokoloshe, Zashiki-warashi, Nisse, Kobold, Domovoi, Boggart, más notas sobre la fórmula de paso, los espíritus domésticos y silvestres eslavos y escandinavos, y las hadas del otro mundo feérico
 
 ### CODEX XVIII · BESTIARIUM — ORDO CHIMAERICUS
-Grifo, Mantícora, Dragón, Sirena, Bas
+Grifo, Mantícora, Dragón, Sirena, Basilisco, Fénix, Unicornio, Cerbero, Hidra, Gorgona, Esfinge, Minotauro, Escila y Caribdis, Fenrir, Jörmungandr, Kraken, Rakshasa, Naga, Garuda, Simurgh, Roc, Tengu, Oni, Kappa
+
+### CODEX XIX · BESTIARIUM — ORDO SPECTRALIS
+Banshee, Santa Compaña, El Silbón, Fetch/Vardøger, Okiku, Oiwa, La Llorona/La Sayona/La Cegua, Funayūrei, El Holandés Errante, La Cacería Salvaje, El autoestopista fantasma
+
+### CODEX XX · BESTIARIUM — ORDO TRANSMUTATUS
+Licántropo, el cambiapieles del suroeste, Kitsune, el hambriento invernal, Vampiro, más notas sobre fiabilidad diagnóstica y enterramientos apotropaicos
+
+### CODEX XXI · CRYPTOZOOLOGIA (La Criptozoología)
+Diez patrones de avistamiento documentados con nota metodológica sobre evidencia testimonial
