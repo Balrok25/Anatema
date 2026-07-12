@@ -1020,6 +1020,94 @@ Entidad de pequeño tamaño documentada en el folclore zulú y de otras comunida
 
 Entidad con apariencia de niño o niña pequeña, documentada en el folclore de la región de Iwate, en el norte de Japón, que habita una habitación concreta de una vivienda tradicional y cuya sola presencia, casi nunca vista directamente, se asocia con la prosperidad sostenida del hogar que la alberga. El patrón documentado con mayor consistencia describe el declive económico o la ruina de una familia coincidiendo con el abandono de la vivienda por parte de la entidad, en ocasiones percibido por un vecino o un visitante que afirma haberla visto marcharse poco antes de que la desgracia se manifestara. A diferencia de las entidades anteriores de esta Orden, no se documenta ofrenda ni ritual capaz de retenerla de forma garantizada una vez que decide partir.
 
+### Nisse (Tomte)
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Orden / Clasificación:** Liminar
+
+**Peligrosidad:** Baja
+
+**Territorio:** La granja o el terreno agrícola completo, con preferencia por el granero o el establo
+
+**Actividad:** Nocturna
+
+**Capacidades documentadas:** Cuida del ganado, en particular de los caballos; protege la granja y sus habitantes de la desgracia
+
+**Vulnerabilidades:** Reacciona con violencia desproporcionada —incluida la muerte del ganado a su cargo— ante una ofrenda servida sin mantequilla o consumida por otra persona
+
+**Actuación en caso de encuentro/invocación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. Dejar cada Nochebuena un cuenco de gachas con mantequilla visible en su superficie, en el granero o en un lugar fijo de la vivienda; no omitir la mantequilla ni permitir que la ofrenda sea consumida por otra persona.
+
+**Invocable:** No — contacto por reciprocidad, no por convocatoria
+
+Entidad doméstica documentada en el folclore escandinavo continental, de estatura reducida, barba blanca larga y vestimenta de campesino rematada por un gorro de punto de color rojo, que habita en la granja y actúa como guardián no oficial de la propiedad, del ganado —con especial atención a los caballos— y de sus habitantes. A cambio de esta protección exige un cuenco de gachas de Nochebuena servido con una porción visible de mantequilla; el registro documenta de forma reiterada episodios en los que la entidad, al encontrar la mantequilla ausente o mal dispuesta, o al descubrir que la ofrenda había sido consumida por un sirviente en lugar de dejada para ella, reaccionó dando muerte a alguna de las cabezas de ganado a su cuidado, para lamentar el hecho y en ocasiones repararlo una vez descubierto que la mantequilla sí estaba presente, oculta bajo las propias gachas. La tradición de dejarle su cuenco de gachas cada Nochebuena se mantiene vigente en la práctica doméstica contemporánea de la región con independencia de la fe religiosa formal de quien la observa.
+
+### Kobold
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Orden / Clasificación:** Liminar
+
+**Peligrosidad:** Baja a moderada, según la variante
+
+**Territorio:** El hogar, el establo o la bodega de una vivienda concreta; una variante distinta habita minas y galerías subterráneas
+
+**Actividad:** Nocturna
+
+**Capacidades documentadas:** Realiza tareas domésticas y cuida del ganado a cambio de comida y bebida; en su variante minera, señala o desplaza vetas de mineral
+
+**Vulnerabilidades:** El desprecio o la falta de ofrenda sostenida lo convierte de servicial en destructivo —agria la leche, cojea a los caballos, provoca desorden general—
+
+**Actuación en caso de encuentro/invocación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. Mantener ofrenda constante de comida y bebida; no desatender ni insultar su presencia.
+
+**Invocable:** No — contacto por reciprocidad, no por convocatoria
+
+Entidad doméstica documentada en el folclore de Europa central de lengua alemana desde al menos el siglo XIII, vinculada a una vivienda concreta —hogar, establo o bodega— donde realiza durante la noche tareas domésticas y cuida del ganado a cambio de una ofrenda sostenida de comida y bebida. Una variante distinta de la misma categoría, documentada en el folclore minero de la misma región, habita galerías y minas en lugar de viviendas, y se le atribuye tanto la señalización de vetas de mineral productivas como, en su forma más hostil, el desprendimiento de rocas y otros accidentes subterráneos. En ambas variantes, el patrón de reciprocidad es idéntico al del resto de esta Orden: tratada con respeto y ofrenda sostenida, la entidad es útil y protectora; desatendida, insultada o despreciada, se vuelve fuente de desorden deliberado, desde agriar la leche hasta cojear al ganado.
+
+### Domovoi
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Orden / Clasificación:** Liminar
+
+**Peligrosidad:** Baja
+
+**Territorio:** La vivienda familiar completa, con preferencia por el espacio bajo la estufa o el umbral
+
+**Actividad:** Nocturna
+
+**Capacidades documentadas:** Protege a la familia y la vivienda; su comportamiento anticipa sucesos futuros del hogar
+
+**Vulnerabilidades:** El descuido de la vivienda o el trato irrespetuoso hacia el hogar mismo debilita o distancia su protección
+
+**Actuación en caso de encuentro/invocación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. Al mudarse de vivienda, invitar de forma explícita a la entidad a trasladarse con la familia a la nueva casa.
+
+**Invocable:** No — contacto por reciprocidad, no por convocatoria
+
+Entidad doméstica documentada en el folclore eslavo oriental, concebida como espíritu protector vinculado no a una vivienda en abstracto sino a un linaje familiar concreto, con el que mantiene una relación de parentesco simbólico más estrecha que la de cualquier otra entidad de esta Orden. Habita preferentemente el espacio bajo la estufa o el umbral de la casa, y su comportamiento observado —inquietud, ruido, comportamiento alterado hacia los animales domésticos— se interpreta como anticipo de sucesos futuros, buenos o malos, para la familia a su cargo. A diferencia de otras entidades domésticas de esta Orden, cuyo vínculo es con el edificio, el vínculo de esta entidad se documenta como preferentemente familiar: al trasladarse una familia a una nueva vivienda, la práctica documentada consiste en invitarla de manera explícita, con frecuencia mediante una fórmula hablada dirigida a la estufa vieja, a trasladarse junto con la familia a su nuevo hogar, bajo el principio de que la protección se pierde si la entidad se queda atrás.
+
+### Boggart
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Orden / Clasificación:** Liminar
+
+**Peligrosidad:** Baja a moderada, según la fase
+
+**Territorio:** Una vivienda, granja o accidente geográfico concreto —barranco, hueco, cueva—
+
+**Actividad:** No documentada
+
+**Capacidades documentadas:** Guardián inicial de un límite doméstico o del terreno; capaz de cambiar de forma y de imitar voces
+
+**Vulnerabilidades:** El intento de deshacerse de él trasladándose de vivienda resulta ineficaz de forma documentada: se traslada junto con la familia a la nueva residencia
+
+**Actuación en caso de encuentro/invocación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. No intentar la mudanza como solución; abordar el trato directamente en el lugar de origen.
+
+**Invocable:** No — contacto por reciprocidad, no por convocatoria
+
+Entidad documentada en el folclore inglés, en particular en registros del norte de Inglaterra desde el siglo XVI y con abundante documentación en compilaciones folclóricas del siglo XIX, que ocupa tanto el interior de una vivienda como accidentes geográficos concretos del terreno exterior. El patrón documentado con mayor consistencia describe a una entidad que comienza como guardián de un límite —el de la granja, el del hogar— y que, ante el desprecio, el traslado forzoso o la simple acumulación de agravio, se vuelve progresivamente destructiva: vuelca cubos de leche, imita voces familiares para desorientar a los ocupantes, y cambia de forma con facilidad, adoptando en ocasiones apariencia animal. Es de particular interés práctico el patrón documentado en el que una familia, al intentar librarse de una entidad de este tipo trasladándose a otra vivienda, descubre que la entidad se ha trasladado con ellos en el propio carro de mudanza, lo cual establece con claridad que el vínculo de esta entidad, a diferencia del vínculo con el edificio que rige a otras entidades domésticas de esta Orden, puede fijarse sobre la familia misma y no sobre el lugar, invalidando la mudanza como estrategia de resolución.
+
 ### Nota sobre la fórmula de paso
 
 Independiente de cualquier entidad individual catalogada en esta Sectio, buena parte del sudeste asiático conserva la costumbre extendida de pronunciar una fórmula breve de disculpa antes de orinar, cortar vegetación o alterar de cualquier modo un lugar no urbanizado —la base de un árbol de gran tamaño, un montículo de tierra, un cruce de senderos—, bajo el principio de que ese lugar puede estar habitado por una entidad invisible a la que la intrusión repentina ofende si no se la advierte primero. La práctica, documentada de forma extensa en Filipinas bajo una fórmula fija que se traduce aproximadamente como "con permiso", se mantiene vigente en el habla y la costumbre cotidiana contemporánea con independencia de la fe religiosa formal de quien la pronuncia, y ejemplifica del modo más directo posible el principio ya establecido en el Codex de la Naturaleza de las Entidades de que esta Orden ocupa los márgenes del espacio humano y exige reciprocidad, no sumisión, como forma de trato.
@@ -1420,144 +1508,4 @@ Entidad de la tradición india capaz de cambiar de forma a voluntad, descrita co
 
 **Invocable:** No — entidad de encuentro
 
-Entidad serpentiforme, con frecuencia de torso humano y cola de serpiente, documentada de forma extendida en el sur y el sureste asiático como guardiana de cuerpos de agua, tesoros subterráneos y umbrales sagrados. De disposición variable según la fuente: unas tradiciones la describen protectora y benévola con quien respeta su territorio, otras la documentan vengativa ante cualquier profanación del espacio que custodia. Se documenta de forma consistente como enemistada con un tipo de ave rapaz colosal de la misma región.
-
-### Garuda
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Quimérica
-
-**Peligrosidad:** Alta
-
-**Territorio:** No documentado
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Vuelo capaz de generar vientos de fuerza destructiva; hostilidad dirigida principalmente a los naga
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** No invocable. Sin procedimiento de contención catalogado; evitar aproximación directa.
-
-**Invocable:** No — entidad de encuentro
-
-Esa misma ave rapaz colosal, de cuerpo parcialmente humano y cabeza y alas de águila, documentada como montura de una deidad mayor y enemiga declarada de las entidades serpentiformes descritas en la entrada anterior. Su tamaño se documenta como suficiente para oscurecer el cielo con las alas desplegadas, y su vuelo genera vientos de fuerza destructiva sobre el terreno que sobrevuela.
-
-### Simurgh
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Quimérica
-
-**Peligrosidad:** Baja
-
-**Territorio:** No documentado
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Conocimiento curativo; disposición consistentemente benévola
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** No invocable. Ganarse su favor; no se documenta hostilidad que requiera contención.
-
-**Invocable:** No — entidad de encuentro
-
-Ave de gran tamaño y sabiduría documentada en la tradición persa, con frecuencia descrita con rasgos de perro o de león combinados con los de un ave, y una vida de una extensión tan prolongada que se documenta como testigo de la destrucción del mundo en varias ocasiones sucesivas. A diferencia de la mayoría de entidades de esta orden, se documenta como consistentemente benévola, poseedora de conocimiento curativo y dispuesta a intervenir en auxilio de un humano que logra ganarse su favor.
-
-### Roc
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Quimérica
-
-**Peligrosidad:** Moderada
-
-**Territorio:** Regiones remotas e insulares
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Tamaño suficiente para transportar un elefante adulto entre sus garras
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** No invocable. Sin procedimiento de contención catalogado; evitar aproximación directa. Riesgo principal por tamaño y territorio, no por hostilidad activa documentada.
-
-**Invocable:** No — entidad de encuentro
-
-Ave de tamaño suficiente para transportar en vuelo a un elefante adulto sujeto entre sus garras, documentada en relatos de viajeros y compiladores del Mediterráneo oriental y de Asia central, situada de forma consistente en regiones remotas e insulares poco visitadas. Su huevo, cuando se documenta hallado, se describe de un tamaño proporcional al ave, y su nido se sitúa siempre en un terreno elevado e inaccesible sin medios extraordinarios.
-
-### Tengu
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Quimérica
-
-**Peligrosidad:** Variable
-
-**Territorio:** Bosques y cumbres remotas
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Maestro de artes marciales y esgrima, transmisible tras aprendizaje exigente
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** No invocable. Sin procedimiento de contención catalogado; evitar aproximación directa. Propenso al engaño hacia quien se adentra sin respeto en su territorio.
-
-**Invocable:** No — entidad de encuentro
-
-Entidad de la tradición japonesa con rasgos de ave rapaz y de humano combinados —pico o nariz alargada, alas replegables, con frecuencia vestimenta de asceta de montaña—, habitante de bosques y cumbres remotas. Documentada como maestro de artes marciales y de esgrima, capaz de transmitir ese conocimiento a un humano que se gana su favor tras un periodo de aprendizaje exigente; igualmente documentada como propensa a la trampa y al engaño hacia viajeros que se adentran sin respeto en su territorio.
-
-### Oni
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Quimérica
-
-**Peligrosidad:** Alta
-
-**Territorio:** No documentado
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Fuerza física con maza de metal; asociado al castigo tras la muerte
-
-**Vulnerabilidades:** No documentada — su imagen usada como amuleto invierte su función a defensiva
-
-**Actuación en caso de encuentro/invocación:** No invocable. Sin procedimiento de contención catalogado; evitar aproximación directa.
-
-**Invocable:** No — entidad de encuentro
-
-Ogro de la tradición japonesa, de piel de color intenso —rojo o azul con mayor frecuencia—, cuernos, y una maza de metal como arma característica. De disposición mayoritariamente hostil y asociado con el castigo tras la muerte hacia quienes actuaron mal en vida, aunque una parte del registro folclórico lo documenta también en papel protector cuando su imagen se usa como amuleto en la entrada de una vivienda, invirtiendo su función amenazante en una defensiva.
-
-### Kappa
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Quimérica
-
-**Peligrosidad:** Moderada
-
-**Territorio:** Cuerpos de agua dulce
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Peligrosa para bañistas descuidados
-
-**Vulnerabilidades:** Verter el agua del plato sobre su cabeza, ya sea por accidente o al obligarla a devolver una reverencia
-
-**Actuación en caso de encuentro/invocación:** No invocable. Hacer una reverencia: la etiqueta la obliga a devolverla, vaciando el plato de agua.
-
-**Invocable:** No — entidad de encuentro
-
-Entidad acuática de la tradición japonesa, de tamaño infantil, piel escamosa, y una depresión con forma de plato en la parte superior de la cabeza que debe permanecer llena de agua en todo momento: verter el contenido de ese plato, por accidente o de forma deliberada, se documenta como suficiente para privarla de fuerza o incluso de vida, según la fuente consultada. De naturaleza traviesa y en ocasiones peligrosa para bañistas descuidados, se documenta sometida a un código de cortesía estricto: una reverencia dirigida hacia ella la obliga, por su propia etiqueta, a devolver la reverencia, gesto que vacía el plato de agua sobre su cabeza y la neutraliza de inmediato.
-
-## Nota sobre las órdenes no representadas aquí
-
-Las entidades de la Orden Espectral y las de la Orden Críptida no reciben ficha individual en este catálogo: la primera se desarrolla en detalle de caso en el Codex de los Espectros, donde el fenómeno documentado se describe mejor como patrón de manifestación que como individuo con identidad fija; la segunda cuenta con su propio Codex de Criptozoología, donde cada patrón de avistamiento recibe el mismo tratamiento de ficha que las entidades catalogadas aquí. Ambas decisiones son deliberadas y no un vacío de cobertura.
-
-## Nota sobre las vulnerabilidades documentadas
-
-Las vulnerabilidades específicas de cada entidad ya no se reúnen en un cuadro centralizado: cada ficha individual, en su campo propio de Vulnerabilidades, contiene ya el dato completo asociado a esa entidad, junto con el resto de su información de campo (Peligrosidad, Territorio, Actividad, Capacidades, Actuación). Este cambio de formato responde a un criterio práctico: permite que cada ficha funcione como unidad autocontenida, consultable de forma independiente sin necesidad de saltar a otra sección del Codex — el mismo criterio que en su día organizó este catálogo por fichas individuales en lugar de por listados generales.
+Entidad serpentiforme, con frecuencia de torso humano y cola de serpiente, documentada de forma extendida en el sur y el sureste asiático como guardiana de cuerpos de agua, tesoros subterráneos y umbrales sagr
