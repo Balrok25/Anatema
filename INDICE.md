@@ -1,4 +1,7 @@
-# ANATHEMA — ÍNDICE
+# ANATHEMA SANCTUM
+### Compendio Immaterium
+
+## ÍNDICE
 
 ## CODEX I · DE NATURA ENTIUM (La naturaleza de las entidades)
 Sectio I. Taxonomía general — clasificación y jerarquías de toda entidad no humana (disformes, elementales, angélicas, demoníacas, espectrales, quiméricas, críptidas)
