@@ -1,4 +1,4 @@
-# CODEX XVIII · BESTIARIUM, ORDO CHIMAERICUS
+# CODEX XVIII · BESTIARIUM · ORDO CHIMAERICUS
 
 Las fichas siguientes catalogan a las entidades de la Orden Quimérica, una de las ocho descritas en el Codex de la Naturaleza de las Entidades: criaturas de morfología compuesta, sin agenda cósmica ni motivación más allá de la supervivencia y la defensa del territorio, ninguna de ellas invocable por procedimiento ceremonial. Seis fichas de esta edición (Garuda, Simurgh, Roc, Tengu, Oni, Kappa) se han reconstruido a partir del mismo nivel de fuente documentada que el resto del catálogo, tras detectarse su ausencia en una revisión de coherencia interna de este Codex.
 

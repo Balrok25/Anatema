@@ -1,4 +1,4 @@
-# CODEX XVII · BESTIARIUM, ORDO LIMINARIS
+# CODEX XVII · BESTIARIUM · ORDO LIMINARIS
 
 Las fichas siguientes catalogan a las entidades de la Orden Liminar, una de las ocho descritas en el Codex de la Naturaleza de las Entidades: inteligencias que ocupan los márgenes del espacio humano y exigen reciprocidad, no sumisión ni sumisión por nombre y sello, como forma de trato. Este Codex incorpora aquí el contenido sobre hadas y el otro mundo feérico que en versiones anteriores de este compendio se trataba por separado: en el folclore real, el hada doméstica, el brownie, el kobold y el domovoi pertenecen a la misma familia de fenómeno, y separarlos por tradición de origen en lugar de por comportamiento introducía una distinción sin base funcional.
 

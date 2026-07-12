@@ -1,4 +1,4 @@
-# CODEX XV · BESTIARIUM, ORDO ADVERSARIUS
+# CODEX XV · BESTIARIUM · ORDO ADVERSARIUS
 
 Las fichas siguientes catalogan a los demonios de la jerarquía goética que componen la Orden Adversarial, una de las ocho descritas en el Codex de la Naturaleza de las Entidades. Cada ficha presupone conocido el procedimiento general de invocación descrito en el Codex del Arte de Evocar y el de contención descrito en el Codex de la Contención; lo que se detalla aquí es específico de cada individuo, no el procedimiento genérico ya cubierto en esos codices.
 

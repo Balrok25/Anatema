@@ -1,4 +1,4 @@
-# CODEX XVI · BESTIARIUM, ORDO ELEMENTALIS
+# CODEX XVI · BESTIARIUM · ORDO ELEMENTALIS
 
 Las fichas siguientes catalogan a las entidades de la Orden Elemental, ligadas al sistema paracélsico de los cuatro elementos clásicos, una de las ocho órdenes descritas en el Codex de la Naturaleza de las Entidades.
 
@@ -6,7 +6,8 @@ Las fichas siguientes catalogan a las entidades de la Orden Elemental, ligadas a
 
 *Orden / Clasificación: Elemental, tipo ígneo*
 
-**Imagen:** *(pendiente de fuente verificada)*
+**Imagen:** ![Salamandra](https://upload.wikimedia.org/wikipedia/commons/4/4d/Salamander_in_fire.jpg)
+*Manuscrito del siglo XV, autor desconocido, Kongelige Bibliotek (Gl. kgl. S. 1633 4°, folio 55v). Dominio público por antigüedad.*
 
 **Peligrosidad:** Moderada
 
@@ -28,7 +29,8 @@ Tipo ígneo. Se manifiesta desde pequeñas formas de lagarto envueltas en llama 
 
 *Orden / Clasificación: Elemental, tipo acuático*
 
-**Imagen:** *(pendiente de fuente verificada)*
+**Imagen:** ![Ondina](https://upload.wikimedia.org/wikipedia/commons/b/bd/John_William_Waterhouse_-_Undine.JPG)
+*John William Waterhouse, "Undine", 1872. Dominio público (autor fallecido en 1917).*
 
 **Peligrosidad:** Baja
 
@@ -50,7 +52,8 @@ Tipo acuático. Habita cuerpos de agua profunda y antigua; se documenta con frec
 
 *Orden / Clasificación: Elemental, tipo terrestre*
 
-**Imagen:** *(pendiente de fuente verificada)*
+**Imagen:** ![Gnomo](https://upload.wikimedia.org/wikipedia/commons/3/31/Heinrich_Schlitt_Gnom_mit_Zeitung_und_Tabakspfeife.jpg)
+*Heinrich Schlitt, "Gnom mit Zeitung und Tabakspfeife", hacia 1923. Dominio público (autor fallecido en 1923).*
 
 **Peligrosidad:** Baja
 
@@ -72,13 +75,14 @@ Tipo terrestre. Humanoide de estatura reducida, habitante de cuevas y formacione
 
 *Orden / Clasificación: Elemental, tipo aéreo*
 
-**Imagen:** *(pendiente de fuente verificada)*
+**Imagen:** ![Silfo](https://upload.wikimedia.org/wikipedia/commons/3/38/Praetorius%281666%29-p0000-11Luftleute%26Windmenschen.jpg)
+*Grabado de Thomas Cross, frontispicio de Praetorius, "Anthropodemus Plutonicus", 1666. Dominio público por antigüedad.*
 
 **Peligrosidad:** Moderada
 
-**Actuación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
+**Actuación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III. Evitar provocación sostenida durante el contacto: documenta reacción desproporcionada al desafío repetido.
 
-**Vulnerabilidades:** Reacción desproporcionada ante provocación sostenida
+**Vulnerabilidades:** No documentada
 
 **Capacidades documentadas:** Disposición rápida y caprichosa; juguetón en el contacto inicial
 

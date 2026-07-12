@@ -1,4 +1,4 @@
-# CODEX XIX · BESTIARIUM, ORDO SPECTRALIS
+# CODEX XIX · BESTIARIUM · ORDO SPECTRALIS
 
 ## Nota editorial sobre esta Orden
 

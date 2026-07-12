@@ -78,22 +78,22 @@ Sectio III. Objetos malditos y lugares de poder
 
 ## PARS V · BESTIARIUM
 
-### CODEX XV · BESTIARIUM — ORDO ADVERSARIUS
+### CODEX XV · BESTIARIUM · ORDO ADVERSARIUS
 Fichas individuales de los 33 demonios de la jerarquía goética, más nota sobre rango y escolta de manifestación y la jerarquía alternativa del Grimorium Verum
 
-### CODEX XVI · BESTIARIUM — ORDO ELEMENTALIS
+### CODEX XVI · BESTIARIUM · ORDO ELEMENTALIS
 Salamandra, Ondina, Gnomo, Silfo, más nota sobre la tradición de los genios
 
-### CODEX XVII · BESTIARIUM — ORDO LIMINARIS
+### CODEX XVII · BESTIARIUM · ORDO LIMINARIS
 El co-caminante, el comensal parásito, el acompañante asignado, Brownie, Duende doméstico, Alux, Tokoloshe, Zashiki-warashi, Nisse, Kobold, Domovoi, Boggart, más notas sobre la fórmula de paso, los espíritus domésticos y silvestres eslavos y escandinavos, y las hadas del otro mundo feérico
 
-### CODEX XVIII · BESTIARIUM — ORDO CHIMAERICUS
+### CODEX XVIII · BESTIARIUM · ORDO CHIMAERICUS
 Grifo, Mantícora, Dragón, Sirena, Basilisco, Fénix, Unicornio, Cerbero, Hidra, Gorgona, Esfinge, Minotauro, Escila y Caribdis, Fenrir, Jörmungandr, Kraken, Rakshasa, Naga, Garuda, Simurgh, Roc, Tengu, Oni, Kappa
 
-### CODEX XIX · BESTIARIUM — ORDO SPECTRALIS
+### CODEX XIX · BESTIARIUM · ORDO SPECTRALIS
 Banshee, Santa Compaña, El Silbón, Fetch/Vardøger, Okiku, Oiwa, La Llorona/La Sayona/La Cegua, Funayūrei, El Holandés Errante, La Cacería Salvaje, El autoestopista fantasma
 
-### CODEX XX · BESTIARIUM — ORDO TRANSMUTATUS
+### CODEX XX · BESTIARIUM · ORDO TRANSMUTATUS
 Licántropo, el cambiapieles del suroeste, Kitsune, el hambriento invernal, Vampiro, más notas sobre fiabilidad diagnóstica y enterramientos apotropaicos
 
 ### CODEX XXI · CRYPTOZOOLOGIA (La Criptozoología)

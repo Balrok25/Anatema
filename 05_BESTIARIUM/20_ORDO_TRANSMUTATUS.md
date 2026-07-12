@@ -1,4 +1,4 @@
-# CODEX XX · BESTIARIUM, ORDO TRANSMUTATUS
+# CODEX XX · BESTIARIUM · ORDO TRANSMUTATUS
 
 Las fichas siguientes catalogan a los seres humanos que adquieren, mediante pacto, transgresión, maduración de una entidad no humana en apariencia humana, o posesión progresiva, una segunda forma activa documentada de forma consistente entre tradiciones, la Orden Transmutada descrita en el Codex de la Naturaleza de las Entidades. Cada ficha describe la forma activa transformada, no a la persona portadora en su estado ordinario, que en ningún momento se trata como entidad de pleno derecho. Dos de las cinco fichas de esta Orden mantienen deliberadamente un título descriptivo en lugar del término vernáculo específico de su tradición de origen, siguiendo la misma reserva ya aplicada en ediciones anteriores de este compendio: parte de las comunidades de origen consideran el tema restringido y no destinado a difusión externa detallada, y este compendio respeta esa reserva limitándose al dato ya publicado en fuentes académicas.
 
