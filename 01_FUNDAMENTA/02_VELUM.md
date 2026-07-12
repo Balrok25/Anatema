@@ -14,7 +14,7 @@ La percepción visual directa de esta energía sobre el cuerpo humano —su capa
 
 ### Bloqueo y anulación
 
-Existen individuos documentados de forma dispersa y no sistemática cuya sola presencia atenúa o interrumpe fenómenos energéticos a su alrededor —sesiones que fallan sistemáticamente en su presencia, instrumentos de detección que dejan de responder, percepciones que se apagan sin explicación mientras están cerca. Este fenómeno no cuenta con el mismo respaldo documental que el resto de esta sección: no hay corpus equivalente al de la detección o la canalización, solo referencias sueltas y contradictorias entre sí. Se registra aquí como variable según la tradición y no como categoría establecida, y cualquier desarrollo posterior sobre el tema debe tratarse con la misma reserva.
+El fenómeno inverso a la detección —individuos cuya sola presencia atenúa o interrumpe estos mismos métodos— se trata por separado y en su totalidad en el Codex de la Nulidad, junto con el marco de acoplamiento que lo sostiene.
 
 ### Riesgos
 

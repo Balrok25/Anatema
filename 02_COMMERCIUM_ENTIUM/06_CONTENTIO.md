@@ -78,11 +78,7 @@ Ya se estableció en el Codex del Velo que una de las especializaciones del viaj
 
 ## Sectio V — Modelos no demoníacos de adherencia espiritual
 
-Más allá de la posesión por entidad hostil ya descrita en la Sectio II, dos tradiciones documentan formas de vínculo dañino que no encajan en ese marco: ni la entidad es de la Orden Adversarial, ni el vínculo se establece por invasión súbita de un cuerpo, sino por drenaje sostenido o por adherencia progresiva de un espíritu humano ya fallecido.
-
-### El drenaje de vitalidad
-
-Una tradición documentada desde comienzos del siglo XX describe un tipo de entidad, o en ciertos casos una persona viva de intención consciente o inconsciente, capaz de extraer vitalidad de otra persona a distancia o por proximidad sostenida, sin contacto físico ni ritual visible. El síntoma documentado con mayor consistencia es un agotamiento desproporcionado a la actividad realizada tras el contacto sostenido con la fuente, sin causa médica identificable. La defensa documentada no es el exorcismo sino el fortalecimiento del propio límite personal: visualización de un cerco protector sostenido alrededor del propio cuerpo, y la reducción deliberada del tiempo de exposición a la fuente identificada como drenante. Esta tradición tiene raíces documentadas en conceptos mucho más antiguos de fuerza vital transferible, pero se formalizó como práctica de protección personal específica a comienzos del siglo pasado.
+Más allá de la posesión por entidad hostil ya descrita en la Sectio II, una tradición documenta una forma de vínculo dañino que no encaja en ese marco: ni la entidad es de la Orden Adversarial, ni el vínculo se establece por invasión súbita de un cuerpo, sino por adherencia progresiva de un espíritu humano ya fallecido. El drenaje de vitalidad sin entidad identificable, antes tratado junto a este modelo, se desarrolla ahora dentro del eje de acoplamiento del Codex de la Nulidad.
 
 ### La adherencia de un espíritu humano
 

@@ -42,7 +42,7 @@
 - Sectio II. Exorcismo y neutralización
 - Sectio III. Exorcismo fuera de la tradición cristiana: ofrecimiento del cuerpo (Himalaya), diálogo y expulsión kabalística
 - Sectio IV. Ritos de tránsito comparados: matrimonio con un difunto, guía de almas comparada
-- Sectio V. Modelos no demoníacos de adherencia espiritual: drenaje de vitalidad, adherencia de espíritu humano
+- Sectio V. Modelos no demoníacos de adherencia espiritual: adherencia de espíritu humano (el drenaje de vitalidad se trata en el Codex XXVII)
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
@@ -152,3 +152,11 @@
 - Nota sobre el genius loci como concepto unificador de guardián ligado a un lugar
 - Pendiente de decidir: exige añadir la orden a las ya descritas en Codex I y reubicar aquí Leshy, Vodyanoy, Kikimora y Poludnitsa, hoy en cola dentro de Ordo Liminaris
 
+## PARS VI · NIHIL (La Nulidad)
+
+### CODEX XXVII · NIHIL (La Nulidad)
+- Sectio I. El problema del registro: la evidencia de lo que no ocurre
+- Sectio II. El eje de acoplamiento: compatibilidad, pureza e incompatibilidad, drenaje frente a no acoplamiento
+- Sectio III. El drenaje de vitalidad
+- Sectio IV. El individuo refractario: indicios históricos, criterios de observación y fallos de identificación
+- Sectio V. La hipótesis de la nulidad y estado de la cuestión
