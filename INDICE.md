@@ -91,8 +91,8 @@
 ## PARS IV · SPECTRA (Los Espectros)
 
 ### CODEX XIV · SPECTRA (Los Espectros)
-- Sectio I. Fantasmas y aparecidos (ampliación pendiente: mecanismo de registro material del tipo residual, alucinación de duelo, presencia protectora en supervivencia extrema)
-- Sectio II. Posesión y fenómenos poltergeist (caso de referencia adicional pendiente: hostigamiento sostenido y dirigido contra un individuo)
+- Sectio I. Fantasmas y aparecidos (ampliación pendiente: alucinación de duelo, presencia protectora en supervivencia extrema)
+- Sectio II. Posesión y fenómenos poltergeist
 - Sectio III. Objetos malditos y lugares de poder
 
 ## PARS V · BESTIARIUM (El Bestiario)
