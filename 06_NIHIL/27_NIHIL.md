@@ -1,6 +1,6 @@
 # CODEX XXVII · NIHIL (La Nulidad)
 
-Este compendio es, a todas luces, un manual. Una amalgama de conocimiento extraída de grimorios, papiros, tratados, bestiarios, folklore, textos que otros escribieron hace siglos y que yo me limité a fundir y traducir para que se entendieran en nuestra era. Esa fue siempre mi única función: compilar. Nunca tuve pensado escribir un texto propio.
+Este compendio es, a todas luces, un manual. Una amalgama de conocimiento extraída de grimorios, papiros, tratados, bestiarios, folclore, textos que otros escribieron hace siglos y que yo me limité a fundir y traducir para que se entendieran en nuestra era. Esa fue siempre mi única función: compilar. Nunca tuve pensado escribir un texto propio.
 
 Pero aquí estoy.
 
@@ -34,7 +34,7 @@ La búsqueda comenzó entonces no por el término moderno de "nulidad", porque e
 
 El primer obstáculo apareció inmediatamente: ninguna cultura parecía utilizar exactamente esa palabra. No existía un término universal para definir al individuo que anula. Sin embargo, empezaron a aparecer fragmentos dispersos. Diferentes épocas y tradiciones describían algo parecido utilizando lenguajes completamente distintos.
 
-En el mesmerismo del siglo XVIII y XIX apareció la idea de los sujetos refractarios. El magnetismo animal se basaba en la existencia de una relación entre dos individuos, una especie de comunicación o conexión que dependía tanto del magnetizador como del receptor. No todos respondían igual. Algunos individuos eran extremadamente sensibles, mientras que otros parecían resistentes o incapaces de entrar en ese estado.
+En el mesmerismo de los siglos XVIII y XIX apareció la idea de los sujetos refractarios. El magnetismo animal se basaba en la existencia de una relación entre dos individuos, una especie de comunicación o conexión que dependía tanto del magnetizador como del receptor. No todos respondían igual. Algunos individuos eran extremadamente sensibles, mientras que otros parecían resistentes o incapaces de entrar en ese estado.
 
 La observación importante no era simplemente que existieran personas sin respuesta, sino que el fenómeno dependía de una interacción. La capacidad no estaba únicamente en quien intentaba producir el efecto, sino también en quien debía recibirlo.
 
@@ -64,7 +64,7 @@ Pero un silencio puede escucharse.
 
 Cualquiera que haya caminado por un bosque conoce el aviso más antiguo del mundo: los pájaros dejan de cantar. No se oye nada nuevo. Se deja de oír. Y esa ausencia eriza la piel más que cualquier ruido, porque el cuerpo sabe, desde antes de que existieran las palabras, lo que significa un bosque callado. Algo camina cerca.
 
-El folklore es el canto de los pueblos. Donde hay gente, suenan historias: cada comarca tiene su aparecida, su casa que no se alquila, su cruce que se evita de noche. El volumen sube y baja, pero nunca calla del todo. Por eso, quien recorre los archivos con paciencia acaba tropezando con algo que ningún compilador anota, porque no hay nada que anotar: la aldea sin un solo fantasma documentado, rodeada de comarcas que los tienen a docenas. La casa antigua de la que nadie cuenta nada, en un pueblo donde se cuenta todo. El linaje sin historias en una familia donde cada generación las tiene.
+El folclore es el canto de los pueblos. Donde hay gente, suenan historias: cada comarca tiene su aparecida, su casa que no se alquila, su cruce que se evita de noche. El volumen sube y baja, pero nunca calla del todo. Por eso, quien recorre los archivos con paciencia acaba tropezando con algo que ningún compilador anota, porque no hay nada que anotar: la aldea sin un solo fantasma documentado, rodeada de comarcas que los tienen a docenas. La casa antigua de la que nadie cuenta nada, en un pueblo donde se cuenta todo. El linaje sin historias en una familia donde cada generación las tiene.
 
 Puede que no signifique nada. Los archivos están incompletos, los recopiladores no llegaron a todas partes, el azar existe. Pero yo ya no busco historias. Escucho dónde se apaga el canto. La ausencia aislada no dice nada; la ausencia rodeada es otra cosa: el punto mudo en mitad de una región que habla, el claro del bosque donde los pájaros no cantan. Y ante un claro así, la pregunta correcta no es qué les pasó a los pueblos que cuentan.
 
@@ -108,7 +108,7 @@ Pero hay una pregunta que llevo clavada desde que empecé este codex, y no voy a
 
 Nadie nace sabiendo que le falta algo invisible. Imagínalo. Imagina crecer en la casa que todo el pueblo llama cargada y no sentir nunca nada. Estar en el templo donde tu madre baja la voz y ver solo piedra. Sostener el péndulo del abuelo y que el péndulo cuelgue muerto, mientras en manos de tu hermana baila. La sesión que se suspende cuando entras. El grupo que reza y algo pasa, hasta que llegas tú y deja de pasar. Siempre la misma escena, repetida durante años con distintos decorados: todos sienten algo. Tú no.
 
-¿Y qué conclusión saca un ser humano de eso? Ninguna gloriosa. No se dice a sí mismo: soy el vacío que apaga lo invisible. Se dice: estoy roto. Que le falta imaginación, o sensibilidad, o alma, que es la palabra que usan los demás cuando quieren herir. He leído cientos de testimonios de gente que percibe de más, y todos comparten el mismo terror a estar volviéndose loca. El que percibe de menos no tiene ni eso. No hay palabra para su condición, no hay comunidad que lo reciba, no hay grimorio que lo mencione. Su vida entera cabe en un encogerse de hombros.
+¿Y qué conclusión saca un ser humano de eso? Ninguna gloriosa. No se dice a sí mismo: soy el vacío que apaga lo invisible. Se dice: estoy roto. Que le falta imaginación, o sensibilidad, o alma, que es la palabra que usan los demás cuando quieren herir. He leído cientos de testimonios de gente que percibe de más, y todos comparten el mismo terror a estar volviéndose locos. El que percibe de menos no tiene ni eso. No hay palabra para su condición, no hay comunidad que lo reciba, no hay grimorio que lo mencione. Su vida entera cabe en un encogerse de hombros.
 
 Y luego están las frases. Contigo no funciona. Mejor espera fuera. Tú rompes el ambiente. Dichas sin crueldad, a veces con cariño, y por eso peores, porque cada una deja caer la misma sentencia sin juicio ni verdugo: donde tú estás, no pasa nada.
 
