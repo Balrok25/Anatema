@@ -245,3 +245,113 @@ Cacería espectral formada por jinetes, perros y en ocasiones almas de difuntos,
 **Invocable:** No, entidad de trayecto interrumpido
 
 Persona solitaria (con mayor frecuencia una mujer joven) que solicita ser llevada en un vehículo, proporciona una dirección de destino, y desaparece del vehículo en marcha antes de llegar a ella, sin que el conductor perciba el momento exacto de la desaparición. Al acudir a la dirección, el conductor descubre que la persona murió años antes. Un estudio sistemático de mediados del siglo XX, basado en más de setenta relatos recogidos en dieciséis regiones distintas, permitió clasificar el patrón en variantes discretas; el registro más antiguo antecede en varias décadas al automóvil, con relatos equivalentes centrados en carruajes de caballos, documentado en tradiciones tan distantes entre sí como el sur de Asia y Europa oriental.
+
+### Bean-nighe
+
+*Orden / Clasificación: Espectral, variante de aviso de muerte*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Moderada; el riesgo documentado depende de quién ve a quién primero
+
+**Actuación:** Ante un encuentro, sujetar con firmeza y succionar del pecho de la entidad se documenta como la única vía de escape al destino que anuncia; verla antes de que ella note la presencia del testigo permite huir sin consecuencia.
+
+**Vulnerabilidades:** No documentada más allá del procedimiento de escape descrito arriba
+
+**Capacidades documentadas:** Se aparece junto a arroyos o vados lavando prendas manchadas de sangre pertenecientes a una persona que morirá en breve; su sola aparición funciona como presagio de muerte inminente para quien la reconoce o para alguien de su entorno cercano
+
+**Territorio:** Arroyos, vados y cuerpos de agua de corriente lenta en regiones célticas
+
+**Actividad:** Documentada en cualquier momento, sin patrón horario fijo
+
+**Invocable:** No, entidad de aviso
+
+Variante regional de la Banshee documentada de forma independiente en el folclore de origen céltico, distinta de esta por su actividad concreta y no solo por su lamento: se la encuentra lavando ropa ensangrentada perteneciente a la persona cuya muerte anuncia, en vez de únicamente proferir un grito. El registro describe rasgos físicos distintivos que la distinguen a simple vista de una lavandera humana ordinaria, y coincide en que quien la ve antes de ser visto por ella puede huir sin consecuencia, mientras que ser descubierto primero por ella elimina esa posibilidad de escape.
+
+### Gashadokuro
+
+*Orden / Clasificación: Espectral, formación colectiva*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Letal
+
+**Actuación:** Evitar caminos solitarios de madrugada en la franja horaria documentada; no se documenta contramedida directa más allá de la evitación.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Figura de huesos ensamblados de tamaño muy superior al humano, capaz de aplastar o decapitar a una víctima con una sola mano; su avance se anuncia por un traqueteo óseo característico antes de hacerse visible
+
+**Territorio:** Documentado en el archipiélago japonés, asociado a antiguos campos de batalla o de hambruna
+
+**Actividad:** Nocturna, en torno a la medianoche
+
+**Invocable:** No, formación colectiva sin voluntad individual
+
+Formación de naturaleza colectiva antes que entidad individual: el registro la describe como surgida del ensamblaje de los huesos de numerosas víctimas de guerra o hambruna que nunca recibieron ritos funerarios adecuados, cuyo resentimiento acumulado da forma a una única figura esquelética de escala colosal. Funciona, dentro de este compendio, como recordatorio de la consecuencia documentada de dejar un número elevado de muertos sin el cierre ritual que el resto de este compendio, en el Codex de los Espectros, asocia a la resolución de una aparición residual o interactiva.
+
+### Preta
+
+*Orden / Clasificación: Espectral, origen por transgresión moral*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja hacia terceros; el padecimiento documentado es interno y propio de la entidad, no dirigido como agresión
+
+**Actuación:** La práctica documentada con mayor consistencia no es de contención sino de ofrenda: alimento, bebida e incienso dejados de forma ritual en fechas fijas del calendario para aliviar, aunque sea de forma temporal, el padecimiento de la entidad.
+
+**Vulnerabilidades:** No aplica; no es una entidad hostil que deba contenerse
+
+**Capacidades documentadas:** Cuello estrecho y vientre distendido que documentan de forma simbólica un hambre y una sed insaciables; incapacidad física de saciarse por mucho que consuma
+
+**Territorio:** No documentado; asociado al plano intermedio descrito en el Codex del Velo
+
+**Actividad:** No documentada
+
+**Invocable:** No, entidad de padecimiento, no convocable con fines de servicio
+
+Entidad que padece, según la tradición que la documenta, la consecuencia de una vida marcada por la codicia o el apego desmedido, manifestada físicamente en un cuerpo incapaz de saciar su propia hambre y sed por desproporción entre un vientre distendido y un cuello demasiado estrecho para tragar lo suficiente. A diferencia del resto de esta Orden, no se documenta como amenaza para terceros sino como sujeto de compasión: la práctica asociada no busca protegerse de ella sino aliviar su padecimiento mediante ofrenda ritual en fechas fijas del año.
+
+### Cihuateteo
+
+*Orden / Clasificación: Espectral, formación colectiva por muerte anómala*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta, especialmente hacia menores
+
+**Actuación:** Evitar cruces de caminos durante las fechas de riesgo señaladas por el calendario ritual local; los menores no deben quedar sin vigilancia en esos días.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Descienden en grupo durante fechas fijas y aciagas del calendario ritual, asociadas a crisis convulsivas, secuestro o daño a menores, y trastorno mental en quien se cruza con ellas
+
+**Territorio:** Cruces de caminos
+
+**Actividad:** Restringida a un número fijo de días aciagos del calendario ritual anual
+
+**Invocable:** No, formación colectiva
+
+Formación colectiva de mujeres fallecidas en parto, equiparadas en su tradición de origen al honor guerrero de quien muere en combate, precisamente por asimilarse el parto a una forma de batalla. Descienden juntas en fechas fijas y determinadas del calendario ritual para rondar los cruces de caminos, y el registro asocia su presencia con daño dirigido de forma especial hacia menores.
+
+### Xtabay
+
+*Orden / Clasificación: Espectral, origen por transgresión moral ajena*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Letal, dirigida de forma selectiva hacia hombres infieles o ebrios
+
+**Actuación:** Evitar arboledas del árbol sagrado asociado a esta entidad durante la noche; rechazar el ofrecimiento de compañía de una mujer no identificada hallada sola en esas condiciones.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Se presenta como mujer de gran atractivo bajo un árbol sagrado concreto, atrae a hombres infieles o ebrios y los conduce a la muerte tras el encuentro
+
+**Territorio:** Arboledas del árbol sagrado asociado, región maya de Yucatán
+
+**Actividad:** Nocturna
+
+**Invocable:** No, entidad de castigo moral selectivo
+
+Entidad documentada en su tradición de origen como el destino post mortem de una mujer condenada en vida por su conducta, transformada en figura de castigo selectivo que atrae específicamente a hombres infieles o ebrios bajo el árbol sagrado que le da su nombre regional, conduciéndolos a la muerte tras el encuentro. El relato de origen que la documenta la contrasta de forma explícita con una segunda figura femenina de conducta socialmente aprobada en vida, cuyo destino post mortem es benigno, estableciendo el castigo o la recompensa post mortem como consecuencia directa de la conducta previa y no del azar.

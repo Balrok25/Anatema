@@ -123,12 +123,8 @@
 - Fichas de 24 entidades de morfología compuesta
 
 ### CODEX XIX · BESTIARIUM (El Bestiario) · ORDO SPECTRALIS (Orden Espectral)
-- Fichas de 11 entidades espectrales regionales
-- Ficha de la Bean-nighe escocesa (pendiente)
-- Ficha del Gashadokuro japonés (pendiente)
+- Fichas de 16 entidades espectrales regionales: las 11 originales más Bean-nighe, Gashadokuro, Preta, Cihuateteo y Xtabay
 - Variantes regionales de la Dama Blanca (pendiente)
-- Ficha del Preta búdico-hindú (pendiente)
-- Fichas mesoamericanas: Cihuateteo y Xtabay (pendiente)
 - Fichas de entidades del ataque nocturno del durmiente: variantes regionales de la presencia que paraliza y oprime (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
