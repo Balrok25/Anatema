@@ -60,13 +60,15 @@ La persona que bloquea deja silencios.
 
 Y los silencios son mucho más difíciles de estudiar.
 
-Pero hay una manera de estudiar un silencio: mirar dónde está.
+Pero un silencio puede escucharse.
 
-Si el nulo existe, buscarlo por sus historias es absurdo, porque su rasgo es no generarlas. Lo que sí puede buscarse es el hueco. El folklore funciona como un clima: donde hay gente, llueven historias. Cada comarca tiene su aparecida, su casa que no se alquila, su cruce que se evita de noche. La densidad varía, pero nunca es cero. Y sin embargo, quien recorre los archivos del folklore con suficiente paciencia acaba tropezando con anomalías que ningún compilador comenta: la aldea sin un solo fantasma documentado, rodeada de comarcas que los tienen a docenas. La casa antigua de la que nadie cuenta nada, en un pueblo donde se cuenta todo. El linaje sin historias en una familia donde cada generación las tiene.
+Cualquiera que haya caminado por un bosque conoce el aviso más antiguo del mundo: los pájaros dejan de cantar. No se oye nada nuevo. Se deja de oír. Y esa ausencia eriza la piel más que cualquier ruido, porque el cuerpo sabe, desde antes de que existieran las palabras, lo que significa un bosque callado. Algo camina cerca.
 
-Puede que no signifique nada. Los archivos están incompletos, los recopiladores no llegaron a todas partes, el azar existe. Pero el patrón que busco no es la ausencia aislada sino la ausencia rodeada: el punto mudo en mitad de una región que habla. Un mapa del folklore, leído en negativo, como el revelado de una fotografía. Donde todos los pueblos vecinos tienen leyenda y uno no la tiene, la pregunta correcta quizá no sea qué les pasó a los demás.
+El folklore es el canto de los pueblos. Donde hay gente, suenan historias: cada comarca tiene su aparecida, su casa que no se alquila, su cruce que se evita de noche. El volumen sube y baja, pero nunca calla del todo. Por eso, quien recorre los archivos con paciencia acaba tropezando con algo que ningún compilador anota, porque no hay nada que anotar: la aldea sin un solo fantasma documentado, rodeada de comarcas que los tienen a docenas. La casa antigua de la que nadie cuenta nada, en un pueblo donde se cuenta todo. El linaje sin historias en una familia donde cada generación las tiene.
 
-Es qué vivía en ese.
+Puede que no signifique nada. Los archivos están incompletos, los recopiladores no llegaron a todas partes, el azar existe. Pero yo ya no busco historias. Escucho dónde se apaga el canto. La ausencia aislada no dice nada; la ausencia rodeada es otra cosa: el punto mudo en mitad de una región que habla, el claro del bosque donde los pájaros no cantan. Y ante un claro así, la pregunta correcta no es qué les pasó a los pueblos que cuentan.
+
+Es qué vivía en el que calla.
 
 La aparición del concepto de Pariah en la ficción moderna llevó esta idea hasta su forma más extrema: un individuo que no proyecta ninguna influencia psíquica, que genera un vacío alrededor suyo, que no permite que otros fenómenos ocurran en su presencia.
 
@@ -100,43 +102,51 @@ Y debajo hay una pregunta más incómoda, y prefiero dejarla escrita. Si un nulo
 
 ## El otro miedo
 
-Hasta aquí he escrito del nulo como quien escribe de un recurso. Una contramedida, una anomalía, una pieza que falta en el archivo. Pero hay otra forma de mirarlo, y me la impuso una pregunta simple: ¿y si no sabe lo que es?
+Todo lo escrito hasta aquí habla del nulo como de un recurso. Una contramedida, una anomalía, la pieza que le falta al archivo. Es la manera cómoda de escribirlo, porque lo deja donde están las demás criaturas de este libro: al otro lado de la página.
 
-Nadie nace sabiendo que le falta algo que no puede verse. El nulo crecería como cualquiera, en un mundo que habla constantemente de lo que él no percibe. Estaría en la casa que todos llaman cargada y no sentiría nada. Visitaría el lugar sagrado donde su familia baja la voz y solo vería piedras. Sostendría el péndulo y el péndulo no se movería. Una y otra vez, la misma escena: los demás sienten algo y él no.
+Pero hay una pregunta que llevo clavada desde que empecé este codex, y no voy a esquivarla por escrito: ¿y si el nulo no sabe lo que es?
 
-¿Y qué conclusión saca una persona de eso? No piensa que es un vacío andante que apaga lo invisible. Piensa que es insensible. Que le falta imaginación. Que los demás exageran o que él está roto. He leído cientos de testimonios de personas que perciben de más, y todas comparten el miedo a estar locas. El que percibe de menos ni siquiera tiene un miedo que compartir. Tiene un encogerse de hombros que lo acompaña toda la vida.
+Nadie nace sabiendo que le falta algo invisible. Imagínalo. Imagina crecer en la casa que todo el pueblo llama cargada y no sentir nunca nada. Estar en el templo donde tu madre baja la voz y ver solo piedra. Sostener el péndulo del abuelo y que el péndulo cuelgue muerto, mientras en manos de tu hermana baila. La sesión que se suspende cuando entras. El grupo que reza y algo pasa, hasta que llegas tú y deja de pasar. Siempre la misma escena, repetida durante años con distintos decorados: todos sienten algo. Tú no.
 
-Y luego están las frases. Contigo no funciona. Mejor sal de la habitación. Rompes el ambiente. Dichas sin crueldad, incluso con cariño, cada una confirmando lo mismo: donde tú estás, no pasa nada. Quizá la inmunidad más completa que existe contra todo lo catalogado en este compendio se pague con eso. Con no poder entrar nunca del todo en el mundo del que este libro habla. Protegido de todo, incluido lo que amaba.
+¿Y qué conclusión saca un ser humano de eso? Ninguna gloriosa. No se dice a sí mismo: soy el vacío que apaga lo invisible. Se dice: estoy roto. Que le falta imaginación, o sensibilidad, o alma, que es la palabra que usan los demás cuando quieren herir. He leído cientos de testimonios de gente que percibe de más, y todos comparten el mismo terror a estar volviéndose loca. El que percibe de menos no tiene ni eso. No hay palabra para su condición, no hay comunidad que lo reciba, no hay grimorio que lo mencione. Su vida entera cabe en un encogerse de hombros.
 
-El precio de la inmunidad es la sordera. Y nadie le preguntó si quería pagar.
+Y luego están las frases. Contigo no funciona. Mejor espera fuera. Tú rompes el ambiente. Dichas sin crueldad, a veces con cariño, y por eso peores, porque cada una deja caer la misma sentencia sin juicio ni verdugo: donde tú estás, no pasa nada.
+
+Esa es la otra cara de la moneda más valiosa de este compendio. La inmunidad perfecta existe, y la lleva puesta alguien que jamás pidió ser inmune. Blindado contra el demonio y contra el ángel por igual. Protegido de todo, expulsado de todo. Intocable en un mundo que se toca a oscuras.
+
+El precio de la inmunidad es la sordera. Y a nadie se le preguntó si quería pagar.
 
 ## La ficha imposible
 
-Cuando este compendio toma una entidad en serio, le escribe una ficha. Es el gesto que separa el rumor del catálogo: nombre, clasificación, peligrosidad, actuación, vulnerabilidades, territorio. Cientos de veces he rellenado esos campos. Así que intenté hacerlo una vez más. Intenté escribirle al nulo su ficha, como a todo lo demás.
+Cada vez que este compendio ha tomado algo en serio, le ha escrito una ficha. Es el rito de este libro: lo que tiene ficha existe, lo que no la tiene es rumor. He rellenado esos campos cientos de veces. Reyes con sus legiones, ahogadas que cantan, casas que respiran. La ficha es mi círculo de invocación: trazo los campos y la criatura acude, ordenada, al papel.
 
-Esto es lo que quedó.
+Así que una noche tracé el círculo una vez más y llamé al nulo.
+
+No acudió. Acudió su ausencia. Esto es lo que quedó sobre el papel:
 
 ### El nulo
 
-*Orden / Clasificación: ninguna; las órdenes de este compendio clasifican lo que se manifiesta*
+*Orden / Clasificación: ninguna; mis órdenes clasifican lo que se manifiesta, y él es lo que no*
 
-**Imagen:** no deja; ninguna descripción coincide, porque nadie lo mira dos veces
+**Imagen:** ninguna; nadie lo ha mirado dos veces
 
-**Peligrosidad:** nula para el ser humano; absoluta para todo lo demás que este libro cataloga
+**Peligrosidad:** nula para ti; absoluta para todo lo demás que contiene este libro
 
-**Actuación:** ninguna; ante su presencia no hay procedimiento, porque no hay fenómeno
+**Actuación:** no hay procedimiento, porque no hay fenómeno; nada que cerrar, nada que licenciar, nada que expulsar
 
-**Vulnerabilidades:** se desconocen; nada de lo que actúa a través del velo lo alcanza, y lo que actúa sin el velo lo alcanza como a cualquiera
+**Vulnerabilidades:** las tuyas; lo que cruza el velo no lo alcanza, y lo que no lo cruza lo hiere como a cualquier hombre
 
-**Capacidades documentadas:** ninguna, y esa es exactamente su capacidad
+**Capacidades documentadas:** ninguna; esa es la capacidad
 
-**Territorio:** cualquier silla de cualquier sala; ahora mismo puede estar en la tuya
+**Territorio:** cualquier silla de cualquier sala; puede que la de al lado de la tuya
 
-**Actividad:** constante e indetectable; se mide por lo que deja de ocurrir
+**Actividad:** constante, invisible, medida solo en lo que deja de ocurrir
 
-**Invocable:** no; no hay nombre que lo llame, ni sello que lo trace, ni ritmo que lo baje
+**Invocable:** no; no hay nombre que lo llame, ni sello que lo trace, ni tambor que lo baje; esta ficha es la prueba
 
-Es la única ficha de este compendio en la que cada campo está vacío y, aun así, ninguno está en blanco. La escribí igual. Un catálogo de todo lo oculto que no incluyera al agujero de su propio centro estaría incompleto, aunque la única manera honesta de incluirlo sea esta: una ficha que documenta, campo por campo, todo lo que no se puede documentar.
+Léela otra vez. Cada campo está vacío y ninguno está en blanco. Es la única ficha del compendio que no describe a su criatura: describe el agujero que la criatura deja en el método. Veintiséis codices de círculos, sellos y nombres verdaderos, y el catálogo se cierra con esto: una ficha que atrapa, campo por campo, exactamente nada.
+
+La escribí igual. Un libro de todo lo oculto que no incluyera el agujero de su propio centro estaría mintiendo.
 
 ## El anatema
 
