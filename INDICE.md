@@ -46,8 +46,9 @@
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
-- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, feng shui, Vastu Shastra, tarot, espejo negro, lectura de posos, laberinto, sueños
-- Sectio III. Captación instrumental y marco de investigación
+- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, tarot, espejo negro, lectura de posos, laberinto, sueños
+- Sectio III. Ordenación del espacio habitado: disposición por zonas (feng shui), disposición por orientación (Vastu Shastra)
+- Sectio IV. Captación instrumental y marco de investigación
 
 ## PARS III · ARTES HUMANAE (Las Artes Humanas)
 
@@ -129,7 +130,7 @@
 - Nota sobre fiabilidad diagnóstica
 - Nota sobre enterramientos apotropaicos
 
-### CODEX XXI · CRYPTOZOOLOGIA (La Criptozoología)
+### CODEX XXI · BESTIARIUM (El Bestiario) · ORDO CRYPTICUS (Orden Críptida · La Criptozoología)
 - 15 patrones de avistamiento documentados, incluidos habitante de pantano meridional, gusano rojo del desierto, cabeza acorazonada de ojos anaranjados, figura de niebla con cabeza en forma de pala, hombre alado de la torre
 - Nota metodológica sobre evidencia testimonial
 

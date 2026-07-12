@@ -34,7 +34,7 @@ Entidad documentada de forma consistente como guardián fijo del umbral entre el
 
 **Actuación:** Contacto mediante el procedimiento de invocación por posesión, tras la convocatoria inicial del guardián de umbral, con ofrenda de hierro o metal trabajado.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Función guerrera y de dominio sobre el hierro y el metal trabajado; función documentada de sanación de dolencias de la sangre pese a su disposición marcial
 
@@ -56,7 +56,7 @@ Entidad de disposición fieramente marcial, asociada al hierro, la herrería y e
 
 **Actuación:** Contacto mediante el procedimiento de invocación por posesión, especificando mediante la consulta adivinatoria previa cuál de sus aspectos se busca contactar.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Función sobre el amor, la belleza y la fortuna en su aspecto sereno; función de venganza, celos y protección violenta de mujeres y menores frente al maltrato en su aspecto más severo
 
@@ -78,7 +78,7 @@ Entidad documentada con dos aspectos marcadamente distintos que el propio sistem
 
 **Actuación:** Contacto mediante el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar, con ofrenda depositada en el mar o en un cuerpo de agua vinculado a ella.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Función materna y de protección de la vida; dominio documentado sobre el mar y sus corrientes; capacidad destructiva asociada a inundaciones y tormentas cuando se la documenta encolerizada
 
@@ -100,7 +100,7 @@ Entidad materna asociada al mar y a la protección de la vida que contiene, docu
 
 **Actuación:** Ofrenda depositada en el agua que se le atribuye; el contacto sigue el mismo procedimiento general de invocación por posesión descrito en el Codex del Arte de Evocar donde la tradición local lo practica de ese modo.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Concede riqueza, belleza y sanación a quien favorece; causa enfermedad, locura o ahogamiento a quien la agravia; dominio sobre ríos, lagos y el mar
 
@@ -122,7 +122,7 @@ Espíritu de las aguas de distribución panafricana, representado de forma consi
 
 **Actuación:** No se documenta procedimiento de convocatoria ceremonial; el registro lo trata como protagonista narrativo antes que como entidad invocable con fines de servicio.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Ingenio superior a la fuerza física; capacidad de adoptar forma de araña o forma humana a voluntad; propietario original de la totalidad de las historias del mundo, obtenidas mediante astucia y no mediante fuerza
 

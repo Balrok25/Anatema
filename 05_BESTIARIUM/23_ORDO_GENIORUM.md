@@ -100,7 +100,7 @@ A diferencia del resto de esta orden, no es una categoría de entidad sino una f
 
 **Actuación:** Contacto no documentado por procedimiento ceremonial estándar; el registro la describe como entidad que interviene por iniciativa propia antes que como entidad convocable.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Belleza física excepcional, capacidad de vuelo, origen ígneo; en el registro más antiguo aparece como cautiva sometida por la categoría de mayor malicia de esta misma familia, rescatada por un héroe humano
 
@@ -122,7 +122,7 @@ Entidad afín a los genios de origen persa, no incluida en la clasificación cua
 
 **Actuación:** No se documenta procedimiento de contacto o negociación; el registro la trata exclusivamente como amenaza a confrontar o evitar.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Humanoide de tamaño gigantesco, con cuernos y dentición prominente; fuerza física muy superior a la humana; apetito documentado por la carne humana
 

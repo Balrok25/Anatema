@@ -56,7 +56,7 @@ Capacidad adquirida mediante brujería, no maldición externa: quien la posee ha
 
 **Actuación:** La disposición no es discernible por apariencia; tratar con el mismo respeto reservado a la Orden Liminar hasta confirmar comportamiento.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Transformación en forma humana, con frecuencia la de una persona joven, alcanzable tras varias décadas de existencia; la edad se manifiesta físicamente en el número de colas, hasta un máximo de nueve
 
@@ -166,7 +166,7 @@ Entidad no humana desde su origen, capaz de despojarse de una vestidura de pluma
 
 **Actuación:** No exige contención; tratar con el mismo respeto reservado a la Orden Liminar y no como amenaza.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Transformación en forma humana o en objetos inertes, con frecuencia sostenida mediante una hoja vegetal colocada sobre la propia cabeza cuya pérdida revierte la forma de inmediato; capacidad de producir sonido de tambor golpeando el propio vientre
 

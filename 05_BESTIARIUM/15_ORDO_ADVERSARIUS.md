@@ -12,7 +12,7 @@ Las fichas siguientes catalogan a los demonios de la jerarquía goética que com
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Otorga invisibilidad; transmite conocimiento sobre mando y administración de entidades subordinadas
 
@@ -34,7 +34,7 @@ Rey, sesenta y seis legiones. Se manifiesta en tres formas alternas: un sapo, un
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Dominio sobre las lenguas; fuerza la huida de un enemigo señalado; enseña lenguaje de las bestias
 
@@ -56,7 +56,7 @@ Duque, treinta y una legiones. Se presenta como un anciano montado sobre un coco
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Otorga dignidades y cargos; enseña ciencias diversas; responde cualquier pregunta
 
@@ -78,7 +78,7 @@ Rey, doscientas legiones, uno de los rangos más altos de la jerarquía estánda
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Cura enfermedades; enseña filosofía moral y natural; proporciona familiares
 
@@ -188,7 +188,7 @@ Duque, veintiséis legiones. Se manifiesta con forma de soldado de vestimenta ro
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Revela pasado y futuro; localiza objetos perdidos u ocultos
 
@@ -210,7 +210,7 @@ Príncipe, veintiséis legiones. De inclinación descrita como buena dentro de l
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Inflama el afecto entre dos personas señaladas
 
@@ -232,7 +232,7 @@ Príncipe, sesenta legiones. Se manifiesta primero como leopardo con alas de gri
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Reconcilia amistades rotas; responde con veracidad sobre pasado y futuro
 
@@ -254,7 +254,7 @@ Marqués, cuarenta legiones. Lobo de cola serpentina que vomita llamas por la bo
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Comprende el lenguaje animal; deshace encantamientos; reconcilia amigos y gobernantes; revela tesoros
 
@@ -298,7 +298,7 @@ Rey, ochenta y cinco legiones. Llega montado a caballo pálido precedido de mús
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Conoce cosas ocultas; descubre tesoros; responde sobre pasado, presente y futuro; da familiares
 
@@ -320,7 +320,7 @@ Rey, veintidós legiones. Rostro humano sobre cuerpo de león, portando una víb
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Enseña aritmética, geometría, astronomía y oficios; entrega anillo de virtudes; otorga invisibilidad; custodia tesoros
 
@@ -342,7 +342,7 @@ Rey, setenta y dos legiones. Tres cabezas (de toro, de hombre y de carnero), col
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Combatiente formidable; adopta forma humana a petición
 
@@ -364,7 +364,7 @@ Marqués, treinta legiones. Lobo con alas de grifo y cola de serpiente que vomit
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Talento poético notable
 
@@ -408,7 +408,7 @@ Marqués, treinta legiones. Paloma torcaz de voz ronca. Priva de la vista, el o�
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Descubre cosas ocultas y brujería activa; construye torres; derriba murallas; provoca tormentas
 
@@ -452,7 +452,7 @@ Duque, entre tres y treinta legiones según la fuente. Provoca naufragios y ahog
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Gobierna las aguas; guía navíos de guerra; provoca llagas mortales en tres días
 
@@ -474,7 +474,7 @@ Duque, veintinueve legiones. Sirena que gobierna las aguas y guía navíos de gu
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Ver también Codex del Arte de Evocar, Sectio IV (Necromancia) por su capacidad de puente con esa orden.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Enseña filosofía; obliga a las almas de los difuntos a comparecer y responder
 
@@ -518,7 +518,7 @@ Príncipe, veinte legiones. Caballo capaz de adoptar forma humana. Responde con 
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Revela pasado, presente y futuro; descubre tesoros; procura el afecto de mujeres
 
@@ -540,7 +540,7 @@ Duque, veintiséis legiones. Mujer de gran belleza con corona ducal, montada en 
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Transmuta agua en vino, sangre en aceite, metal en moneda; convierte necios en sabios
 
@@ -650,7 +650,7 @@ Príncipe, veintiséis legiones. Hombre de gran belleza montado en un caballo al
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Enseña todas las artes y ciencias; declara pensamientos secretos; altera afectos
 
@@ -672,7 +672,7 @@ Duque, treinta y seis legiones. Hombre de múltiples rostros (tantos como person
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Recupera bienes robados; descubre engaño; castiga a ladrones
 
@@ -694,7 +694,7 @@ Conde, treinta y seis legiones. Hombre que sostiene una gran serpiente. Recupera
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Rango más bajo de la jerarquía: escolta y protocolo notablemente reducidos.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Enseña filosofía, retórica, lógica, astronomía, quiromancia y piromancia
 
@@ -716,7 +716,7 @@ Caballero, veinte legiones. Anciano de barba larga montado en caballo pálido, p
 
 **Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Enseña con rapidez todas las artes y ciencias; restituye dignidades y honores perdidos
 
@@ -752,7 +752,7 @@ Bajo estas tres autoridades sirve un cuerpo reducido de ministros con funciones 
 
 **Actuación:** Convocatoria dirigida directamente a esta entidad, no a las tres autoridades cardinales → Codex del Arte de Evocar, Sectio I. Negociación de pacto centrada en riqueza o tesoro oculto → Codex de la Contención, Sectio I.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Gestiona pactos relacionados con riqueza material y tesoros ocultos; actúa como intermediario obligado entre el operador y las tres autoridades cardinales de este sistema
 
@@ -774,7 +774,7 @@ Primer ministro de esta jerarquía alternativa, intermediario obligado para cual
 
 **Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Ejecución directa de tareas encomendadas por su autoridad superior; capacidad documentada de doblegar la voluntad de una persona en asuntos de atracción y sumisión afectiva
 
@@ -796,7 +796,7 @@ General subordinado a la autoridad de oriente de esta jerarquía, documentado en
 
 **Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Descubre secretos guardados en cortes y consejos de gobierno; revela misterios de naturaleza elevada no accesibles por otra vía
 
@@ -818,7 +818,7 @@ Segundo general subordinado a la autoridad de oriente, documentado en particular
 
 **Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Ejecución nocturna de tareas encomendadas; el registro le atribuye de forma menos consistente que al resto de esta jerarquía capacidad de daño a cultivos y de alteración meteorológica local
 
@@ -840,7 +840,7 @@ Teniente general de la misma autoridad de oriente que Satanachia y Agaliarept, d
 
 **Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Otorga invisibilidad y capacidad de traslado instantáneo a cualquier lugar; abre cualquier cerradura; revela lo que ocurre en el interior de una vivienda ajena
 
@@ -862,7 +862,7 @@ Brigadier subordinado a la autoridad de norte de esta jerarquía, documentado po
 
 **Actuación:** Convocatoria mediante intermediación de Lucifuge Rofocale o convocatoria directa según el propósito → Codex del Arte de Evocar, Sectio I.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Supervisión e inspección general de la jerarquía subordinada a la autoridad de mediodía; función asociada con mayor frecuencia que el resto de esta jerarquía a la necromancia y al conocimiento sobre los muertos
 

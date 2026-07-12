@@ -12,7 +12,7 @@ Las fichas siguientes catalogan a las entidades de la Orden Quimérica, una de l
 
 **Actuación:** Sin procedimiento de contención catalogado; evitar aproximación directa.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Inteligencia comparable a la humana; feroz en defensa de su territorio
 
@@ -56,7 +56,7 @@ Cuerpo de león, rostro humano, cola de escorpión venenosa. Depredador activo c
 
 **Actuación:** Sin procedimiento de contención catalogado; evitar aproximación directa.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Proyección de fuego (mayoría de variantes); inteligencia superior a cualquier otra entidad de su orden
 
@@ -342,7 +342,7 @@ Serpiente de proporciones tan vastas que su cuerpo rodea por completo la masa de
 
 **Actuación:** Sin procedimiento de contención catalogado; evitar aproximación directa.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Hundimiento repentino genera un remolino capaz de arrastrar una embarcación entera
 
@@ -386,7 +386,7 @@ Entidad de la tradición india capaz de cambiar de forma a voluntad, descrita co
 
 **Actuación:** Sin procedimiento de contención catalogado; evitar aproximación directa. Tratar con respeto explícito el territorio custodiado.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Guardiana de su territorio; disposición variable según la fuente
 
@@ -408,7 +408,7 @@ Entidad de la tradición india capaz de cambiar de forma a voluntad, descrita co
 
 **Actuación:** Sin procedimiento de contención catalogado; evitar aproximación directa.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Vuelo capaz de generar vientos de fuerza destructiva; hostilidad dirigida principalmente a los naga
 
@@ -474,7 +474,7 @@ Ave de proporciones colosales documentada en el registro de viajeros y comercian
 
 **Actuación:** Propenso al engaño hacia quien se adentra sin respeto en su territorio.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Maestro de artes marciales y esgrima, transmisible tras aprendizaje exigente
 

@@ -12,7 +12,7 @@ Las fichas siguientes catalogan a las entidades de la Orden Liminar, una de las 
 
 **Actuación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Replica con exactitud la forma de una persona viva y actúa de forma independiente a su voluntad
 
@@ -34,7 +34,7 @@ Entidad que replica con exactitud la forma de una persona viva concreta y actúa
 
 **Actuación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Se alimenta de la esencia de lo consumido sin reducir la cantidad física de alimento
 
@@ -100,7 +100,7 @@ Entidad doméstica documentada en el folclore de las islas británicas, de estat
 
 **Actuación:** Contacto por reciprocidad, no por coerción → Codex de la Naturaleza de las Entidades, Orden Liminar. Dejar pequeña ofrenda de comida en su rincón; evitar insultar o desafiar su presencia en voz alta.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Ruidos, objetos desplazados y bromas menores; agresión solo ante provocación sostenida
 
@@ -386,7 +386,7 @@ Entidad de figura humana de cintura para arriba y equina de cintura para abajo, 
 
 **Actuación:** Ofrenda y trato respetuoso hacia el lugar natural que custodia (raíz de árbol, río, montaña).
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Custodia tesoros ocultos bajo tierra o en la raíz de los árboles; concede prosperidad a quien lo trata con respeto, y se documenta también capaz de conducta caprichosa, sexualmente impulsiva o violenta
 

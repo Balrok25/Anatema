@@ -14,7 +14,7 @@ Ediciones anteriores de este compendio sostuvieron que la Orden Espectral no adm
 
 **Actuación:** Sin acción de contención documentada: el lamento se interpreta como aviso, no como amenaza; no se documenta efecto alguno de negarlo o de intentar impedirlo.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Lamento agudo y prolongado, audible por los miembros de la familia, que antecede a la muerte de uno de sus integrantes
 
@@ -80,7 +80,7 @@ Entidad de las llanuras del norte de Sudamérica que se manifiesta mediante un s
 
 **Actuación:** La hora de la percepción determina la lectura documentada: al anochecer o a medianoche, presagio; en otro momento, aviso neutro de una llegada.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Réplica exacta del paso, la voz, el olor o la figura completa de una persona viva, percibida antes de que la persona real llegue
 
@@ -146,7 +146,7 @@ Mujer envenenada y desfigurada de forma permanente por su propio esposo, que bus
 
 **Actuación:** No desplazarse en soledad de noche cerca de cursos de agua; no responder ni seguir a una mujer desconocida en esas condiciones.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Apariencia inicial de gran belleza que revela, al aproximarse, un rostro distinto (cadáver, equino, cuenca vacía según variante)
 
@@ -212,7 +212,7 @@ Navío condenado a no atracar jamás tras el juramento imprudente de su capitán
 
 **Actuación:** No cruzarse en su camino ni atraer su atención; buscar refugio o tenderse fuera de su trayectoria hasta que termine de pasar.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Cacería espectral de jinetes, perros y almas de difuntos liderada por una figura variable según la región
 
@@ -278,7 +278,7 @@ Variante regional de la Banshee documentada de forma independiente en el folclor
 
 **Actuación:** Evitar caminos solitarios de madrugada en la franja horaria documentada; no se documenta contramedida directa más allá de la evitación.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Figura de huesos ensamblados de tamaño muy superior al humano, capaz de aplastar o decapitar a una víctima con una sola mano; su avance se anuncia por un traqueteo óseo característico antes de hacerse visible
 
@@ -322,7 +322,7 @@ Entidad que padece, según la tradición que la documenta, la consecuencia de un
 
 **Actuación:** Evitar cruces de caminos durante las fechas de riesgo señaladas por el calendario ritual local; los menores no deben quedar sin vigilancia en esos días.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Descienden en grupo durante fechas fijas y aciagas del calendario ritual, asociadas a crisis convulsivas, secuestro o daño a menores, y trastorno mental en quien se cruza con ellas
 
@@ -344,7 +344,7 @@ Formación colectiva de mujeres fallecidas en parto, equiparadas en su tradició
 
 **Actuación:** Evitar arboledas del árbol sagrado asociado a esta entidad durante la noche; rechazar el ofrecimiento de compañía de una mujer no identificada hallada sola en esas condiciones.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Se presenta como mujer de gran atractivo bajo un árbol sagrado concreto, atrae a hombres infieles o ebrios y los conduce a la muerte tras el encuentro
 
@@ -366,7 +366,7 @@ Entidad documentada en su tradición de origen como el destino post mortem de un
 
 **Actuación:** Ninguna contramedida activa fiable documentada; el episodio remite por sí solo en cuestión de segundos a minutos.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Se sienta sobre el pecho del durmiente, produciendo sensación de opresión, asfixia y pesadillas intensas; el afectado percibe su presencia sin poder moverse ni hablar durante el episodio
 
@@ -388,7 +388,7 @@ Entidad nocturna documentada en el folclore germánico y escandinavo que visita 
 
 **Actuación:** Ninguna contramedida activa fiable documentada.
 
-**Vulnerabilidades:** No documentada
+**Vulnerabilidades:** No documentadas
 
 **Capacidades documentadas:** Adopta forma de perro o gato de gran tamaño y pelaje oscuro, con patas de acero perforadas que le impiden sujetar objetos; se instala sobre el pecho del durmiente produciendo el mismo cuadro de opresión y pesadilla ya descrito para el resto de esta categoría
 
