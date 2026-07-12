@@ -355,3 +355,91 @@ Formación colectiva de mujeres fallecidas en parto, equiparadas en su tradició
 **Invocable:** No, entidad de castigo moral selectivo
 
 Entidad documentada en su tradición de origen como el destino post mortem de una mujer condenada en vida por su conducta, transformada en figura de castigo selectivo que atrae específicamente a hombres infieles o ebrios bajo el árbol sagrado que le da su nombre regional, conduciéndolos a la muerte tras el encuentro. El relato de origen que la documenta la contrasta de forma explícita con una segunda figura femenina de conducta socialmente aprobada en vida, cuyo destino post mortem es benigno, estableciendo el castigo o la recompensa post mortem como consecuencia directa de la conducta previa y no del azar.
+
+### Mara
+
+*Orden / Clasificación: Espectral, ataque nocturno del durmiente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Moderada; el padecimiento es real y documentado, pero no se registra daño físico permanente
+
+**Actuación:** Ninguna contramedida activa fiable documentada; el episodio remite por sí solo en cuestión de segundos a minutos.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Se sienta sobre el pecho del durmiente, produciendo sensación de opresión, asfixia y pesadillas intensas; el afectado percibe su presencia sin poder moverse ni hablar durante el episodio
+
+**Territorio:** Escandinavia y Europa germánica
+
+**Actividad:** Nocturna, durante el sueño
+
+**Invocable:** No
+
+Entidad nocturna documentada en el folclore germánico y escandinavo que visita al durmiente y se sienta sobre su pecho, produciendo la sensación característica de esta categoría: opresión torácica, dificultad para respirar y pesadillas de intensidad marcada, con el afectado consciente de la presencia pero incapaz de moverse o de hablar durante el episodio. El mismo patrón exacto, con variaciones solo de nombre y de rasgo físico atribuido a la entidad, se documenta de forma independiente en decenas de culturas sin contacto entre sí, entre ellas las tres fichas siguientes de esta misma Orden.
+
+### Pesanta
+
+*Orden / Clasificación: Espectral, ataque nocturno del durmiente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Moderada; mismas condiciones que el resto de esta categoría
+
+**Actuación:** Ninguna contramedida activa fiable documentada.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Adopta forma de perro o gato de gran tamaño y pelaje oscuro, con patas de acero perforadas que le impiden sujetar objetos; se instala sobre el pecho del durmiente produciendo el mismo cuadro de opresión y pesadilla ya descrito para el resto de esta categoría
+
+**Territorio:** Cataluña
+
+**Actividad:** Nocturna, durante el sueño
+
+**Invocable:** No
+
+Variante catalana del mismo patrón ya descrito para Mara en esta Orden, distinguida por su forma animal (perro o gato de gran tamaño, oscuro y de aspecto pesado) y por un detalle morfológico propio: sus patas, descritas como de acero, están perforadas de forma que no puede sujetar ni robar nada pese a su presencia física dentro de la vivienda.
+
+### Batibat
+
+*Orden / Clasificación: Espectral, ataque nocturno del durmiente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Moderada; mismas condiciones que el resto de esta categoría
+
+**Actuación:** Se documenta como ligada a un árbol o a la madera de construcción obtenida de él; mover o golpear la madera asociada durante el episodio se registra en parte del folclore local como método de interrupción.
+
+**Vulnerabilidades:** Vínculo con la pieza de madera o el árbol de origen ya descrito
+
+**Capacidades documentadas:** Figura corpulenta que se instala sobre el pecho del durmiente, produciendo el mismo cuadro de opresión y pesadilla del resto de esta categoría; ligada de forma específica a un árbol concreto o a la madera obtenida de él una vez cortado
+
+**Territorio:** Filipinas
+
+**Actividad:** Nocturna, durante el sueño
+
+**Invocable:** No
+
+Variante filipina del mismo patrón, distinguida del resto de esta categoría por su vínculo documentado con un árbol concreto: quien tala ese árbol y emplea su madera en la construcción de una vivienda arriesga la presencia continuada de esta entidad dentro de la propia estructura.
+
+### Boo Hag
+
+*Orden / Clasificación: Espectral, ataque nocturno del durmiente*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta; a diferencia del resto de esta categoría, se documenta con capacidad de sustracción y no solo de opresión pasajera
+
+**Actuación:** Colocar un objeto de conteo (semillas pequeñas, un colador de cocina) junto al punto de entrada de la vivienda, siguiendo la misma lógica de obstáculo por conteo obligado ya documentada para otras entidades de este compendio.
+
+**Vulnerabilidades:** Se documenta obligada a contar cualquier conjunto de objetos pequeños que encuentre antes de proseguir, lo cual retrasa su avance hasta el amanecer
+
+**Capacidades documentadas:** Se despoja de su propia piel antes de salir de noche, entra en una vivienda por una rendija o el ojo de una cerradura, y monta al durmiente extrayendo su energía vital en lugar de solo oprimir su pecho; puede regresar noche tras noche a la misma víctima si no se interrumpe el patrón
+
+**Territorio:** Costa sudatlántica de Norteamérica, comunidad gullah
+
+**Actividad:** Nocturna, durante el sueño
+
+**Invocable:** No
+
+Variante documentada en comunidades de origen afroamericano de la costa sudatlántica de Norteamérica, distinguida del resto de esta categoría por dos rasgos propios: se despoja de su piel antes de salir a operar de noche, y no se limita a oprimir el pecho del durmiente sino que extrae de forma activa su energía vital, pudiendo repetir la visita sobre la misma persona noche tras noche si el patrón no se interrumpe. La contramedida documentada con mayor consistencia explota la misma vulnerabilidad al conteo obligado ya registrada para otras entidades de este compendio.

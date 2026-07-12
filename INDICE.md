@@ -42,7 +42,7 @@
 - Sectio II. Exorcismo y neutralización
 - Sectio III. Exorcismo fuera de la tradición cristiana: ofrecimiento del cuerpo (Himalaya), diálogo y expulsión kabalística
 - Sectio IV. Ritos de tránsito comparados: matrimonio con un difunto, guía de almas comparada
-- Sectio V. Modelos no demoníacos de adherencia espiritual: vampirismo psíquico y espíritus obsesores (pendiente)
+- Sectio V. Modelos no demoníacos de adherencia espiritual: drenaje de vitalidad, adherencia de espíritu humano
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
@@ -91,7 +91,7 @@
 ## PARS IV · SPECTRA (Los Espectros)
 
 ### CODEX XIV · SPECTRA (Los Espectros)
-- Sectio I. Fantasmas y aparecidos (ampliación pendiente: alucinación de duelo, presencia protectora en supervivencia extrema)
+- Sectio I. Fantasmas y aparecidos: aparición de crisis, de duelo, presencia protectora, manifestaciones no visuales
 - Sectio II. Posesión y fenómenos poltergeist
 - Sectio III. Objetos malditos y lugares de poder
 
@@ -121,7 +121,7 @@
 - Fichas de 24 entidades de morfología compuesta
 
 ### CODEX XIX · BESTIARIUM (El Bestiario) · ORDO SPECTRALIS (Orden Espectral)
-- Fichas de 16 entidades espectrales regionales: las 11 originales más Bean-nighe, Gashadokuro, Preta, Cihuateteo y Xtabay
+- Fichas de 20 entidades espectrales regionales: las 16 anteriores más Mara, Pesanta, Batibat y Boo Hag (ataque nocturno del durmiente)
 - Variantes regionales de la Dama Blanca (pendiente)
 - Fichas de entidades del ataque nocturno del durmiente: variantes regionales de la presencia que paraliza y oprime (pendiente)
 
