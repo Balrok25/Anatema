@@ -1,6 +1,14 @@
 # CODEX XXVII · NIHIL (La Nulidad)
 
-Este codex no sigue las normas del resto del compendio, y esa es la única norma que tiene. Aquí no hay fuentes fundidas ni lenguaje de manual. Hay una pregunta que todavía no tiene respuesta y el camino que seguí para hacerla. Todo lo demás en este compendio documenta lo que ocurre. Este codex documenta lo que no ocurre, y por eso solo puedo escribirlo yo.
+Este compendio es, a todas luces, un manual. Una amalgama de conocimiento extraída de grimorios, papiros, tratados, bestiarios, folklore, textos que otros escribieron hace siglos y que yo me limité a fundir y traducir para que se entendieran en nuestra era. Esa fue siempre mi única función: compilar. Nunca tuve pensado escribir un texto propio.
+
+Pero aquí estoy.
+
+Este último codex se escribe en primera persona porque no proviene de una fuente. Proviene de una carencia. De un hueco en los archivos que ningún grimorio nombra, que ningún papiro registra, y que puede que al lector ni siquiera se le haya pasado por la cabeza. Y eso es lo curioso: pasar desapercibido, ser pasado por alto, es exactamente la capacidad que este codex intenta explicar.
+
+Este codex no sigue las normas del resto del compendio, y esa es la única norma que tiene. Aquí no hay fuentes fundidas ni lenguaje de manual. Hay una pregunta que todavía no tiene respuesta y el camino que seguí para hacerla. Todo lo demás en este libro documenta lo que ocurre. Este codex documenta lo que no ocurre.
+
+Y por eso solo puedo escribirlo yo.
 
 ## La hipótesis de la nulidad: la búsqueda de aquello que no ocurre
 
