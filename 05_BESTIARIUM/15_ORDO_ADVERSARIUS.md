@@ -374,7 +374,7 @@ Marqués, treinta legiones. Lobo con alas de grifo y cola de serpiente que vomit
 
 **Invocable:** Sí
 
-Marqués, veinte legiones. Ave de apariencia semejante al ave fénix descrita en el Bestiario de Campo, con voz de niño y talento poético notable. Comparte con Marchosias la misma expectativa documentada de retorno a un origen angélico superior tras idéntico periodo de servicio, igualmente sin caso de cumplimiento registrado en ninguna fuente consultada.
+Marqués, veinte legiones. Ave de apariencia semejante al Fénix descrito en el Ordo Chimaericus del Bestiario, con voz de niño y talento poético notable. Comparte con Marchosias la misma expectativa documentada de retorno a un origen angélico superior tras idéntico periodo de servicio, igualmente sin caso de cumplimiento registrado en ninguna fuente consultada.
 
 ### Shax
 

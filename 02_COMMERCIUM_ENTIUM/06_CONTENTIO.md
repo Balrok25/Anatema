@@ -2,7 +2,7 @@
 
 ## Sectio I — Pactos y negociación
 
-Un pacto formal solo es necesario cuando el operador no puede sostener control directo de una entidad mediante circulo, sello y autoridad de nombre de forma repetida y fiable. Si ese control ya se domina, no hace falta pactar nada: se invoca, se exige, se licencia la partida, y se repite el procedimiento cada vez que haga falta. El pacto es el recurso de quien busca una relación de servicio sostenida sin repetir cada vez el procedimiento completo de invocación, y ese atajo tiene un coste que ningún procedimiento de invocación directa exige.
+Un pacto formal solo es necesario cuando el operador no puede sostener control directo de una entidad mediante círculo, sello y autoridad de nombre de forma repetida y fiable. Si ese control ya se domina, no hace falta pactar nada: se invoca, se exige, se licencia la partida, y se repite el procedimiento cada vez que haga falta. El pacto es el recurso de quien busca una relación de servicio sostenida sin repetir cada vez el procedimiento completo de invocación, y ese atajo tiene un coste que ningún procedimiento de invocación directa exige.
 
 No toda entidad de la Orden Adversarial acepta pactar directamente: las de mayor rango no negocian en persona y remiten la negociación a un intermediario de rango inferior, autorizado específicamente para gestionar acuerdos con humanos. El procedimiento comienza convocando a la autoridad superior únicamente para solicitar que envíe a ese intermediario, no para negociar con ella directamente.
 

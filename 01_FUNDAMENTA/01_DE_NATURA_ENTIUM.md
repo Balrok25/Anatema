@@ -44,7 +44,7 @@ Agrupa toda entidad o fenómeno derivado de una consciencia humana tras su muert
 
 Comprende criaturas de morfología compuesta, cuerpos que combinan partes de más de un animal conocido, documentadas de forma consistente en catálogos de historia natural antiguos junto a animales reales, sin distinción de categoría entre ambos. Esto no es un error de clasificación de los catálogos originales sino un reflejo de que esta orden ocupa una posición fronteriza entre la zoología y lo sobrenatural: sus miembros tienen territorio, se alimentan, se reproducen o al menos perduran generacionalmente, y responden a estímulos de forma consistente con un animal, pero también exhiben inteligencia desproporcionada a su anatomía, longevidad anómala, o capacidades que ninguna combinación de sus partes constituyentes explicaría por separado.
 
-A diferencia de las órdenes anteriores, la Quimérica no tiene agenda cósmica ni motivación more allá de la supervivencia y la defensa del territorio; el riesgo que representa es del mismo orden que el de un depredador real, agravado por capacidades anómalas específicas de cada especie documentada.
+A diferencia de las órdenes anteriores, la Quimérica no tiene agenda cósmica ni motivación más allá de la supervivencia y la defensa del territorio; el riesgo que representa es del mismo orden que el de un depredador real, agravado por capacidades anómalas específicas de cada especie documentada.
 
 ### Orden Transmutada
 
@@ -56,7 +56,7 @@ A diferencia del resto de órdenes, el origen de la transformación varía de fo
 
 Comprende animales cuya existencia se sostiene por avistamiento reiterado y documentado pero sin espécimen confirmado por zoología convencional. A diferencia de la Orden Quimérica, la hipótesis de trabajo para esta orden es naturalista, no sobrenatural: se presume que son poblaciones no descubiertas o mal identificadas de fauna real, y su estudio sigue un método de clasificación morfológica basado en agrupar avistamientos por rasgos físicos recurrentes (silueta, tamaño, hábitat, comportamiento) antes que asignarles explicación.
 
-La frontera entre esta orden y la Quimérica es la más porosa de las siete: buena parte de los avistamientos que alimentan la Orden Críptida describen capacidades o comportamientos que exceden lo que la biología conocida permite, y la única razón para mantenerlos en categorías separadas es metodológica, no de certeza sobre su naturaleza real.
+La frontera entre esta orden y la Quimérica es la más porosa de las ocho: buena parte de los avistamientos que alimentan la Orden Críptida describen capacidades o comportamientos que exceden lo que la biología conocida permite, y la única razón para mantenerlos en categorías separadas es metodológica, no de certeza sobre su naturaleza real.
 
 ## Ejes de Clasificación Transversal
 
@@ -82,4 +82,8 @@ Los familiares vinculados a practicantes de brujería —tratados en el Codex de
 
 ## Riesgos de una Clasificación Incorrecta
 
-Cada orden exige un procedimiento distinto de aproximación, y aplicar el procedimiento equivocado no es simplemente ineficaz sino activamente peligroso. Tratar a una entidad de la Orden Liminar con la lógica de nombre-y-sello propia de la Adversarial no produce sumisión sino ofensa, y la respuesta documentada a esa ofensa incluye desde el retiro permanente de cualquier favor hasta represalias dirigidas contra el entorno inmediato del ofensor. A la inversa, trata
+Cada orden exige un procedimiento distinto de aproximación, y aplicar el procedimiento equivocado no es simplemente ineficaz sino activamente peligroso. Tratar a una entidad de la Orden Liminar con la lógica de nombre-y-sello propia de la Adversarial no produce sumisión sino ofensa, y la respuesta documentada a esa ofensa incluye desde el retiro permanente de cualquier favor hasta represalias dirigidas contra el entorno inmediato del ofensor. A la inversa, tratar a una entidad de la Orden Adversarial con la lógica de reciprocidad propia de la Liminar, ofrecer sin exigir sumisión previa, elimina la única ventaja estructural que el invocador tiene sobre ella y la deja en libertad de actuar según su naturaleza sin restricción.
+
+Confundir un espectro residual con uno interactivo lleva a interpretar como comunicación intencional lo que es una repetición mecánica sin voluntad, lo cual genera diagnósticos erróneos y procedimientos de resolución que no pueden funcionar porque no hay nada con lo que negociar. Confundir uno interactivo con un residual produce el error inverso: se abandona un intento de comunicación que sí podría haber tenido resultado.
+
+La clasificación correcta de una entidad, por tanto, no es un ejercicio académico previo al trabajo real: es la primera y más crítica decisión de cualquier procedimiento de contacto, y todo el resto de este compendio, instrumentos, invocación, contención, presupone que esa clasificación ya se ha hecho de forma correcta.
