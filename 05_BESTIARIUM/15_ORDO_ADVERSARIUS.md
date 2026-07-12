@@ -1,25 +1,24 @@
-# CODEX XV · BESTIARIUM — ORDO ADVERSARIUS
+# CODEX XV · BESTIARIUM, ORDO ADVERSARIUS
 
 Las fichas siguientes catalogan a los demonios de la jerarquía goética que componen la Orden Adversarial, una de las ocho descritas en el Codex de la Naturaleza de las Entidades. Cada ficha presupone conocido el procedimiento general de invocación descrito en el Codex del Arte de Evocar y el de contención descrito en el Codex de la Contención; lo que se detalla aquí es específico de cada individuo, no el procedimiento genérico ya cubierto en esos codices.
 
-
 ### Bael
+
+*Orden / Clasificación: Adversarial, Rey, 66 legiones*
 
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey, 66 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Otorga invisibilidad; transmite conocimiento sobre mando y administración de entidades subordinadas
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Otorga invisibilidad; transmite conocimiento sobre mando y administración de entidades subordinadas
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -27,21 +26,21 @@ Rey, sesenta y seis legiones. Se manifiesta en tres formas alternas: un sapo, un
 
 ### Agares
 
+*Orden / Clasificación: Adversarial, Duque, 31 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 31 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Dominio sobre las lenguas; fuerza la huida de un enemigo señalado; enseña lenguaje de las bestias
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Dominio sobre las lenguas; fuerza la huida de un enemigo señalado; enseña lenguaje de las bestias
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -49,21 +48,21 @@ Duque, treinta y una legiones. Se presenta como un anciano montado sobre un coco
 
 ### Paimon
 
+*Orden / Clasificación: Adversarial, Rey, 200 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey, 200 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Otorga dignidades y cargos; enseña ciencias diversas; responde cualquier pregunta
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Otorga dignidades y cargos; enseña ciencias diversas; responde cualquier pregunta
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -71,21 +70,21 @@ Rey, doscientas legiones, uno de los rangos más altos de la jerarquía estánda
 
 ### Buer
 
+*Orden / Clasificación: Adversarial, Presidente, 30 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Presidente, 30 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Cura enfermedades; enseña filosofía moral y natural; proporciona familiares
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Cura enfermedades; enseña filosofía moral y natural; proporciona familiares
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -93,21 +92,21 @@ Presidente, treinta legiones. Se manifiesta como un ciervo de color rojo intenso
 
 ### Astaroth
 
+*Orden / Clasificación: Adversarial, Duque, 40 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 40 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Preparar protección adicional contra el olor.
+
+**Vulnerabilidades:** El olor de su manifestación exige protección adicional distinta de la protección frente a agresión directa
+
+**Capacidades documentadas:** Explica la caída angélica; enseña matemáticas y oficios; otorga invisibilidad; guía a tesoros
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Explica la caída angélica; enseña matemáticas y oficios; otorga invisibilidad; guía a tesoros
-
-**Vulnerabilidades:** El olor de su manifestación exige protección adicional distinta de la protección frente a agresión directa
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Preparar protección adicional contra el olor.
 
 **Invocable:** Sí
 
@@ -115,21 +114,21 @@ Duque, cuarenta legiones. Se manifiesta con apariencia de figura alada de rasgos
 
 ### Marbas
 
+*Orden / Clasificación: Adversarial, Presidente, 36 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Presidente, 36 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** Formulación ambigua de la solicitud produce resultado no deseado
+
+**Capacidades documentadas:** Responde sobre asuntos ocultos; provoca y cura enfermedades; altera la forma de una persona señalada
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Responde sobre asuntos ocultos; provoca y cura enfermedades; altera la forma de una persona señalada
-
-**Vulnerabilidades:** Formulación ambigua de la solicitud produce resultado no deseado
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -137,21 +136,21 @@ Presidente, treinta y seis legiones. Se manifiesta primero como un gran león y 
 
 ### Furfur
 
+*Orden / Clasificación: Adversarial, Conde, 26 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Conde, 26 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** Falta a la verdad salvo que se le obligue a permanecer dentro del punto de manifestación en todo momento
+
+**Capacidades documentadas:** Provoca tormentas, relámpagos y vientos violentos; induce afecto entre dos personas
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Provoca tormentas, relámpagos y vientos violentos; induce afecto entre dos personas
-
-**Vulnerabilidades:** Falta a la verdad salvo que se le obligue a permanecer dentro del punto de manifestación en todo momento
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -159,21 +158,21 @@ Conde, veintiséis legiones. Se manifiesta como un ciervo con la cola envuelta e
 
 ### Berith
 
+*Orden / Clasificación: Adversarial, Duque, 26 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 26 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** La claridad persuasiva de su voz es el mecanismo de su engaño cuando falsea una respuesta
+
+**Capacidades documentadas:** Responde sobre pasado, presente y futuro; transmuta metales en oro; otorga dignidades
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Responde sobre pasado, presente y futuro; transmuta metales en oro; otorga dignidades
-
-**Vulnerabilidades:** La claridad persuasiva de su voz es el mecanismo de su engaño cuando falsea una respuesta
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -181,21 +180,21 @@ Duque, veintiséis legiones. Se manifiesta con forma de soldado de vestimenta ro
 
 ### Vassago
 
+*Orden / Clasificación: Adversarial, Príncipe, 26 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Príncipe, 26 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Revela pasado y futuro; localiza objetos perdidos u ocultos
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Revela pasado y futuro; localiza objetos perdidos u ocultos
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -203,21 +202,21 @@ Príncipe, veintiséis legiones. De inclinación descrita como buena dentro de l
 
 ### Sitri
 
+*Orden / Clasificación: Adversarial, Príncipe, 60 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Príncipe, 60 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Inflama el afecto entre dos personas señaladas
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Inflama el afecto entre dos personas señaladas
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -225,21 +224,21 @@ Príncipe, sesenta legiones. Se manifiesta primero como leopardo con alas de gri
 
 ### Amon
 
+*Orden / Clasificación: Adversarial, Marqués, 40 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Marqués, 40 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Reconcilia amistades rotas; responde con veracidad sobre pasado y futuro
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Reconcilia amistades rotas; responde con veracidad sobre pasado y futuro
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -247,21 +246,21 @@ Marqués, cuarenta legiones. Lobo de cola serpentina que vomita llamas por la bo
 
 ### Barbatos
 
+*Orden / Clasificación: Adversarial, Duque, 30 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 30 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Comprende el lenguaje animal; deshace encantamientos; reconcilia amigos y gobernantes; revela tesoros
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Comprende el lenguaje animal; deshace encantamientos; reconcilia amigos y gobernantes; revela tesoros
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -269,21 +268,21 @@ Duque, treinta legiones, cazador acompañado de cuatro reyes subordinados con su
 
 ### Beleth
 
+*Orden / Clasificación: Adversarial, Rey, 85 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey, 85 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Añadir gesto de sometimiento: vara de avellano hacia el sudeste con el signo de la cruz.
+
+**Vulnerabilidades:** Presencia inicial terrible; exige gesto de sometimiento adicional (vara de avellano + signo de la cruz al sudeste)
+
+**Capacidades documentadas:** Provoca amor entre hombre y mujer
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Provoca amor entre hombre y mujer
-
-**Vulnerabilidades:** Presencia inicial terrible; exige gesto de sometimiento adicional (vara de avellano + signo de la cruz al sudeste)
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Añadir gesto de sometimiento: vara de avellano hacia el sudeste con el signo de la cruz.
 
 **Invocable:** Sí
 
@@ -291,21 +290,21 @@ Rey, ochenta y cinco legiones. Llega montado a caballo pálido precedido de mús
 
 ### Purson
 
+*Orden / Clasificación: Adversarial, Rey, 22 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey, 22 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Conoce cosas ocultas; descubre tesoros; responde sobre pasado, presente y futuro; da familiares
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Conoce cosas ocultas; descubre tesoros; responde sobre pasado, presente y futuro; da familiares
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -313,43 +312,43 @@ Rey, veintidós legiones. Rostro humano sobre cuerpo de león, portando una víb
 
 ### Asmoday
 
-**Imagen:** *(pendiente de fuente verificada)*
+*Orden / Clasificación: Adversarial, Rey, 72 legiones*
 
-**Orden / Clasificación:** Adversarial — Rey, 72 legiones
+**Imagen:** *(pendiente de fuente verificada)*
 
 **Peligrosidad:** Alta
 
-**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Actividad:** No documentada
+**Vulnerabilidades:** No documentada
 
 **Capacidades documentadas:** Enseña aritmética, geometría, astronomía y oficios; entrega anillo de virtudes; otorga invisibilidad; custodia tesoros
 
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
-
-**Invocable:** Sí
-
-Rey, setenta y dos legiones. Tres cabezas —de toro, de hombre y de carnero—, cola de serpiente y pies palmípedos, montado en un dragón infernal y portando lanza y estandarte. Enseña aritmética, geometría, astronomía y oficios manuales, entrega un anillo descrito como portador de virtudes propias, otorga invisibilidad y custodia tesoros ocultos. Es uno de los nombres de esta orden con mayor presencia documental fuera del catálogo salomónico en sentido estricto, registrado también de forma independiente en fuentes apócrifas anteriores y en textos de exorcismo posteriores no relacionados directamente entre sí.
-
-### Marchosias
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Adversarial — Marqués, 30 legiones
-
-**Peligrosidad:** Alta
-
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
 
-**Capacidades documentadas:** Combatiente formidable; adopta forma humana a petición
+**Invocable:** Sí
+
+Rey, setenta y dos legiones. Tres cabezas (de toro, de hombre y de carnero), cola de serpiente y pies palmípedos, montado en un dragón infernal y portando lanza y estandarte. Enseña aritmética, geometría, astronomía y oficios manuales, entrega un anillo descrito como portador de virtudes propias, otorga invisibilidad y custodia tesoros ocultos. Es uno de los nombres de esta orden con mayor presencia documental fuera del catálogo salomónico en sentido estricto, registrado también de forma independiente en fuentes apócrifas anteriores y en textos de exorcismo posteriores no relacionados directamente entre sí.
+
+### Marchosias
+
+*Orden / Clasificación: Adversarial, Marqués, 30 legiones*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Vulnerabilidades:** No documentada
 
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+**Capacidades documentadas:** Combatiente formidable; adopta forma humana a petición
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
 
 **Invocable:** Sí
 
@@ -357,21 +356,21 @@ Marqués, treinta legiones. Lobo con alas de grifo y cola de serpiente que vomit
 
 ### Phenex
 
+*Orden / Clasificación: Adversarial, Marqués, 20 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Marqués, 20 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Talento poético notable
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Talento poético notable
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -379,21 +378,21 @@ Marqués, veinte legiones. Ave de apariencia semejante al ave fénix descrita en
 
 ### Shax
 
+*Orden / Clasificación: Adversarial, Marqués, 30 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Marqués, 30 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Emplear la variante de triángulo exterior → Codex del Arte de Evocar, Sectio I ('El triángulo exterior').
+
+**Vulnerabilidades:** Mentiroso por defecto salvo que se le obligue a permanecer en el triángulo exterior
+
+**Capacidades documentadas:** Priva de vista, oído o entendimiento; sustrae dinero; da familiares
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Priva de vista, oído o entendimiento; sustrae dinero; da familiares
-
-**Vulnerabilidades:** Mentiroso por defecto salvo que se le obligue a permanecer en el triángulo exterior
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Emplear la variante de triángulo exterior → Codex del Arte de Evocar, Sectio I ('El triángulo exterior').
 
 **Invocable:** Sí
 
@@ -401,21 +400,21 @@ Marqués, treinta legiones. Paloma torcaz de voz ronca. Priva de la vista, el o�
 
 ### Vine
 
+*Orden / Clasificación: Adversarial, Rey y Conde, 36 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey y Conde, 36 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Descubre cosas ocultas y brujería activa; construye torres; derriba murallas; provoca tormentas
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Descubre cosas ocultas y brujería activa; construye torres; derriba murallas; provoca tormentas
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -423,21 +422,21 @@ Rey y Conde a la vez, treinta y seis legiones. León montado sobre caballo negro
 
 ### Focalor
 
+*Orden / Clasificación: Adversarial, Duque, 3 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 3 legiones
-
 **Peligrosidad:** Letal
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Formular de manera expresa la orden de no causar daño.
+
+**Vulnerabilidades:** No causa daño a ningún hombre ni mujer si se le ordena de manera expresa durante la convocatoria
+
+**Capacidades documentadas:** Provoca naufragios y ahogamientos agitando el mar con vientos violentos
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Provoca naufragios y ahogamientos agitando el mar con vientos violentos
-
-**Vulnerabilidades:** No causa daño a ningún hombre ni mujer si se le ordena de manera expresa durante la convocatoria
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Formular de manera expresa la orden de no causar daño.
 
 **Invocable:** Sí
 
@@ -445,21 +444,21 @@ Duque, tres legiones. Provoca naufragios y ahoga a las personas señaladas agita
 
 ### Vepar
 
+*Orden / Clasificación: Adversarial, Duque, 29 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 29 legiones
-
 **Peligrosidad:** Letal
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Gobierna las aguas; guía navíos de guerra; provoca llagas mortales en tres días
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Gobierna las aguas; guía navíos de guerra; provoca llagas mortales en tres días
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -467,43 +466,43 @@ Duque, veintinueve legiones. Sirena que gobierna las aguas y guía navíos de gu
 
 ### Murmur
 
-**Imagen:** *(pendiente de fuente verificada)*
+*Orden / Clasificación: Adversarial, Duque y Conde, 30 legiones*
 
-**Orden / Clasificación:** Adversarial — Duque y Conde, 30 legiones
+**Imagen:** *(pendiente de fuente verificada)*
 
 **Peligrosidad:** Moderada
 
-**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
-
-**Actividad:** No documentada
-
-**Capacidades documentadas:** Enseña filosofía; obliga a las almas de los difuntos a comparecer y responder
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Ver también Codex del Arte de Evocar, Sectio IV (Necromancia) por su capacidad de puente con esa orden.
 
 **Vulnerabilidades:** No documentada
 
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Ver también Codex del Arte de Evocar, Sectio IV (Necromancia) por su capacidad de puente con esa orden.
-
-**Invocable:** Sí
-
-Duque y Conde a la vez, treinta legiones. Soldado montado en un buitre grifo, coronado, precedido de dos ministros que tocan trompetas. Enseña filosofía y, de forma distintiva dentro de su orden, tiene la capacidad documentada de obligar a las almas de los difuntos a comparecer y responder preguntas directas — una capacidad que lo vincula de manera directa con el procedimiento necromántico descrito en la Sectio IV de este mismo Codex, y que algunas fuentes tratan como puente entre ambas órdenes.
-
-### Orobas
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Adversarial — Príncipe, 20 legiones
-
-**Peligrosidad:** Baja
+**Capacidades documentadas:** Enseña filosofía; obliga a las almas de los difuntos a comparecer y responder
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
 
+**Invocable:** Sí
+
+Duque y Conde a la vez, treinta legiones. Soldado montado en un buitre grifo, coronado, precedido de dos ministros que tocan trompetas. Enseña filosofía y, de forma distintiva dentro de su orden, tiene la capacidad documentada de obligar a las almas de los difuntos a comparecer y responder preguntas directas, una capacidad que lo vincula de manera directa con el procedimiento necromántico descrito en la Sectio IV de este mismo Codex, y que algunas fuentes tratan como puente entre ambas órdenes.
+
+### Orobas
+
+*Orden / Clasificación: Adversarial, Príncipe, 20 legiones*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada, caso atípico de lealtad sostenida al operador
+
 **Capacidades documentadas:** Responde con veracidad sobre pasado, presente, futuro y naturaleza divina
 
-**Vulnerabilidades:** No documentada — caso atípico de lealtad sostenida al operador
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+**Actividad:** No documentada
 
 **Invocable:** Sí
 
@@ -511,21 +510,21 @@ Príncipe, veinte legiones. Caballo capaz de adoptar forma humana. Responde con 
 
 ### Gremory
 
+*Orden / Clasificación: Adversarial, Duque, 26 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 26 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Revela pasado, presente y futuro; descubre tesoros; procura el afecto de mujeres
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Revela pasado, presente y futuro; descubre tesoros; procura el afecto de mujeres
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -533,21 +532,21 @@ Duque, veintiséis legiones. Mujer de gran belleza con corona ducal, montada en 
 
 ### Zagan
 
+*Orden / Clasificación: Adversarial, Rey y Presidente, 33 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey y Presidente, 33 legiones
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Transmuta agua en vino, sangre en aceite, metal en moneda; convierte necios en sabios
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Transmuta agua en vino, sangre en aceite, metal en moneda; convierte necios en sabios
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -555,21 +554,21 @@ Rey y Presidente a la vez, treinta y tres legiones. Toro con alas de grifo capaz
 
 ### Andras
 
+*Orden / Clasificación: Adversarial, Marqués, 30 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Marqués, 30 legiones
-
 **Peligrosidad:** Letal
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Exigir la contención más estricta posible; no ejecutar sin dominio previo del procedimiento completo.
+
+**Vulnerabilidades:** Ninguna conocida; el riesgo está en la propia contención, descuido documentado como causa de muerte del operador
+
+**Capacidades documentadas:** Siembra discordia entre quienes se hallan en armonía
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Siembra discordia entre quienes se hallan en armonía
-
-**Vulnerabilidades:** Ninguna conocida; el riesgo está en la propia contención — descuido documentado como causa de muerte del operador
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Exigir la contención más estricta posible; no ejecutar sin dominio previo del procedimiento completo.
 
 **Invocable:** Sí
 
@@ -577,21 +576,21 @@ Marqués, treinta legiones. Cuerpo y cabeza de ángel sobre cuerpo y cabeza de l
 
 ### Haures
 
+*Orden / Clasificación: Adversarial, Duque, 20-36 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Duque, 20-36 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Emplear la variante de triángulo exterior → Codex del Arte de Evocar, Sectio I ('El triángulo exterior').
+
+**Vulnerabilidades:** Miente con libertad fuera del triángulo exterior; solo responde con veracidad dentro de él
+
+**Capacidades documentadas:** Combate contra otras entidades a petición del operador
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Combate contra otras entidades a petición del operador
-
-**Vulnerabilidades:** Miente con libertad fuera del triángulo exterior; solo responde con veracidad dentro de él
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Emplear la variante de triángulo exterior → Codex del Arte de Evocar, Sectio I ('El triángulo exterior').
 
 **Invocable:** Sí
 
@@ -599,21 +598,21 @@ Duque, veinte legiones según una fuente y treinta y seis según otra. Leopardo 
 
 ### Belial
 
+*Orden / Clasificación: Adversarial, Rey, 80 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Rey, 80 legiones
-
 **Peligrosidad:** Alta
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. No tratar ninguna promesa suya como garantía firme.
+
+**Vulnerabilidades:** Exige ofrendas y regalos previos, pero puede faltar a su palabra incluso cumplida esa condición
+
+**Capacidades documentadas:** Distribuye favores, prelacías y reconocimiento de cargos
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Distribuye favores, prelacías y reconocimiento de cargos
-
-**Vulnerabilidades:** Exige ofrendas y regalos previos, pero puede faltar a su palabra incluso cumplida esa condición
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. No tratar ninguna promesa suya como garantía firme.
 
 **Invocable:** Sí
 
@@ -621,21 +620,21 @@ Rey, ochenta legiones. Se manifiesta como dos ángeles hermosos sentados en un c
 
 ### Seere
 
+*Orden / Clasificación: Adversarial, Príncipe, 26 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Príncipe, 26 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada, disposición neutra, indiferente a la moralidad de la tarea
+
+**Capacidades documentadas:** Se desplaza a cualquier punto del mundo en tiempo breve; descubre robos y tesoros
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Se desplaza a cualquier punto del mundo en tiempo breve; descubre robos y tesoros
-
-**Vulnerabilidades:** No documentada — disposición neutra, indiferente a la moralidad de la tarea
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -643,43 +642,43 @@ Príncipe, veintiséis legiones. Hombre de gran belleza montado en un caballo al
 
 ### Dantalion
 
-**Imagen:** *(pendiente de fuente verificada)*
+*Orden / Clasificación: Adversarial, Duque, 36 legiones*
 
-**Orden / Clasificación:** Adversarial — Duque, 36 legiones
+**Imagen:** *(pendiente de fuente verificada)*
 
 **Peligrosidad:** Moderada
 
-**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
-**Actividad:** No documentada
+**Vulnerabilidades:** No documentada
 
 **Capacidades documentadas:** Enseña todas las artes y ciencias; declara pensamientos secretos; altera afectos
 
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
-
-**Invocable:** Sí
-
-Duque, treinta y seis legiones. Hombre de múltiples rostros —tantos como personas existen, masculinos y femeninos por igual— que porta un libro en la mano derecha. Enseña todas las artes y ciencias, declara los pensamientos secretos de cualquier persona señalada, altera la disposición amorosa de una persona hacia otra, y muestra la semejanza de cualquier persona, incluso a gran distancia, mediante una visión inducida.
-
-### Andromalius
-
-**Imagen:** *(pendiente de fuente verificada)*
-
-**Orden / Clasificación:** Adversarial — Conde, 36 legiones
-
-**Peligrosidad:** Baja
-
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
 
-**Capacidades documentadas:** Recupera bienes robados; descubre engaño; castiga a ladrones
+**Invocable:** Sí
+
+Duque, treinta y seis legiones. Hombre de múltiples rostros (tantos como personas existen, masculinos y femeninos por igual) que porta un libro en la mano derecha. Enseña todas las artes y ciencias, declara los pensamientos secretos de cualquier persona señalada, altera la disposición amorosa de una persona hacia otra, y muestra la semejanza de cualquier persona, incluso a gran distancia, mediante una visión inducida.
+
+### Andromalius
+
+*Orden / Clasificación: Adversarial, Conde, 36 legiones*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Vulnerabilidades:** No documentada
 
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+**Capacidades documentadas:** Recupera bienes robados; descubre engaño; castiga a ladrones
+
+**Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
+
+**Actividad:** No documentada
 
 **Invocable:** Sí
 
@@ -687,21 +686,21 @@ Conde, treinta y seis legiones. Hombre que sostiene una gran serpiente. Recupera
 
 ### Furcas
 
+*Orden / Clasificación: Adversarial, Caballero, 20 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Caballero, 20 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Rango más bajo de la jerarquía: escolta y protocolo notablemente reducidos.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Enseña filosofía, retórica, lógica, astronomía, quiromancia y piromancia
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Enseña filosofía, retórica, lógica, astronomía, quiromancia y piromancia
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II. Rango más bajo de la jerarquía: escolta y protocolo notablemente reducidos.
 
 **Invocable:** Sí
 
@@ -709,21 +708,21 @@ Caballero, veinte legiones. Anciano de barba larga montado en caballo pálido, p
 
 ### Naberius
 
+*Orden / Clasificación: Adversarial, Marqués, 19 legiones*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Adversarial — Marqués, 19 legiones
-
 **Peligrosidad:** Baja
+
+**Actuación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Enseña con rapidez todas las artes y ciencias; restituye dignidades y honores perdidos
 
 **Territorio:** Sin territorio fijo; se manifiesta solo bajo convocatoria
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Enseña con rapidez todas las artes y ciencias; restituye dignidades y honores perdidos
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Preparación del círculo y el punto de manifestación → Codex de los Instrumentos, Sectio I. Convocatoria → Codex del Arte de Evocar, Sectio I. Cierre y licencia de partida → Codex de la Contención, Sectio II.
 
 **Invocable:** Sí
 
@@ -731,7 +730,7 @@ Marqués, diecinueve legiones. Grulla que revolotea en torno al círculo emitien
 
 ### Nota sobre el rango y la escolta de manifestación
 
-La escala de rangos reconocida en esta orden —Rey, Duque, Príncipe o Marqués, Presidente, Conde, y Caballero, de mayor a menor— no es una simple etiqueta honorífica: se corresponde de forma consistente, a lo largo de todo este catálogo, con el tamaño de la escolta que acompaña la manifestación y con la exigencia de autoridad que el operador debe sostener durante el procedimiento. Un Rey se manifiesta con música, séquito y una presencia inicial que varias entidades de este rango documentan como deliberadamente abrumadora; un Caballero, como el caso único de Furcas recogido aquí, se manifiesta sin ese aparato y exige un sostenimiento de autoridad proporcionalmente menor. Ningún operador debe asumir que el procedimiento adecuado para una entidad de rango bajo es intercambiable con el de una de rango alto simplemente porque ambas pertenecen a la misma orden.
+La escala de rangos reconocida en esta orden (Rey, Duque, Príncipe o Marqués, Presidente, Conde, y Caballero, de mayor a menor) no es una simple etiqueta honorífica: se corresponde de forma consistente, a lo largo de todo este catálogo, con el tamaño de la escolta que acompaña la manifestación y con la exigencia de autoridad que el operador debe sostener durante el procedimiento. Un Rey se manifiesta con música, séquito y una presencia inicial que varias entidades de este rango documentan como deliberadamente abrumadora; un Caballero, como el caso único de Furcas recogido aquí, se manifiesta sin ese aparato y exige un sostenimiento de autoridad proporcionalmente menor. Ningún operador debe asumir que el procedimiento adecuado para una entidad de rango bajo es intercambiable con el de una de rango alto simplemente porque ambas pertenecen a la misma orden.
 
 ### Las dos autoridades paramount
 
@@ -739,6 +738,6 @@ En la cúspide de la estructura invertida de once niveles descrita en el Codex d
 
 ### Una jerarquía alternativa: el Grimorium Verum
 
-Un grimorio distinto del catálogo de setenta y dos entidades desarrollado en esta Sectio, de difusión y datación independientes —compilado y publicado en Europa durante el siglo XVIII bajo una atribución de origen mucho más antigua que ninguna fuente permite verificar—, documenta una estructura de mando diferente que este compendio conserva por separado y no funde con la anterior. Tres autoridades superiores gobiernan esta segunda estructura, cada una asociada a un punto cardinal: Lucifer, al oriente; Belcebú, al norte; y Astaroth, al mediodía. Esta última asignación es, en sí misma, un dato relevante para el principio de síntesis de variantes que rige todo este compendio: el mismo nombre catalogado más arriba en esta Sectio como duque subordinado de cuarenta legiones ocupa, en este segundo sistema, el rango de autoridad cardinal máxima. Ninguna de las dos fuentes se corrige a partir de la otra; ambas se conservan tal como cada una las documenta, sin forzar una jerarquía única entre ellas.
+Un grimorio distinto del catálogo de setenta y dos entidades desarrollado en esta Sectio, de difusión y datación independientes (compilado y publicado en Europa durante el siglo XVIII bajo una atribución de origen mucho más antigua que ninguna fuente permite verificar), documenta una estructura de mando diferente que este compendio conserva por separado y no funde con la anterior. Tres autoridades superiores gobiernan esta segunda estructura, cada una asociada a un punto cardinal: Lucifer, al oriente; Belcebú, al norte; y Astaroth, al mediodía. Esta última asignación es, en sí misma, un dato relevante para el principio de síntesis de variantes que rige todo este compendio: el mismo nombre catalogado más arriba en esta Sectio como duque subordinado de cuarenta legiones ocupa, en este segundo sistema, el rango de autoridad cardinal máxima. Ninguna de las dos fuentes se corrige a partir de la otra; ambas se conservan tal como cada una las documenta, sin forzar una jerarquía única entre ellas.
 
 Bajo estas tres autoridades sirve un cuerpo reducido de ministros con funciones específicas y bien delimitadas: Lucifuge Rofocale, primer ministro encargado en particular de gestionar los pactos relacionados con riqueza material y tesoros ocultos; Satanachia y Agaliarept, dos generales subordinados a la autoridad de oriente y encargados de la ejecución directa de las tareas encomendadas; Fleurety, teniente general de esa misma autoridad; Sargatanas, brigadier subordinado a la autoridad de norte; y Nebiros, mariscal de campo e inspector general subordinado a la autoridad de mediodía. El operador que seguía este sistema se dirigía primero al ministro correspondiente a su propósito concreto, no a las tres autoridades cardinales de forma directa, siguiendo el mismo principio de intermediación ya descrito en el Codex de la Contención para las entidades de mayor rango del catálogo goético estándar.

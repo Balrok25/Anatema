@@ -1,24 +1,24 @@
-# CODEX XVI · BESTIARIUM — ORDO ELEMENTALIS
+# CODEX XVI · BESTIARIUM, ORDO ELEMENTALIS
 
 Las fichas siguientes catalogan a las entidades de la Orden Elemental, ligadas al sistema paracélsico de los cuatro elementos clásicos, una de las ocho órdenes descritas en el Codex de la Naturaleza de las Entidades.
 
 ### Salamandra
 
+*Orden / Clasificación: Elemental, tipo ígneo*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Elemental — tipo ígneo
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Manifestación variable, de lagarto a humanoide envuelto en fuego azulado
 
 **Territorio:** Fuente de fuego sostenido
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Manifestación variable, de lagarto a humanoide envuelto en fuego azulado
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
 
 **Invocable:** Sí
 
@@ -26,21 +26,21 @@ Tipo ígneo. Se manifiesta desde pequeñas formas de lagarto envueltas en llama 
 
 ### Ondina
 
+*Orden / Clasificación: Elemental, tipo acuático*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Elemental — tipo acuático
-
 **Peligrosidad:** Baja
+
+**Actuación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Comunicación prolongada; negociación más flexible que el resto de su orden
 
 **Territorio:** Cuerpos de agua profunda y antigua
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Comunicación prolongada; negociación más flexible que el resto de su orden
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
 
 **Invocable:** Sí
 
@@ -48,21 +48,21 @@ Tipo acuático. Habita cuerpos de agua profunda y antigua; se documenta con frec
 
 ### Gnomo
 
+*Orden / Clasificación: Elemental, tipo terrestre*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Elemental — tipo terrestre
-
 **Peligrosidad:** Baja
+
+**Actuación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Guardián de tesoros y conocimiento oculto bajo tierra
 
 **Territorio:** Cuevas y formaciones montañosas
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Guardián de tesoros y conocimiento oculto bajo tierra
-
-**Vulnerabilidades:** No documentada
-
-**Actuación en caso de encuentro/invocación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
 
 **Invocable:** Sí
 
@@ -70,21 +70,21 @@ Tipo terrestre. Humanoide de estatura reducida, habitante de cuevas y formacione
 
 ### Silfo
 
+*Orden / Clasificación: Elemental, tipo aéreo*
+
 **Imagen:** *(pendiente de fuente verificada)*
 
-**Orden / Clasificación:** Elemental — tipo aéreo
-
 **Peligrosidad:** Moderada
+
+**Actuación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
+
+**Vulnerabilidades:** Reacción desproporcionada ante provocación sostenida
+
+**Capacidades documentadas:** Disposición rápida y caprichosa; juguetón en el contacto inicial
 
 **Territorio:** Lugares altos y expuestos al viento
 
 **Actividad:** No documentada
-
-**Capacidades documentadas:** Disposición rápida y caprichosa; juguetón en el contacto inicial
-
-**Vulnerabilidades:** Reacción desproporcionada ante provocación sostenida
-
-**Actuación en caso de encuentro/invocación:** Aproximación gradual y ofrenda del elemento correspondiente → Codex del Arte de Evocar, Sectio III.
 
 **Invocable:** Sí
 
