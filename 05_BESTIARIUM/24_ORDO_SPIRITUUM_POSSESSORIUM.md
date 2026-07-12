@@ -89,3 +89,47 @@ Entidad documentada con dos aspectos marcadamente distintos que el propio sistem
 **Invocable:** Sí, mediante el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar
 
 Entidad materna asociada al mar y a la protección de la vida que contiene, documentada de forma consistente como nutricia y protectora en su disposición ordinaria. El mismo registro que la documenta como madre protectora la documenta también capaz de una destructividad proporcional cuando se la percibe agraviada, manifestada en el propio registro como inundación o tormenta, un patrón de disposición dual comparable al de Erzulie dentro de este mismo sistema.
+
+### Mami Wata
+
+*Orden / Clasificación: Espíritu de posesión afín, panafricano*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Variable, generosa o destructiva según el trato y el favor concedido
+
+**Actuación:** Ofrenda depositada en el agua que se le atribuye; el contacto sigue el mismo procedimiento general de invocación por posesión descrito en el Codex del Arte de Evocar donde la tradición local lo practica de ese modo.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Concede riqueza, belleza y sanación a quien favorece; causa enfermedad, locura o ahogamiento a quien la agravia; dominio sobre ríos, lagos y el mar
+
+**Territorio:** Ríos, lagos y costas de una amplia región de África occidental, central y meridional, así como comunidades de la diáspora africana en América
+
+**Actividad:** No documentada
+
+**Invocable:** Sí, donde la tradición local sigue el procedimiento de invocación por posesión descrito en el Codex del Arte de Evocar
+
+Espíritu de las aguas de distribución panafricana, representado de forma consistente como una mujer de gran belleza con la mitad inferior del cuerpo de pez o de serpiente. Su disposición se documenta como ambivalente en un grado especialmente marcado incluso dentro de esta Orden: capaz de conceder riqueza, belleza y sanación a quien favorece, y de causar enfermedad, locura o la muerte por ahogamiento a quien la agravia o rechaza su favor.
+
+### Anansi
+
+*Orden / Clasificación: Espíritu afín, embaucador, origen en África occidental*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja; embaucador antes que dañino
+
+**Actuación:** No se documenta procedimiento de convocatoria ceremonial; el registro lo trata como protagonista narrativo antes que como entidad invocable con fines de servicio.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Ingenio superior a la fuerza física; capacidad de adoptar forma de araña o forma humana a voluntad; propietario original de la totalidad de las historias del mundo, obtenidas mediante astucia y no mediante fuerza
+
+**Territorio:** No documentado
+
+**Actividad:** No documentada
+
+**Invocable:** No documentado como convocable por procedimiento ceremonial
+
+Figura embaucadora de origen en África occidental, documentada como el propietario original de todas las historias del mundo, obtenidas de la divinidad del cielo mediante el cumplimiento de tareas que parecían imposibles usando el ingenio en lugar de la fuerza. Sobrevivió como figura central del acervo narrativo de las comunidades afrodescendientes trasladadas por la fuerza a América, donde se conserva bajo variantes regionales del mismo nombre.

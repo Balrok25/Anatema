@@ -55,3 +55,19 @@ No todo practicante formado ejerce las mismas funciones. Una especialización se
 ### La búsqueda de visión
 
 Una variante de esta práctica no busca contacto con una entidad concreta sino claridad personal sobre un propósito o una decisión, y se ejecuta mediante aislamiento voluntario prolongado, con frecuencia en un entorno natural alejado de cualquier asentamiento, combinado con ayuno de duración comparable al descrito en el Codex de los Instrumentos. Aplican aquí exactamente los mismos riesgos fisiológicos ya señalados en esa sección: la privación sostenida de alimento combinada con aislamiento y exposición prolongada a los elementos exige límites de duración prudentes y no debe emprenderse sin conocimiento previo de la propia tolerancia física.
+
+## Sectio IV — Investigación de laboratorio
+
+Más allá de los métodos de percepción y canalización ya descritos, un cuerpo de investigación desarrollado a lo largo del siglo XX intentó someter la percepción de este medio a condiciones de laboratorio controladas, con resultados que este compendio registra siguiendo el mismo principio de verificación ante la duda aplicado al resto de sus contenidos.
+
+### El método de las cartas
+
+El procedimiento más temprano y más extendido emplea un mazo reducido de cartas, cada una marcada con uno de cinco símbolos simples repetidos en proporción fija dentro del mazo completo. Un participante intenta percibir, sin contacto sensorial alguno con la carta, cuál de los cinco símbolos ha sido extraída por un segundo participante en una sala separada, y el resultado se compara de forma estadística contra la tasa de acierto esperable por puro azar dada la proporción de símbolos en el mazo. Décadas de sesiones bajo este método produjeron resultados agregados por encima del azar en una parte de los participantes evaluados, pero también un patrón documentado de forma consistente y no resuelto: la tasa de acierto de un mismo participante tiende a decaer con la repetición sostenida de las sesiones, un efecto que ninguna explicación propuesta, ni a favor ni en contra del fenómeno, ha logrado aislar de forma concluyente.
+
+### Localización remota de un punto no visto
+
+Un método posterior y de mayor complejidad, desarrollado en el marco de un programa de investigación gubernamental sostenido durante más de dos décadas, sustituye la carta simple por una coordenada geográfica o un punto físico distante y no revelado al participante, que este intenta describir mediante impresión libre —forma, textura, disposición del terreno— en lugar de elegir entre un conjunto cerrado de símbolos. El programa completo documentó resultados estadísticamente significativos en evaluación de laboratorio, pero la revisión oficial que puso fin a su financiación concluyó que la información obtenida en aplicaciones operativas reales era, de forma consistente, demasiado vaga o mezclada con datos erróneos como para justificar su uso práctico, con independencia de la significancia estadística obtenida en condiciones controladas de laboratorio.
+
+### Valoración conjunta
+
+Ninguno de los dos métodos, pese a décadas de investigación sostenida y de resultados agregados por encima del azar puro, ha producido una demostración aceptada de forma amplia fuera del campo que los desarrolló, ni ha sido completamente descartado por la ausencia de una explicación alternativa igual de consistente con el conjunto de los datos reunidos. Se conservan aquí, siguiendo el mismo principio aplicado al resto de este compendio, como el marco de evidencia de laboratorio mejor documentado disponible sobre esta materia, sin que ello equivalga a una demostración concluyente en ningún sentido.

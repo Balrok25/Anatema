@@ -89,3 +89,47 @@ La única categoría de esta orden cuya disposición se documenta como uniformem
 **Invocable:** No; no es una entidad convocable, cada persona ya tiene la suya asignada de forma permanente
 
 A diferencia del resto de esta orden, no es una categoría de entidad sino una función asignada de forma individual a cada persona humana desde su nacimiento: un acompañante de esta naturaleza cuya labor documentada es inclinar de forma sutil hacia el error y el impulso propio de mal, sin llegar a la posesión ni al ataque directo que sí se documentan en el resto de esta orden. El registro documenta un único caso de excepción, en el que una figura de autoridad religiosa reconocida recibió ayuda para someter a su propio acompañante y neutralizar su influencia, presentado como caso extraordinario y no como procedimiento replicable por cualquier persona.
+
+### Peri
+
+*Orden / Clasificación: Genio afín, origen persa*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja
+
+**Actuación:** Contacto no documentado por procedimiento ceremonial estándar; el registro la describe como entidad que interviene por iniciativa propia antes que como entidad convocable.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Belleza física excepcional, capacidad de vuelo, origen ígneo; en el registro más antiguo aparece como cautiva sometida por la categoría de mayor malicia de esta misma familia, rescatada por un héroe humano
+
+**Territorio:** No documentado
+
+**Actividad:** No documentada
+
+**Invocable:** No documentada como convocable por procedimiento ceremonial
+
+Entidad afín a los genios de origen persa, no incluida en la clasificación cuadripartita ya descrita en el Codex del Arte de Evocar pero perteneciente a la misma familia amplia de inteligencias de fuego. El registro más antiguo la documenta como cautiva de la categoría de mayor malicia de esta familia, encerrada en jaulas hasta ser rescatada por un héroe humano; el registro posterior invierte el tono original y la documenta como benévola por naturaleza.
+
+### Div
+
+*Orden / Clasificación: Genio afín, origen persa, categoría de mayor malicia*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Letal
+
+**Actuación:** No se documenta procedimiento de contacto o negociación; el registro la trata exclusivamente como amenaza a confrontar o evitar.
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Tamaño gigantesco de proporción humana con cuernos y dentición prominente; fuerza física muy superior a la humana; apetito documentado por la carne humana
+
+**Territorio:** No documentado
+
+**Actividad:** No documentada
+
+**Invocable:** No
+
+Entidad afín a los genios de origen persa, de disposición uniformemente cruel y hostil en todo el registro que la documenta, sin la ambivalencia que caracteriza al resto de esta familia. Se la documenta como carcelera de la Peri de esta misma ficha, y como amenaza recurrente en el ciclo narrativo heroico de su tradición de origen, enfrentada por héroes humanos antes que negociada o convocada.
