@@ -46,7 +46,7 @@
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
-- Sectio II. Adivinación y contacto onírico (ampliación pendiente: tarot, runas, I Ching, palmistría, feng shui, Vastu Shastra, tasseografía, el laberinto)
+- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, feng shui, espejo negro, sueños (ampliación pendiente: tarot, Vastu Shastra, tasseografía, el laberinto)
 - Sectio III. Captación instrumental y marco de investigación
 
 ## PARS III · ARTES HUMANAE (Las Artes Humanas)
