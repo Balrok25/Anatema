@@ -1,6 +1,10 @@
 # ANATHEMA SANCTUM
 ### Compendio Immaterium
 
-Compendio unificado de lo oculto, lo prohibido y lo sobrenatural: entidades, invocación, contención, artes menores, brujería, metamorfosis, espectros, criptozoología, papiros de maldición, numerología, órdenes rituales y sanación popular — sintetizado a partir de fuentes históricas verificables en un único sistema coherente.
+## Al lector
 
-Estructura completa en [INDICE.md](INDICE.md). Principios y criterios de elaboración en [NORMAS.md](NORMAS.md).
+Este documento no es una historia. No es una novela. Es la amalgama de todo arte y toda entidad que depende del Immaterium.
+
+De cada persona que ha visto más allá del velo, a lo largo de incontables generaciones, se ha extraído la información que pagó con su vida o con su cordura para construir este compendio.
+
+El lector debe saber que buena parte de lo aquí descrito sería, en términos humanos, llamado el mal. Este compendio, s
