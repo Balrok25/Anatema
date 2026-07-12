@@ -158,3 +158,8 @@
 - Draugr escandinavo y figuras equivalentes
 - El zombi haitiano como mecanismo distinto de la posesión
 
+### CODEX XXVI · BESTIARIUM (El Bestiario) · ORDO CUSTODUM NATURAE (Orden de los Guardianes de la Naturaleza) (pendiente)
+- Fichas de guardianes fundidos con un rasgo natural o un territorio concreto: dríades y náyades griegas, kodama japonés, Curupira brasileño, Huldra escandinava
+- Nota sobre el genius loci como concepto unificador de guardián ligado a un lugar
+- Pendiente de decidir: exige ampliar Los Ocho Órdenes de Codex I a nueve y reubicar aquí Leshy, Vodyanoy, Kikimora y Poludnitsa, hoy en cola dentro de Ordo Liminaris
+
