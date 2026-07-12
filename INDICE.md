@@ -148,10 +148,9 @@
 - Fichas de 4 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya
 - Figuras panafricanas afines: Mami Wata y Anansi (pendiente)
 
-### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados) (pendiente)
-- Fichas de cadáveres animados ajenos a la Orden Transmutada
-- Draugr escandinavo y figuras equivalentes
-- El zombi haitiano como mecanismo distinto de la posesión
+### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados)
+- Fichas de 2 cadáveres reanimados ajenos a la Orden Transmutada: Draugr y Zombi
+- Ampliación pendiente: otras figuras de no-muerto reanimado por región
 
 ### CODEX XXVI · BESTIARIUM (El Bestiario) · ORDO CUSTODUM NATURAE (Orden de los Guardianes de la Naturaleza) (pendiente)
 - Fichas de guardianes fundidos con un rasgo natural o un territorio concreto: dríades y náyades griegas, kodama japonés, Curupira brasileño, Huldra escandinava
