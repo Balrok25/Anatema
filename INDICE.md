@@ -109,14 +109,12 @@
 - Nota sobre la tradición de los genios
 
 ### CODEX XVII · BESTIARIUM (El Bestiario) · ORDO LIMINARIS (Orden Liminar)
-- Fichas de 12 entidades domésticas y silvestres
+- Fichas de 18 entidades domésticas y silvestres: las 12 originales más Leshy, Vodyanoy, Kikimora, Poludnitsa, Tikbalang y Yaksha
 - Nota sobre la fórmula de paso
 - Nota sobre los espíritus domésticos eslavos y escandinavos
 - Nota sobre las hadas y el otro mundo feérico
 - Ampliación de la corte feérica (pendiente)
-- Fichas filipinas: Tikbalang y Aswang (pendiente)
-- Más espíritus eslavos: Leshy, Vodyanoy, Kikimora, Poludnitsa (pendiente)
-- Ficha del Yaksha hindú (pendiente)
+- Ficha del Aswang filipino (pendiente)
 - Más duendes latinoamericanos (pendiente)
 
 ### CODEX XVIII · BESTIARIUM (El Bestiario) · ORDO CHIMAERICUS (Orden Quimérica)

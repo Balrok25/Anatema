@@ -266,13 +266,145 @@ Entidad doméstica documentada en el folclore eslavo oriental, concebida como es
 
 Entidad documentada en el folclore inglés, en particular en registros del norte de Inglaterra desde el siglo XVI y con abundante documentación en compilaciones folclóricas del siglo XIX, que ocupa tanto el interior de una vivienda como accidentes geográficos concretos del terreno exterior. El patrón documentado con mayor consistencia describe a una entidad que comienza como guardián de un límite (el de la granja, el del hogar) y que, ante el desprecio, el traslado forzoso o la simple acumulación de agravio, se vuelve progresivamente destructiva: vuelca cubos de leche, imita voces familiares para desorientar a los ocupantes, y cambia de forma con facilidad, adoptando en ocasiones apariencia animal. Es de particular interés práctico el patrón documentado en el que una familia, al intentar librarse de una entidad de este tipo trasladándose a otra vivienda, descubre que la entidad se ha trasladado con ellos en el propio carro de mudanza, lo cual establece con claridad que el vínculo de esta entidad, a diferencia del vínculo con el edificio que rige a otras entidades domésticas de esta Orden, puede fijarse sobre la familia misma y no sobre el lugar, invalidando la mudanza como estrategia de resolución.
 
+### Leshy
+
+*Orden / Clasificación: Liminar, silvestre*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Moderada, variable según el ánimo con que se le encuentre
+
+**Actuación:** Ofrenda de pan y sal dejada en el límite del bosque; evitar silbar o maldecir dentro de su territorio → llevar una prenda o el calzado del revés deshace su desorientación, siguiendo el mismo principio ya descrito para esta Orden.
+
+**Vulnerabilidades:** Responde a la misma inversión de prendas documentada como método general de confusión para esta Orden
+
+**Capacidades documentadas:** Guía a un viajero de vuelta al camino o lo desorienta de forma indefinida dentro de su territorio, según su propio ánimo; cambia de tamaño y de forma con libertad, incluyendo apariencia vegetal
+
+**Territorio:** Bosques de Europa oriental
+
+**Actividad:** No documentada
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+Guardián del bosque de disposición variable, documentado en el folclore eslavo como el bosque mismo hecho consciente antes que como una criatura que simplemente lo habita. Puede adoptar forma vegetal (un árbol, un tocón, un hongo) o una forma humanoide de rasgos boscosos, y su trato hacia un viajero depende por completo de cómo este se comporte dentro de su dominio: quien respeta el bosque puede recibir guía; quien lo desprecia o lo daña sin necesidad puede quedar desorientado de forma indefinida dentro de los mismos límites que ya conocía.
+
+### Vodyanoy
+
+*Orden / Clasificación: Liminar, acuático, disposición hostil*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Ofrenda de tabaco o de un animal pequeño antes de faenar en su dominio; evitar nadar o pescar sin esa ofrenda previa en cuerpos de agua que se le atribuyen.
+
+**Vulnerabilidades:** No documentada más allá de la ofrenda preventiva
+
+**Capacidades documentadas:** Ahoga a personas y a ganado, rompe represas y daña molinos de agua por simple disposición malintencionada, no por defensa territorial
+
+**Territorio:** Cuerpos de agua profunda, con frecuencia junto a un molino
+
+**Actividad:** No documentada
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+A diferencia de la mayoría de esta Orden, no se documenta como neutral ni como reactivo a la intrusión sino como deliberadamente malintencionado: ahoga por gusto, no solo por defensa de su territorio. Pescadores y molineros de la región que lo documenta mantenían una ofrenda regular y preventiva, no reactiva, precisamente por esa disposición ya asumida como hostil por defecto.
+
+### Kikimora
+
+*Orden / Clasificación: Liminar, doméstico*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja a moderada, según la disposición de la vivienda que ocupa
+
+**Actuación:** Mantener la vivienda ordenada y la conducta de sus ocupantes correcta; una casa descuidada o de ocupantes conflictivos la vuelve perjudicial en lugar de servicial.
+
+**Vulnerabilidades:** No documentada más allá del orden doméstico ya descrito
+
+**Capacidades documentadas:** Colabora en tareas domésticas si la vivienda está en orden; provoca pesadillas, ruido nocturno y desorden general si no lo está
+
+**Territorio:** De origen en pantanos, adopta como residencia el hogar de una vivienda concreta
+
+**Actividad:** Nocturna, entra en la vivienda por el ojo de la cerradura
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+Contraparte femenina del Domovoi de esta misma Orden, cuya disposición hacia los ocupantes de la vivienda que adopta depende directamente del estado de esa vivienda y de la conducta de quienes la habitan: servicial y colaboradora en una casa ordenada y de ocupantes respetuosos, fuente de pesadillas y desorden nocturno en una casa descuidada o conflictiva.
+
+### Poludnitsa
+
+*Orden / Clasificación: Liminar, campo abierto*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta, concentrada en las horas de mayor calor
+
+**Actuación:** Evitar el trabajo de campo en las horas centrales del día durante el verano; si se presenta, responder con corrección a la pregunta o el acertijo que plantea.
+
+**Vulnerabilidades:** Responder correctamente a su pregunta o acertijo se documenta como la única defensa fiable ante su aparición
+
+**Capacidades documentadas:** Se aparece a trabajadores del campo al mediodía y plantea preguntas o acertijos de dificultad considerable; quien no responde con corrección sufre insolación, dolor cervical agudo o, en los casos más graves documentados, la muerte
+
+**Territorio:** Campos de cultivo abiertos
+
+**Actividad:** Mediodía, durante los meses de mayor calor estival
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+Figura documentada como mujer alta vestida de blanco que se aparece a quien trabaja el campo durante las horas de mayor calor del día, exigiendo respuesta correcta a una pregunta o un acertijo antes de permitir continuar el trabajo sin consecuencia. El patrón, leído en términos funcionales, codifica una advertencia práctica real: desalienta el esfuerzo físico sostenido durante las horas de mayor riesgo de insolación mediante la amenaza de un encuentro cuyo fallo se paga con síntomas idénticos a los del propio golpe de calor.
+
+### Tikbalang
+
+*Orden / Clasificación: Liminar, silvestre*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Baja, embaucador antes que dañino
+
+**Actuación:** Vestir una prenda del revés se documenta como método para deshacer su desorientación y recuperar el camino correcto.
+
+**Vulnerabilidades:** Responde a la misma inversión de prendas ya documentada como método general de esta Orden
+
+**Capacidades documentadas:** Desorienta a un viajero haciéndolo caminar en círculo sin que perciba la repetición; no se documenta causando daño físico directo dentro de su propio territorio
+
+**Territorio:** Bosques y zonas rurales de Filipinas
+
+**Actividad:** No documentada
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+Entidad de figura humana de cintura para arriba y equina de cintura para abajo, documentada por escrito desde finales del siglo XVI por un fraile español destinado en la región. Su forma de actuar es constante en todo el registro: no ataca ni mata, desorienta al viajero dentro de su propio territorio hasta hacerlo caminar en círculos, un efecto que se deshace, según la misma tradición que lo documenta, invirtiendo la prenda de vestir.
+
+### Yaksha
+
+*Orden / Clasificación: Liminar, guardián de tesoro y naturaleza*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Variable, benévolo y generoso o caprichoso y violento según el trato recibido
+
+**Actuación:** Ofrenda y trato respetuoso hacia el lugar natural que custodia (raíz de árbol, río, montaña).
+
+**Vulnerabilidades:** No documentada
+
+**Capacidades documentadas:** Custodia tesoros ocultos bajo tierra o en la raíz de los árboles; concede prosperidad a quien lo trata con respeto, y se documenta también capaz de conducta caprichosa, sexualmente impulsiva o violenta
+
+**Territorio:** Bosques, ríos y montañas del subcontinente indio
+
+**Actividad:** No documentada
+
+**Invocable:** No, contacto por reciprocidad, no por convocatoria
+
+Guardián de la naturaleza y de tesoros ocultos, subordinado en el registro a una figura de autoridad que encabeza a toda esta categoría como señor de la riqueza del mundo. Su disposición general se documenta como benévola y generosa hacia quien respeta el lugar natural que custodia, aunque el mismo registro documenta también un margen consistente de conducta caprichosa o violenta que impide tratarlo como uniformemente seguro.
+
 ### Nota sobre la fórmula de paso
 
 Independiente de cualquier entidad individual catalogada en esta Sectio, buena parte del sudeste asiático conserva la costumbre extendida de pronunciar una fórmula breve de disculpa antes de orinar, cortar vegetación o alterar de cualquier modo un lugar no urbanizado (la base de un árbol de gran tamaño, un montículo de tierra, un cruce de senderos), bajo el principio de que ese lugar puede estar habitado por una entidad invisible a la que la intrusión repentina ofende si no se la advierte primero. La práctica, documentada de forma extensa en Filipinas bajo una fórmula fija que se traduce aproximadamente como "con permiso", se mantiene vigente en el habla y la costumbre cotidiana contemporánea con independencia de la fe religiosa formal de quien la pronuncia, y ejemplifica del modo más directo posible el principio ya establecido en el Codex de la Naturaleza de las Entidades de que esta Orden ocupa los márgenes del espacio humano y exige reciprocidad, no sumisión, como forma de trato.
 
 ### Nota sobre los espíritus domésticos y silvestres eslavos y escandinavos
 
-Igualmente independiente de los dos sistemas anteriores, el folclore eslavo documenta un espíritu doméstico ligado de forma permanente al hogar, en particular al espacio bajo la estufa o el umbral, cuya presencia se considera protectora de la familia mientras reciba trato respetuoso y una ofrenda periódica de alimento dejada de forma discreta por la noche. Su enfado, provocado por descuido de la vivienda o por una mudanza sin el aviso ritual correspondiente, se manifiesta en ruidos, objetos desplazados y malestar general del hogar, en un patrón muy similar al descrito en el Codex de los Espectros para el fenómeno poltergeist, aunque de origen y de tratamiento distintos. El mismo folclore documenta un guardián del bosque de tamaño y disposición variables según su propio ánimo, capaz de guiar a un viajero de vuelta al camino o de desorientarlo de forma indefinida dentro de su territorio, tradicionalmente aplacado evitando silbar o maldecir bajo su dominio y dejando una ofrenda de pan y sal en el límite del bosque. Un tercer tipo, de naturaleza acuática, se documenta en dos variantes: una femenina, asociada al espíritu de una mujer fallecida en el agua o cerca de ella que atrae a los hombres hacia la orilla o hacia la propia corriente, y una masculina, señor de un cuerpo de agua concreto que exige respeto y ofrenda de los pescadores que faenan en su dominio, con hostilidad documentada hacia quien no lo hace.
+El Domovoi, la Kikimora, el Leshy y el Vodyanoy, catalogados como fichas individuales en esta misma Orden, forman un sistema único de espíritus domésticos y silvestres del folclore eslavo. Junto a ellos, el mismo folclore documenta una variante acuática femenina no catalogada aquí como ficha propia: el espíritu de una mujer fallecida en el agua o cerca de ella, que atrae a los hombres hacia la orilla o hacia la propia corriente, distinta en género y en método del Vodyanoy pero perteneciente al mismo sistema acuático.
 
 ### Nota sobre las hadas y el otro mundo feérico
 
