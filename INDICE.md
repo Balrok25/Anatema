@@ -51,15 +51,18 @@ Sectio II. Maldiciones, mal de ojo y contramagia popular
 ### CODEX X · PAPYRI ET DEFIXIONES (Papiros y Tablillas de Maldición)
 Sectio I. Tablillas de maldición
 Sectio II. Papiros mágicos
+Sectio III. Maldición judicial y agonística
 
 ### CODEX XI · NUMEROLOGIA ET GEMATRIA (Numerología y Gematría)
 Sectio I. Gematría
 Sectio II. Numerología
+Sectio III. Procedimientos prácticos de reducción numérica
 
 ### CODEX XII · ORDINES RITUALES (Las Órdenes Rituales)
 Sectio I. La hermandad de la rosa y la cruz
 Sectio II. La orden hermética de estructura sefirótica
 Sectio III. El caso de un club de fraternidad hedonista
+Sectio IV. Una escuela de correspondencia centrada en el tarot
 
 ### CODEX XIII · SANATIO POPULARIS (La Sanación Popular)
 Sectio I. Los especialistas
