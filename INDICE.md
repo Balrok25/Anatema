@@ -157,4 +157,5 @@
 ### CODEX XXVII · NIHIL (La Nulidad)
 - Codex personal del compilador, fuera de norma de forma deliberada: el camino de la investigación, escrito en primera persona
 - La hipótesis de la nulidad: la búsqueda de aquello que no ocurre
+- El anatema: lo más oculto del mundo oculto
 - Anexo: los dos textos retirados del compendio (el drenaje de vitalidad y el bloqueo)

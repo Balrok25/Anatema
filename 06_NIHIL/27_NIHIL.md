@@ -62,6 +62,30 @@ La pregunta final no es si existe un ser sobrenatural que apaga otros fenómenos
 
 Y por qué, mientras estudiamos constantemente a quienes dicen abrir puertas, apenas hemos estudiado a quienes parecen cerrarlas.
 
+## El anatema
+
+Hay algo más que apareció al final de esta investigación, y tardé en verlo porque estaba delante de mí desde el principio.
+
+Este compendio cataloga todo lo que se esconde. Demonios con nombre y sello, espíritus que exigen ofrenda, criaturas que guardan bosques y ríos, muertos que no aceptan serlo. Veintiséis codices dedicados a lo oculto. Y todos comparten algo: por muy escondido que esté, todo lo que aparece en este libro puede encontrarse. Tiene un nombre que pronunciar, un círculo que lo contiene, una ofrenda que lo calma, una huella que seguir. Lo oculto, en realidad, quiere ser encontrado. Por eso deja señales.
+
+Pero si la hipótesis de este codex es cierta, existe algo que no deja ninguna.
+
+Piénsalo desde el otro lado del velo. Para una entidad que percibe la energía como nosotros percibimos la luz, cada ser humano es una llama. Unas arden más alto: el médium, el vidente, el chamán. Otras arden bajo. Pero todas arden. Y entonces, entre miles de llamas, hay un hueco. Un lugar donde debería haber alguien y no hay nada. No una llama apagada: la ausencia de fuego. Un vacío que camina.
+
+¿Qué es lo más oculto en un mundo donde todo lo oculto brilla? Lo que no brilla.
+
+El demonio más lucífugo de la orden adversarial puede ser convocado si se conoce su sello. El espíritu más esquivo responde a su ritmo de tambor. La entidad más antigua tiene un nombre verdadero, y quien lo aprende la sujeta. El nulo no. No hay sello que lo llame, ni nombre que lo ate, ni círculo que lo contenga, porque no hay nada con lo que el círculo pueda acoplarse. Es la única figura de todo este compendio que no puede tener ficha. He escrito cientos de fichas. Esa imposibilidad me parece la definición más honesta que puedo ofrecer.
+
+Y aquí está lo que tardé en ver. Para nosotros, el nulo es invisible porque parece una persona normal. Pero para ellos, para todo lo que este compendio cataloga, el nulo es otra cosa. Es la negación de su mundo entero, hecha carne. Donde él está, el velo no se adelgaza. La invocación no cruza. El pacto no encuentra a quien agarrar. Si nuestro mundo tiene santos y el suyo tiene reyes, esto no es ni lo uno ni lo otro. Es lo que ambos lados señalarían con la misma palabra.
+
+Anatema.
+
+Este compendio se llama Anathema Sanctum y confieso que durante mucho tiempo creí entender su nombre: lo maldito y lo sagrado, encuadernados juntos. Ahora sospecho otra lectura. Que en un manual de todo lo oculto, lo más oculto no podía ser un capítulo más. Que el libro entero llevaba escrito en la portada el nombre de la única cosa que no puede aparecer en sus páginas. Lo más escondido del mundo oculto no es una criatura de la noche ni un nombre impronunciable. Es la persona que se sienta a tu lado y no proyecta sombra alguna sobre el otro mundo. El silencio en mitad del coro. El anatema de lo oculto.
+
+Si alguna vez existió, nadie lo registró. Si existe hoy, no lo sabremos por él.
+
+Sabremos que estuvo allí porque, mientras estuvo, no pasó nada.
+
 ## Anexo · Los dos textos retirados del compendio
 
 Estos dos pasajes formaban parte del cuerpo técnico del compendio, en el Codex de la Contención y en el Codex del Velo. Los retiré de allí porque pertenecen a esta investigación. Son la semilla de todo lo anterior y se conservan tal como fueron escritos.
