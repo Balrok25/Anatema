@@ -7,7 +7,7 @@
 
 ### CODEX I · DE NATURA ENTIUM (La Naturaleza de las Entidades)
 - Sectio I. Definición de entidad
-- Sectio II. Los Ocho Órdenes (nombres de los nueve coros angélicos pendientes de detallar)
+- Sectio II. Los Ocho Órdenes (nueve coros angélicos: Serafín, Querubín, Trono, Dominación, Virtud, Potestad, Principado, Arcángel, Ángel)
 - Sectio III. Ejes de clasificación transversal
 - Sectio IV. Casos frontera y excepciones
 - Sectio V. Riesgos de una clasificación incorrecta
@@ -142,8 +142,9 @@
 - Nota metodológica sobre evidencia testimonial
 - Patrones adicionales: Bunyip, gusano de la muerte de Mongolia, Dover Demon, Flatwoods Monster, hombre-búho de Cornualles (pendiente)
 
-### CODEX XXII · BESTIARIUM (El Bestiario) · ORDO CAELESTIS (Orden Celestial) (pendiente)
-- Fichas de arcángeles y ángeles documentados
+### CODEX XXII · BESTIARIUM (El Bestiario) · ORDO CAELESTIS (Orden Celestial)
+- Fichas de 4 arcángeles del coro Arcángel: Miguel, Gabriel, Rafael, Uriel
+- Ampliación pendiente: coro Ángel y coros superiores de mayor tríada
 
 ### CODEX XXIII · BESTIARIUM (El Bestiario) · ORDO GENIORUM (Orden de los Genios) (pendiente)
 - Fichas de djinn documentados: ifrit, marid, shaitan, qarin
