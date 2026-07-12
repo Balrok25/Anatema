@@ -1,12 +1,12 @@
 # CODEX I · DE NATURA ENTIUM
 
-## Definición
+## Sectio I — Definición de entidad
 
 Una entidad, en el sentido que usa este compendio, es toda inteligencia o fenómeno consciente de naturaleza no humana que posee voluntad propia, capacidad de percibir e interactuar con el mundo material, y algún grado de permanencia más allá de un evento aislado. Esta definición excluye fenómenos puramente mecánicos o residuales sin voluntad (que se tratan en el Codex de los Espectros como categoría aparte) y excluye también facultades humanas como la percepción extrasensorial, que no son entidades sino capacidades del propio observador y se desarrollan en el Codex del Velo.
 
 Toda entidad documentada se ordena en ocho órdenes. La pertenencia a un orden no es una etiqueta decorativa: determina el tipo de contacto que es posible establecer, el instrumental necesario, la lógica que sigue la entidad al negociar o resistirse, y el riesgo específico de cada aproximación. Confundir el orden de una entidad es la causa más común de fracaso y de daño en cualquier intento de contacto.
 
-## Los Ocho Órdenes
+## Sectio II — Los Ocho Órdenes
 
 ### Orden Adversarial
 
@@ -58,7 +58,7 @@ Comprende animales cuya existencia se sostiene por avistamiento reiterado y docu
 
 La frontera entre esta orden y la Quimérica es la más porosa de las ocho: buena parte de los avistamientos que alimentan la Orden Críptida describen capacidades o comportamientos que exceden lo que la biología conocida permite, y la única razón para mantenerlos en categorías separadas es metodológica, no de certeza sobre su naturaleza real.
 
-## Ejes de Clasificación Transversal
+## Sectio III — Ejes de clasificación transversal
 
 Además del orden, toda entidad se describe según tres ejes adicionales que atraviesan las ocho categorías.
 
@@ -72,7 +72,7 @@ La Peligrosidad asignada a cada ficha del Bestiario no mide fuerza bruta sino tr
 
 Baja: sin amenaza directa documentada, o limitada a inconveniente menor. Moderada: capaz de causar daño real, pero el daño es condicional o la contramedida es fiable y accesible sin preparación especializada. Alta: capaz de causar daño grave, con contramedida que exige preparación no trivial o un margen de error estrecho. Letal: el desenlace documentado por defecto, ante un error o ante la ausencia de contramedida, es la muerte, sin margen de recuperación. Variable: reservado en exclusiva para entidades cuya propia fuente documenta disposiciones contradictorias sin resolución posible entre sí.
 
-## Casos Frontera y Excepciones
+## Sectio IV — Casos frontera y excepciones
 
 Ciertas entidades documentadas no encajan de forma limpia en un único orden. Algunas entidades de rango alto en la Orden Adversarial se manifiestan con morfología compuesta indistinguible de la Orden Quimérica, lo cual ha llevado históricamente a confusión entre ambas categorías; el criterio de desambiguación no es la forma sino el procedimiento de contacto que resulta efectivo: si responde a nombre y sello, pertenece a la Adversarial con independencia de su apariencia.
 
@@ -80,7 +80,7 @@ Las entidades vinculadas a la transformación corporal de un ser humano vivo, ca
 
 Los familiares vinculados a practicantes de brujería —tratados en el Codex del Maleficio— tampoco encajan de forma estable: son, en la práctica documentada, entidades de la Orden Liminar o Elemental que aceptan un vínculo de servicio prolongado con un humano específico, lo cual no ocurre de forma espontánea en ninguna otra combinación de orden y disposición.
 
-## Riesgos de una Clasificación Incorrecta
+## Sectio V — Riesgos de una clasificación incorrecta
 
 Cada orden exige un procedimiento distinto de aproximación, y aplicar el procedimiento equivocado no es simplemente ineficaz sino activamente peligroso. Tratar a una entidad de la Orden Liminar con la lógica de nombre-y-sello propia de la Adversarial no produce sumisión sino ofensa, y la respuesta documentada a esa ofensa incluye desde el retiro permanente de cualquier favor hasta represalias dirigidas contra el entorno inmediato del ofensor. A la inversa, tratar a una entidad de la Orden Adversarial con la lógica de reciprocidad propia de la Liminar, ofrecer sin exigir sumisión previa, elimina la única ventaja estructural que el invocador tiene sobre ella y la deja en libertad de actuar según su naturaleza sin restricción.
 

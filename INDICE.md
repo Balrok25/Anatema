@@ -6,12 +6,11 @@
 ## PARS I · FUNDAMENTA (Los Fundamentos)
 
 ### CODEX I · DE NATURA ENTIUM (La Naturaleza de las Entidades)
-- Definición de entidad
-- Los Ocho Órdenes
-- Nombres de los nueve coros angélicos (pendiente de detallar)
-- Ejes de clasificación transversal
-- Casos frontera y excepciones
-- Riesgos de una clasificación incorrecta
+- Sectio I. Definición de entidad
+- Sectio II. Los Ocho Órdenes (nombres de los nueve coros angélicos pendientes de detallar)
+- Sectio III. Ejes de clasificación transversal
+- Sectio IV. Casos frontera y excepciones
+- Sectio V. Riesgos de una clasificación incorrecta
 
 ### CODEX II · VELUM (El Velo)
 - Sectio I. Energías y percepción
