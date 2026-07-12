@@ -160,7 +160,7 @@ Piénsalo desde el otro lado del velo. Para una entidad que percibe la energía 
 
 ¿Qué es lo más oculto en un mundo donde todo lo oculto brilla? Lo que no brilla.
 
-El demonio más lucífugo de la orden adversarial puede ser convocado si se conoce su sello. El espíritu más esquivo responde a su ritmo de tambor. La entidad más antigua tiene un nombre verdadero, y quien lo aprende la sujeta. El nulo no. No hay sello que lo llame, ni nombre que lo ate, ni círculo que lo contenga, porque no hay nada con lo que el círculo pueda acoplarse. Es la única figura de todo este compendio que no puede tener ficha. He escrito cientos de fichas. Esa imposibilidad me parece la definición más honesta que puedo ofrecer.
+El demonio más lucífugo de la orden adversarial puede ser convocado si se conoce su sello. El espíritu más esquivo responde a su ritmo de tambor. La entidad más antigua tiene un nombre verdadero, y quien lo aprende la sujeta. El nulo no. No hay sello que lo llame, ni nombre que lo ate, ni círculo que lo contenga, porque no hay nada con lo que el círculo pueda acoplarse. Es la única figura de todo este compendio a la que le escribí una ficha entera para no describir nada. He escrito cientos de fichas. Esa imposibilidad me parece la definición más honesta que puedo ofrecer.
 
 Y aquí está lo que tardé en ver. Para nosotros, el nulo es invisible porque parece una persona normal. Pero para ellos, para todo lo que este compendio cataloga, el nulo es otra cosa. Es la negación de su mundo entero, hecha carne. Donde él está, el velo no se adelgaza. La invocación no cruza. El pacto no encuentra a quien agarrar. Si nuestro mundo tiene santos y el suyo tiene reyes, esto no es ni lo uno ni lo otro. Es lo que ambos lados señalarían con la misma palabra.
 
