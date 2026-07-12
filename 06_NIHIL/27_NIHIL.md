@@ -24,7 +24,7 @@ La primera conexión surgió al observar el concepto moderno del vampiro energé
 
 Esa figura no es una invención reciente. La idea de una fuerza vital que puede transferirse de un cuerpo a otro es antiquísima, pero fue a comienzos del siglo XX cuando se formalizó como algo contra lo que había que protegerse. Los textos de la época describen el síntoma con una precisión casi clínica: un agotamiento desproporcionado a la actividad realizada, sin causa médica que lo explique, después de cada contacto sostenido con la misma persona. Y la defensa que proponen no es un exorcismo ni un ritual. Es aprender a sostener el propio límite, visualizar un cerco alrededor del propio cuerpo, reducir el tiempo de exposición. Como si la solución no fuera expulsar nada, sino cerrar la puerta desde dentro.
 
-Pero si se acepta como hipótesis que existe un extremo donde una persona puede actuar como un sumidero, surge una pregunta inevitable: ¿podría existir el extremo opuesto? Si un sistema puede absorber una influencia, ¿podría existir otro que impida que esa influencia se establezca? Si existe un depredador dentro de un modelo energético, ¿podría existir también un vacío?
+Pero si se acepta como hipótesis que existe un extremo donde una persona puede actuar como un sumidero, surge una pregunta inevitable: ¿podría existir el extremo opuesto? Si un sistema puede absorber una influencia, ¿podría existir otro que impida que esa influencia se establezca? Si existe alguien capaz de atraer esa energía y consumirla, ¿podría existir alguien capaz de repelerla y anularla?
 
 Esta idea llevó a reconsiderar el concepto de equilibrio. En todos los sistemas conocidos de la naturaleza aparecen mecanismos de compensación. Los sistemas físicos tienden hacia estados de equilibrio, las fuerzas interactúan, la energía se conserva y los organismos sobreviven mediante una relación constante con su entorno. Ningún sistema existe completamente aislado. Todo está definido por la forma en la que interactúa con aquello que lo rodea.
 
@@ -128,7 +128,7 @@ No acudió. Acudió su ausencia. Esto es lo que quedó sobre el papel:
 
 *Orden / Clasificación: ninguna; mis órdenes clasifican lo que se manifiesta, y él es lo que no*
 
-**Imagen:** ninguna; nadie lo ha mirado dos veces
+**Imagen:** ninguna; el rostro que olvidas mientras aún lo miras
 
 **Peligrosidad:** nula para ti; absoluta para todo lo demás que contiene este libro
 
@@ -138,7 +138,7 @@ No acudió. Acudió su ausencia. Esto es lo que quedó sobre el papel:
 
 **Capacidades documentadas:** ninguna; esa es la capacidad
 
-**Territorio:** cualquier silla de cualquier sala; puede que la de al lado de la tuya
+**Territorio:** cualquiera; el de una persona normal
 
 **Actividad:** constante, invisible, medida solo en lo que deja de ocurrir
 
