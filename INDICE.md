@@ -70,7 +70,7 @@
 - Sectio I. Gematría
 - Sectio II. Numerología
 - Sectio III. Procedimientos prácticos de reducción numérica
-- Sectio IV. Astrología práctica: carta natal, casas y aspectos (pendiente)
+- Sectio IV. Astrología práctica: cuerpos celestes, casas y aspectos, método de lectura combinada
 - Sectio V. Selección de días fastos: calendario chino y maya (pendiente)
 
 ### CODEX XII · ORDINES RITUALES (Las Órdenes Rituales)
