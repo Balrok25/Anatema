@@ -54,7 +54,7 @@
 ### CODEX VIII · ARTES MINORES (Las Artes Menores)
 - Sectio I. Hechizos y maleficios (ampliación pendiente: magia de nudos y cordón, sak yant)
 - Sectio II. Alquimia (ampliación pendiente: alquimia interior china, el homúnculo)
-- Sectio III. Hoodoo y trabajo de raíces (pendiente)
+- Sectio III. Hoodoo y trabajo de raíces: bolsa de mojo, magia de rastro, cruce de caminos, velas y baños rituales
 - Sectio IV. Magia del caos: sigilos y servidores (pendiente)
 
 ### CODEX IX · MALEFICIUM (La Brujería)
