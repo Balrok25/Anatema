@@ -46,7 +46,7 @@
 
 ### CODEX VII · MEDIUM (El Médium)
 - Sectio I. Instrumentos de contacto directo
-- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, feng shui, Vastu Shastra, espejo negro, lectura de posos, laberinto, sueños (ampliación pendiente: tarot)
+- Sectio II. Adivinación y contacto onírico: geomancia, runas, I Ching, quiromancia, feng shui, Vastu Shastra, tarot, espejo negro, lectura de posos, laberinto, sueños
 - Sectio III. Captación instrumental y marco de investigación
 
 ## PARS III · ARTES HUMANAE (Las Artes Humanas)
@@ -55,7 +55,7 @@
 - Sectio I. Hechizos y maleficios: talismán, maleficio, magia de nudos, marcado corporal ritual
 - Sectio II. Alquimia: las cuatro fases, correspondencias, multiplicación, vía interior china sin sustancia
 - Sectio III. Hoodoo y trabajo de raíces: bolsa de mojo, magia de rastro, cruce de caminos, velas y baños rituales
-- Sectio IV. Magia del caos: sigilos y servidores (pendiente)
+- Sectio IV. Magia del caos: sigilo de intención, el servidor y su mecanismo de terminación
 
 ### CODEX IX · MALEFICIUM (La Brujería)
 - Sectio I. Brujería y caza de brujas
@@ -114,7 +114,7 @@
 - Nota sobre los espíritus domésticos eslavos y escandinavos
 - Nota sobre las hadas y el otro mundo feérico
 - Ampliación de la corte feérica (pendiente)
-- Ficha del Aswang filipino (pendiente)
+- Ficha del Aswang filipino
 - Más duendes latinoamericanos (pendiente)
 
 ### CODEX XVIII · BESTIARIUM (El Bestiario) · ORDO CHIMAERICUS (Orden Quimérica)
@@ -123,19 +123,15 @@
 ### CODEX XIX · BESTIARIUM (El Bestiario) · ORDO SPECTRALIS (Orden Espectral)
 - Fichas de 20 entidades espectrales regionales: las 16 anteriores más Mara, Pesanta, Batibat y Boo Hag (ataque nocturno del durmiente)
 - Variantes regionales de la Dama Blanca (pendiente)
-- Fichas de entidades del ataque nocturno del durmiente: variantes regionales de la presencia que paraliza y oprime (pendiente)
 
 ### CODEX XX · BESTIARIUM (El Bestiario) · ORDO TRANSMUTATUS (Orden Transmutada)
 - Fichas de 12 entidades de transformación humana o no humana con forma secundaria: Licántropo, cambiapieles del suroeste, Kitsune, hambriento invernal, Vampiro, Selkie, Doncella Cisne, Tanuki, Rougarou, Nagual, Strigoi, Jiangshi
 - Nota sobre fiabilidad diagnóstica
 - Nota sobre enterramientos apotropaicos
-- Más variantes de no-muerto transformado: Strigoi rumano, Jiangshi chino (pendiente)
 
 ### CODEX XXI · CRYPTOZOOLOGIA (La Criptozoología)
-- Diez patrones de avistamiento documentados
+- 15 patrones de avistamiento documentados, incluidos habitante de pantano meridional, gusano rojo del desierto, cabeza acorazonada de ojos anaranjados, figura de niebla con cabeza en forma de pala, hombre alado de la torre
 - Nota metodológica sobre evidencia testimonial
-- 14 patrones documentados en total, incluidos habitante de pantano meridional, gusano rojo del desierto, cabeza acorazonada de ojos anaranjados, figura de niebla con cabeza en forma de pala
-- Ficha del hombre-búho de Cornualles (pendiente)
 
 ### CODEX XXII · BESTIARIUM (El Bestiario) · ORDO CAELESTIS (Orden Celestial)
 - Fichas de 4 arcángeles del coro Arcángel: Miguel, Gabriel, Rafael, Uriel
@@ -143,11 +139,9 @@
 
 ### CODEX XXIII · BESTIARIUM (El Bestiario) · ORDO GENIORUM (Orden de los Genios)
 - Fichas de 6 genios: Ifrit, Marid, Shaitán, Qarin, Peri, Div
-- Figuras persas afines: Peri y Div (pendiente)
 
 ### CODEX XXIV · BESTIARIUM (El Bestiario) · ORDO SPIRITUUM POSSESSORIUM (Orden de los Espíritus de Posesión)
 - Fichas de 6 espíritus de posesión: Legba, Ogun, Erzulie, Yemaya, Mami Wata, Anansi
-- Figuras panafricanas afines: Mami Wata y Anansi (pendiente)
 
 ### CODEX XXV · BESTIARIUM (El Bestiario) · ORDO REDIVIVORUM (Orden de los Reanimados)
 - Fichas de 2 cadáveres reanimados ajenos a la Orden Transmutada: Draugr y Zombi

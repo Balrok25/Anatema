@@ -69,3 +69,15 @@ El cruce de caminos se documenta en esta tradición como punto de máxima permea
 ### Velas y baños rituales
 
 Dos prácticas menores completan el repertorio distintivo de esta tradición: la vela de color asignado a un propósito fijo (roja para el afecto, verde para la prosperidad, blanca para la purificación general), tallada con el nombre de la persona objetivo y ungida con aceite antes de encenderse, siguiendo el mismo principio de consagración ya expuesto en el Codex de los Instrumentos; y el baño ritual, una inmersión o vertido de agua preparada con hierbas específicas sobre el cuerpo del practicante, empleado tanto para atraer una condición deseada como para retirar una condición no deseada ya instalada, con el agua usada desechada siempre fuera de la vivienda y nunca por un desagüe interior.
+
+## Sectio IV — Magia del caos: sigilos y servidores
+
+Una corriente de práctica desarrollada en la segunda mitad del siglo XX, distinta del resto de este Codex por su punto de partida declarado, sostiene que la creencia misma es una herramienta intercambiable según la tarea, no una verdad fija que el practicante deba sostener de forma permanente. Esta corriente conserva del resto del Codex el principio de compresión de intención en un símbolo, pero simplifica de forma deliberada el aparato ritual que rodea a esa compresión.
+
+### El sigilo de intención
+
+El método documentado con mayor extensión consiste en escribir la intención deseada como una frase declarativa breve y afirmativa, eliminar después las vocales y las consonantes repetidas de esa frase, y combinar las letras restantes en un diseño gráfico único que ya no se lee como texto sino que se percibe como forma. El sigilo resultante se carga alcanzando un estado de atención alterada o de intensidad emocional sostenida —mediante agotamiento físico, concentración extrema u otro método que interrumpa el diálogo interno habitual— y se olvida de forma deliberada inmediatamente después, bajo el principio de que la intención grabada actúa con mayor eficacia desde fuera del alcance de la atención consciente que la formuló.
+
+### El servidor
+
+Un procedimiento de mayor alcance construye una entidad de propósito único y acotado, distinta de cualquier entidad ya catalogada en el resto de este compendio porque no se invoca sino que se fabrica desde cero para una tarea concreta. La construcción exige definir con precisión la tarea que debe cumplir, asignarle un símbolo propio siguiendo el mismo principio del sigilo ya descrito, darle en ocasiones un nombre y una forma imaginada, y fijar de antemano un mecanismo de terminación explícito —un plazo, una condición de cumplimiento— para disolverlo una vez agotada su función. Omitir este mecanismo de terminación se documenta en esta tradición como el error más citado por sus propios practicantes: un servidor sin plazo ni condición de cierre puede continuar operando de forma autónoma después de que su tarea original ha perdido sentido, con efectos impredecibles sobre quien lo fabricó.

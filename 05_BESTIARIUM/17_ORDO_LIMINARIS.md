@@ -398,6 +398,28 @@ Entidad de figura humana de cintura para arriba y equina de cintura para abajo, 
 
 Guardián de la naturaleza y de tesoros ocultos, subordinado en el registro a una figura de autoridad que encabeza a toda esta categoría como señor de la riqueza del mundo. Su disposición general se documenta como benévola y generosa hacia quien respeta el lugar natural que custodia, aunque el mismo registro documenta también un margen consistente de conducta caprichosa o violenta que impide tratarlo como uniformemente seguro.
 
+### Aswang
+
+*Orden / Clasificación: Liminar, disposición hostil, umbral doble (día/noche)*
+
+**Imagen:** *(pendiente de fuente verificada)*
+
+**Peligrosidad:** Alta
+
+**Actuación:** Localizar y destruir la mitad inferior del cuerpo, dejada atrás durante el vuelo nocturno, impide su reintegración antes del amanecer; sal, ajo o especias afiladas dispuestas sobre la mitad inferior potencian esa contramedida.
+
+**Vulnerabilidades:** Incapaz de reintegrarse a su mitad inferior si esta se destruye, se sala o se cubre de especias antes de su regreso; el amanecer la obliga a completar la reintegración o quedar expuesta
+
+**Capacidades documentadas:** Apariencia humana ordinaria de día; de noche se segmenta a la altura de la cintura y la mitad superior vuela en busca de vísceras o de fetos no nacidos, extraídos mediante una lengua tubular y extensible
+
+**Territorio:** Filipinas
+
+**Actividad:** Nocturna; apariencia humana ordinaria durante el día
+
+**Invocable:** No
+
+Término general que agrupa a varias figuras emparentadas del folclore filipino, de las cuales la variante que se segmenta por la cintura es la más extensamente documentada: durante el día no se distingue de una persona cualquiera, y de noche la mitad superior del cuerpo se separa de la inferior y vuela en busca de vísceras humanas o de fetos no nacidos, que extrae mediante una lengua tubular capaz de alargarse a gran distancia. La mitad inferior permanece oculta en algún lugar mientras la superior caza, y localizarla y destruirla, salarla o cubrirla de especias antes de que la entidad regrese le impide reintegrarse, dejándola expuesta e indefensa con la llegada del amanecer.
+
 ### Nota sobre la fórmula de paso
 
 Independiente de cualquier entidad individual catalogada en esta Sectio, buena parte del sudeste asiático conserva la costumbre extendida de pronunciar una fórmula breve de disculpa antes de orinar, cortar vegetación o alterar de cualquier modo un lugar no urbanizado (la base de un árbol de gran tamaño, un montículo de tierra, un cruce de senderos), bajo el principio de que ese lugar puede estar habitado por una entidad invisible a la que la intrusión repentina ofende si no se la advierte primero. La práctica, documentada de forma extensa en Filipinas bajo una fórmula fija que se traduce aproximadamente como "con permiso", se mantiene vigente en el habla y la costumbre cotidiana contemporánea con independencia de la fe religiosa formal de quien la pronuncia, y ejemplifica del modo más directo posible el principio ya establecido en el Codex de la Naturaleza de las Entidades de que esta Orden ocupa los márgenes del espacio humano y exige reciprocidad, no sumisión, como forma de trato.
